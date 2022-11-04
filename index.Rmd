@@ -1,0 +1,22 @@
+---
+title: "Vybrané metódy používané v hodnotení EŠIF"
+author: "Dagmar Gombitová"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  Vydalo MIRRI ako metodickú príručku pre manažérov hodnotenia operačných programov.
+link-citations: yes
+#github-repo: rstudio/bookdown-demo
+---
+
+# Úvod 
+
+Cieľom tohto materiálu je poskytnúť stručný prehľad metód, ktoré sa v hodnotení najviac využívajú. Každá z metód obsahuje krátky popis toho, na aký účel sa najviac hodí, za akých podmienok sa dá použiť, postupnosť krokov pri jej aplikácii a záver obsahuje zhrnutie silných stránok a obmedzení, ktoré limitujú použitie metódy. Tento materiál je určený predovšetkým manažérom hodnotenia na riadiacich a sprostredkovateľských orgánoch Európskych štrukturálnych a investičných fondov. Môže im poslúžiť na rýchlu orientáciu v problematike a veríme, že pomôže pri plánovaní, príprave zadávacích podmienok, posudzovaní kvality návrhov predkladaných vo verejných súťažiach na externé hodnotenie, alebo ako pomôcka pri internom hodnotení. Všetky uvedené metódy sa týkajú ako ex ante, tak aj priebežného, záverečného či následného hodnotenia.
+
+Hlavný dôraz v EÚ financovaných intervenciách je kladený na výsledky. Hodnotenie by sa malo viac orientovať na poskytnutie dôveryhodných dôkazov o výkonnosti intervencií a zodpovedať základnú otázku, či intervencia skutočne fungovala alebo nie. Európska komisia žiada dôveryhodnejšie dôkazy o dopadoch intervencií. Aj keď sú takto zamerané hodnotenia náročnejšie ako doteraz preferované procesné hodnotenia (ktoré tiež majú svoj význam), sú aj napriek nedostatku dát v nejakej podobe realizovateľné. Veríme, že tento prehľad pomôže aj pri využívaní metód na hodnotenie výsledkov a dopadov. Ďalšiu relevantnú a viac detailnú literatúru k hodnoteniam nájdete aj na web stránke Partnerskej dohody . Množstvo usmernení a manuálov obsahujú web stránky Európskej komisie a voľne dostupné je veľké množstvo ďalších zdrojov k tejto téme v anglickom jazyku.
+
+Prajeme veľa úspešných hodnotení.
