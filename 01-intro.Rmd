@@ -1,11 +1,67 @@
-# Hello bookdown 
+# Základné metódy hodnotenia
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+## Pojmy
 
-## A section
+V súčasnej praxi často dochádza k zamieňaniu, resp. stotožňovaniu pojmov metóda a metodológia, preto je potrebné venovať zvýšenú pozornosť definovaniu a vymedzeniu základných pojmov.
 
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+*Nástroj* je používaný štandardne pri akomkoľvek hodnotení napr. dotazníkový prieskum, ktorý slúži na získanie názorov skupiny na určitú vec, jav a pod. V prípade dotazníkového prieskumu je nástrojom dotazník.
 
-### An unnumbered section {-}
+*Technika* je spôsob akým je nástroj používaný a často závisí od rozsahu resp. veľkosti vzorky.
+
+*Metóda* predstavuje postup alebo návod, ktorý slúži na dosahovanie určitého cieľa. Vývoj a aplikácia špecifickej, svojmu predmetu primeranej metódy je základným predpokladom a súčasťou každej vedy.
+
+*Metodika* je súbor metód, resp. nástrojov, ktoré používame na zodpovedanie otázok, či riešenie zadaní hodnotenia. *Metodológia* je vedná disciplína, ktorá sa zaoberá metódami, ich tvorbou a aplikáciou v praxi.
+
+Pojem *hodnotenie* je synonymom pojmu *evaluácia* resp. *evalvácia* a aj v ďalšom texte používame obidva pojmy v rovnakom význame, stretnete sa s pojmami ako evaluačná otázka, evaluačný prístup a pod. Projekt, program, ale aj politiku, proces alebo organizáciu, ktoré sú predmetom hodnotenia označujeme pre zjednodušenie pojmom *intervencia.*
+
+## Základné členenie metód
+
+Metódy na zber a analýzu údajov sa vo všeobecnosti delia do dvoch základných kategórií -- na kvantitatívne a kvalitatívne. Vo všeobecnosti platí, že kvantitatívne metódy pracujú s tzv. „tvrdými údajmi / číslami" kým kvalitatívne metódy pracujú s deskriptívnymi údajmi. Zjednodušene, údaje sú považované za kvantitatívne ak sú vyjadrené číselnými hodnotami a kvalitatívne, ak ide o slová. Kvalitatívne údaje môžu okrem textov zahŕňať aj fotografie, videá, nahrávky a iné podobné údaje.
+
+Hranica medzi kvantitatívnymi a kvalitatívnymi metódami, technikami či údajmi nebýva vždy jednoznačná. Jedným z problémov jednoznačnej klasifikácie metodológie na kvantitatívnu alebo kvalitatívnu predstavuje delenie metód na tie, ktoré slúžia na zber údajov a tie, ktoré slúžia na analýzu údajov. Údaje môžu byť získavané kvalitatívne (rozhovory, pozorovania) a napriek tomu môžu byť analyzované kvantitatívne. Príkladom sú niektoré štatistické metódy, ktoré využívajú kvalitatívne údaje. Rovnako, výsledky kvantitatívnej analýzy môžu byť zrozumiteľné len po kvalitatívnej interpretácii.
+
+Výber metódy záleží od typu evaluácie a evaluačných otázok. Ich bližšia špecifikácia sa spravidla stanoví v Úvodnej správe. Ak je zadefinovaný celkový evaluačný prístup, výber metód a nástrojov musí zohľadniť celkový kontext hodnotenej intervencie -- jej formu, účel evaluácie (zodpovedanie sa, zlepšenie riadenia, \...), jej načasovanie (ex-ante, priebežná, ex-post) a štádium evaluácie (zber údajov, ich analýza, interpretácia zistení a pod.).
+
+Všetky metódy a techniky majú svoje silné a slabé stránky, ktoré by mali byť pri ich výbere zohľadnené. Spoliehať sa na využitie len jednej metódy nie je postačujúce. Dostatočne valídne hodnotenie si vyžaduje tzv. trianguláciu, čiže overenie výsledkov využitím viacerých metód, príp. overenie údajov z viacerých zdrojov pri vypracovaní odpovedí na otázky zo zadania. V súčasnosti sa odporúča použiť kombináciu kvantitatívnych a kvalitatívnych techník, nazývané zmiešané metódy hodnotenia (mixed methods), ktoré prispievajú ku komplexnejšiemu porozumeniu hodnotenej oblasti.
+
+Vo všeobecnosti kvalitatívne a kvantitatívne údaje a metódy majú svoje silné a slabé stránky (Tab. 1, Tab. 2) a požiadavky použitia, ktoré ovplyvňujú rozhodnutie o výbere vhodného metodického prístupu vzhľadom na účely konkrétneho hodnotenia.
+
++--------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| Výhody kvantitatívneho prístupu                                                                                                | Nevýhody kvantitatívneho prístupu                                                                         |
++================================================================================================================================+===========================================================================================================+
+| -   je užitočný pri skúmaní veľkých skupín,                                                                                    | -   prepojené sekundárne údaje niekedy nie sú k dispozícii alebo prístup k nim je náročný, resp. nemožný, |
+|                                                                                                                                |                                                                                                           |
+| -   relatívne rýchly a priamočiary zber údajov,                                                                                | -   náročné na porozumenie kontextu alebo aktivít,                                                        |
+|                                                                                                                                |                                                                                                           |
+| -   zber údajov je zvyčajne nákladovo efektívny,                                                                               | -   získaná znalosť môže byť príliš abstraktná a všeobecná pre priamu aplikáciu v miestnych podmienkach.  |
+|                                                                                                                                |                                                                                                           |
+| -   hodnotiteľ môže konštruovať situáciu tak, že eliminuje pôsobenie rušivých premenných a preukáže vzťah príčina -- následok, |                                                                                                           |
+|                                                                                                                                |                                                                                                           |
+| -   výsledky je možne zovšeobecniť, v prípade že proces výberu reprezentatívnej vzorky bol uskutočnený vhodným spôsobom.       |                                                                                                           |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+
+: Výhody a nevýhody použitia kvantitatívneho prístupu. Zdroj: vlastné spracovanie, Gombitová (2007), Hendl (2005)
+
++----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Výhody kvalitatívneho prístupu                                                         | Nevýhody kvalitatívneho prístupu                                                  |
++========================================================================================+===================================================================================+
+| -   získava podrobný popis a nadhľad pri skúmaní jedinca, skupiny, udalosti, fenoménu, | -   zber údajov je obyčajne časovo náročný a nákladný,                            |
+|                                                                                        |                                                                                   |
+| -   poskytuje viac detailných informácii za účelom vysvetlenia komplexných problémov,  | -   získaná znalosť nemusí byť zovšeobecniteľná na populáciu a na iné prostredie, |
+|                                                                                        |                                                                                   |
+| -   skúma fenomén v prirodzenom prostredí,                                             | -   je náročné testovať hypotézy a teórie,                                        |
+|                                                                                        |                                                                                   |
+| -   umožňuje študovať procesy,                                                         | -   výsledky sú ľahko ovplyvnené výskumníkom a jeho osobnými preferenciami.       |
+|                                                                                        |                                                                                   |
+| -   dobre reaguje na miestne podmienky a situácie,                                     |                                                                                   |
+|                                                                                        |                                                                                   |
+| -   hľadá lokálne príčinné súvislosti.                                                 |                                                                                   |
++----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+
+: Výhody a nevýhody kvalitatívneho prístupu. Zdroj: vlastné spracovanie, Gombitová (2007), Hendl (2005)
+
+V ďalších častiach popisujeme rôzne metódy a techniky, ktoré sú najčastejšie využívané pri hodnotení intervencií -- ich stručný popis, využitie, postupnosť krokov ako aj výhody a obmedzenia metódy.
+
+### An unnumbered section {.unnumbered}
 
 Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
