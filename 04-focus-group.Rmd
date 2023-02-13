@@ -1,0 +1,51 @@
+# Fokusové skupiny
+
+Fokusová skupina[^04-focus-group-1] predstavuje osvedčenú metódu -- formu štruktúrovanej diskusie, kedy účastníci spoločne diskutujú o vopred vybranej téme. Dôležitú úlohu zohráva moderátor, ktorý usmerňuje diskusiu. Táto metóda je obzvlášť používaná za účelom analýzy tém alebo oblastí, ktoré vyvolávajú rozdielne názory alebo sa týkajú zložitých problémov, ktoré je potrebné dôkladne preskúmať.
+
+[^04-focus-group-1]: niekedy sa v odbornej  literatúre stretávame s pojmom ohnisková skupina
+
+Vo všeobecnosti zloženie fokusovej skupiny zahŕňa relatívne homogénnu skupinu šesť až osem ľudí, ktorí sa stretnú obyčajne raz za účelom diskusie na vopred dohodnutú tému resp. problém. Dĺžka stretnutia sa pohybuje od 90 do 120 minút. Diskusiu skupiny vedie moderátor (hodnotiteľ), ktorý nastoľuje témy a kladie otázky. Aj keď fokusové skupiny a ďalšie druhy diskusií si obyčajne vyžadujú fyzickú prítomnosť účastníkov, v súčasnosti rastie záujem o virtuálnu komunikáciu v rámci skupiny. Veľmi populárne je vedenie skupinovej diskusie prostredníctvom on-line technológií.
+
+## Účel metódy
+
+Fokusová skupina umožňuje zoskupiť (zhromaždiť), súčasne alebo postupne, rozdielnych účastníkov programu (manažérov, prevádzkový personál alebo príjemcov služieb) a zozbierať zväčša kvalitatívne informácie v relatívne krátkom časovom horizonte. V rámci vzájomného zdieľania a porovnávania skúseností a pohľadov, účastníci fokusových skupín prinášajú svoje poznatky, názory a pohľady.
+
+V nadväznosti na interakciu a konfrontáciu rozličných uhlov pohľadu na danú tému, táto metóda slúži k odhaleniu vnímania a názorov účastníkov na témy a otázky nevyhnutné k realizácii predmetného hodnotenia. Tieto sa môžu týkať  implementácie, výstupov alebo výsledkov intervencie. Táto metóda môže slúžiť aj na vyhodnocovanie citlivých tém. Fokusová skupina je nástrojom participatívnej formy hodnotenia. Zahrnutím aktérov (vrátane príjemcov podpory programu) ako spolupracovníkov, účastníkov hodnotenia tak je zabezpečené, že závery štúdie (hodnotenia) budú dôveryhodnejšie a lepšie akceptovateľné. Fokusová skupina môže byť použitá za účelom overenia zozbieraných údajov alebo na ich doplnenie.
+
+## Podmienky použitia
+
+Fokusová skupina je primárnym zdrojom kvalitatívnych údajov, obyčajne kombinovaná s inými kvalitatívnymi metódami. Túto metódu je dobre použiť v tých prípadoch, kedy hodnotiace úlohy a problémy, ktoré je potrebné riešiť, vyvolávajú odlišné možnosti riešenia a diskusia môže viesť k hlbšiemu a dôslednejšiemu prehodnoteniu viacerých hľadísk. Fokusová skupina predstavuje významnú metódu pri zbere údajov, kde je významný rozdiel medzi realizátormi intervencie a tými, ktorí rozhodujú. Vo všeobecnosti príklady dobrej praxe poukazujú na to, že najlepšie je pracovať s homogénnou ale kontrastnou skupinou, čím sa produkujú informácie, ktoré môžu vysvetliť rozličné pohľady, skúsenosti a názory, rozličných zainteresovaných strán.
+
+Fokusová skupina predstavuje bežne používaný nástroj pri zbere údajov potrebných na vykonávanie rôznych druhov hodnotení EŠIF. Môže byť použitá na testovanie inovatívnych opatrení, objasnenie cieľov intervencie, vyhodnotenie a identifikovanie problémov a potrieb regiónu či zlepšenie prebiehajúcej intervencie. Použitie tohto nástroja je relevantné vo všetkých typoch hodnotenia.
+
+## Hlavné kroky
+
+*1. Výber účastníkov*
+
+Zloženie skupiny a počet stretnutí fokusovej skupiny, závisí od konkrétnych požiadaviek hodnotenia. Je vhodné vybrať účastníkov takým spôsobom, aby sa zabezpečil určitý stupeň homogenity v rámci skupiny a vyformovalo sa niekoľko skupín rozličného zloženia. Obmedzenie práce na jednu skupinu môže ohroziť vierohodnosť štúdie. Neodporúča sa vytvárať skupinu tak, že existuje významná nerovnováha v pracovnom postavení (zaradení) v rámci skupiny. Rozmanitosť (rozdielnosť) v iných charakteristikách[^04-focus-group-2] zastúpených v každej fokusovej skupine je však žiaduca. Optimálne číslo účastníkov je 6 až 8 na skupinu, čím má každá osoba možnosť vyjadriť sa k danému problému. Obyčajne sa účastníci fokusovej skupiny vzájomne nepoznajú a to prispieva k hodnovernosti predmetnej štúdie. Avšak v niektorých prípadoch to môže byť prospešné pracovať s prirodzene sa formujúcou skupinou. Napríklad, ak sa téma na hodnotenie sústreďuje na to ako organizácia chápe politický cieľ a ako si to predstavuje v praxi. Účastníci sú niekedy odmeňovaní; môže ísť o preplatenie cestovných výdavkov, zabezpečenie občerstvenia a pod.
+
+[^04-focus-group-2]: Vek, pohlavie, kompetencie...
+
+*2. Výber a školenie moderátorov diskusie*
+
+V skupinovej diskusii má kľúčovú úlohu moderátor. Táto úloha si vyžaduje dobré organizačné vlastnosti, schopnosť vytvoriť atmosféru, v ktorej sa účastníci budú cítiť pohodlne a udržať ich záujem až do konca stretnutia. Úloha moderátora si vyžaduje aj dobré komunikačné vlastnosti, vedomosti o prejednávanom probléme a  kapacitu skúmať predloženú tému do hĺbky. Moderátor vedie diskusiu a kladie účastníkom otázky, musí sa držať témy/problému a rešpektovať „citlivé zóny" respondenta. Môže vyvolať situácie, do ktorých by sa respondent inak nedostal, nesmie ale u respondenta vyvolať nátlak. Ide mu predovšetkým o naplnenie cieľa výskumu. V rámci kvalitatívneho rozhovoru môže moderátor od respondenta chcieť vysvetlenie jeho činov a postojov.
+
+Dôležitým prvkom je vybrať moderátorov, ktorí disponujú vyššie uvedenými vlastnosťami, alebo zabezpečiť ich prípravu. Je užitočné mať k dispozícii spolupracovníka pre moderátora, hlavne ak zasadnutie nie je nahrávané. V takomto prípade spolupracovník moderátora môže zaznamenať poznámky, zatiaľ čo moderátor vedie a usmerňuje diskusiu.
+
+*3. Definovanie tém*
+
+Nevyhnutnosťou pre správne smerovanie fokusovej skupiny je definovanie a obmedzenie diskutovaných tém tak, aby všetci účastníci mali možnosť participovať v diskusii. Zoznam štyroch alebo piatich otvorených otázok vyjadrených jednoduchým jazykom je pre bežnú fokusovú skupinu obyčajne dostatočný. Úlohou moderátora je zapojiť do diskusie k danej otázke alebo téme čo najviac účastníkov .
+
+*4. Priebeh diskusie*
+
+Diskusia má byť otvorená, uvedie sa jej účel a kladú sa jednoduché otázky. To umožní každému účastníkovi zapojiť sa. V priebehu diskusie je potrebné, aby smerovala k podstate problému. Cieľom moderátora je smerovať diskusiu tak, aby bolo možné získať čo najviac relevantných informácií vo vyhradenom čase. To znamená vedieť sa správne rozhodnúť kedy vstúpiť do diskusie s inou témou a kedy umožniť voľný priebeh diskusie s minimálnymi intervenciami.
+
+*5. Analýza a vykazovanie výsledkov*
+
+Záverečná fáza je zložená zo zhrnutia a porovnania informácií získaných od účastníkov a hľadania rovnakých a odlišných stanovísk. Zhromaždené informácie sú kódované. Interpretácia údajov musí rozlíšiť čo považujú účastníci za zaujímavé a čo považujú za dôležité. Analýza závisí od počtu fokusových skupín a od povahy rozhovorov (štruktúrovaná forma). Výsledky z rôznych skupín sú následne porovnávané.
+
+## Silné stránky a obmedzenia
+
+Tento typ metódy poskytuje možnosť získať podrobnejšie informácie týkajúce sa diskutovanej témy alebo problému. Vzhľadom k tomu, že údaje sa získavajú v rámci diskusie v skupine, pohľad na danú tému je menej ovplyvnený interakciou s výskumníkom ako pri  individuálnom rozhovore. Vzhľadom na počet osôb zúčastnených na fokusovej skupiny umožňuje skupinová diskusia dospieť k všeobecnému názoru na konkrétnu intervenciu, pričom istá „kontrola kvality" sa deje diskusiou, čo umožňuje vylúčenie extrémnych názorov. Ďalšou výhodou je, že v krátkom časovom horizonte (1,5 hodiny -- 2 hodiny), je možné zozbierať veľké množstvo kvalitatívnych informácií. Táto technika si však vyžaduje špecifické zručnosti moderátora na manažovanie skupinovej dynamiky a vybalansovanie diskusie.
+
+

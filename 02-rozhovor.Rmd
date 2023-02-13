@@ -1,0 +1,73 @@
+Rozhovor (interview) sa používa v prípade, ak je potrebné získať špecifické informácie a získať komplexný pohľad na daný problém. Ide o metódu, ktorá slúži na zber kvalitatívnych údajov a názorov tých osôb, ktoré sú dotknuté (ovplyvnené) implementáciou alebo výsledkami určitého programu / projektu (intervencie). Základné formy rozhovoru je možné rozdeliť na:
+
+-   neformálny (neštruktúrovaný) rozhovor,
+
+-   pološtruktúrovaný rozhovor (semi-structured interview),
+
+-   štruktúrovaný rozhovor.
+
+K najčastejšie používanej forme v hodnotení Európskych štrukturálnych a investičných fondov (EŠIF) patrí pološtruktúrovaný rozhovor, ktorému je podrobnejšie venovaná pozornosť v nasledujúcej časti.
+
+## Účel metódy
+
+Individuálne rozhovory, ako technický termín, predstavujú získavanie informácií prostredníctvom priameho dopytovania (dotazovania).
+
+Rozhovory môžu pomôcť: \* poskytnúť spätnú väzbu na všetky aspekty vstupov (inputs), aktivít, výstupov (outputs), výsledkov (outcomes) a dopadov / vplyvov (impacts). Ide o  spôsob poznávania a skúmania názorov aktérov (príjemcov podpory a ďalších zainteresovaných strán) intervencie. \* poskytnúť popis správania sa aktérov v priebehu trvania intervencie. Ak je rozhovor vykonaný viac ako raz alebo ak je vedený s niekým kto bol zapojený do intervencie na dlhšie časové obdobie, rozhovory môžu ukázať, či došlo k nejakej zmene počas trvania intervencie. Individuálny rozhovor je výskumná technika, ktorá slúži na získavanie relevantných informácií od oslovených osôb participujúcich na intervencii. Je vhodný pri skúmaní spôsobov, ktorými bola vykonaná intervencia alebo za účelom  určenia osvedčených postupov. \* odhaľovať odlišné skúsenosti a postoje. V skupine nie je často vidieť, že skúsenosti a postoje jednotlivca môžu byť rôzne. \* poskytovať skratku ku komunitným normám. Rozhovor s kľúčovým lídrom komunity (obľúbený učiteľ,...) môže poskytnúť rýchly prehľad o komunite, jej potrebách a záujmoch. \* prispieť k rozvoju iných výskumných metód. Niektorí hodnotitelia používajú hĺbkové rozhovory (in-depth interviews) s cieľom získania informácií, ktoré môžu potom použiť za účelom rozvoja kvantitatívnych prieskumov keď už majú lepší prehľad o tom, čo sa deje s intervenciou a aké sú kľúčové problémy. Iní zistia, že rozhovory im poskytli všetky informácie, ktoré potrebujú.
+
+## Podmienky použitia
+
+Každé hodnotenie obyčajne zahŕňa rozhovory, ako napríklad rozhovory s programovým manažérom, zainteresovanými stranami a často prijímateľmi a účastníkmi. Nedá sa povedať, že rozhovory sú vhodné alebo nevhodné ale skôr môžu byť preferované pre určitý typ hodnotenia za určitých podmienok. O tom, kedy je vhodné ich použiť, často rozhodujú náklady a čas, zvyčajne je to s menším počtom respondentov.
+
+Rozhovor je popri iných metódach často používaný v hodnotení štrukturálnych intervencií. Rozhovory s programovými manažérmi a prijímateľmi sú jednou z najčastejšie používaných metód v  hodnotení intervencií EŠIF. Základný princíp spočíva vo výbere niekoľkých prijímateľov alebo manažérov, v závislosti na charakteristike implementovaných opatrení a dotknutej cieľovej skupine.
+
+Rozhovor ako analytická metóda je jednou z mála metód, ktoré umožňujú získať stručný prehľad o intervencii. Voľne štruktúrované rozhovory -- neformálne konverzácie s manažérmi a ďalšími dotknutými osobami -- môžu byť použité na identifikovanie tých častí intervencie, ktorým je potrebné venovať väčšiu pozornosť. Rozhovory s tvorcami politík môžu byť dôležité vo fáze prípravy hodnotenia a stanovenia kľúčových výstupov, ktoré tvorcovia politík potrebujú. Individuálnymi rozhovormi s kľúčovými aktérmi môže hodnotiteľ zistiť aké témy považujú respondenti za priority a čo chcú riešiť v rámci hodnotenia.
+
+Rozhovory môžu tiež potvrdiť relevantnosť a získať informácie týkajúce sa intervencií sociálneho charakteru, kde prijímatelia často majú nedostatok motivácie na vypĺňanie dotazníka (napríklad o opatreniach na zamestnávanie dlhodobo nezamestnaných, ktorí absolvovali školiaci kurz).
+
+## Hlavné kroky
+
+*1. Výber respondentov*
+
+Vzorka (počet respondentov) zapojená do rozhovorov je vo všeobecnosti menšia ako v prípade dotazníkového prieskumu. Počet rozhovorov závisí od cieľa štúdie, od možných reakcií a od dostupných zdrojov (vo všeobecnosti 20 až 60 rozhovorov). Vybraná vzorka často vychádza z výberu charakteristických čŕt populácie (diverzifikovaná vzorka). Vzorka môže byť vybratá buď priamo (cez zoznamy, členstvo v rôznych relevantných organizáciách) alebo výberom tretej strany, čo umožňuje cielenejší výber ale s rizikom skreslenia.
+
+*2. Plánovanie rozhovoru*
+
+Plánovanie rozhovoru zahŕňa zostavenie návodu / príručky pre vedenie rozhovoru. Tá obsahuje špecifikáciu tém, ktoré budú predmetom rozhovoru. Nie je nutné postupovať presne po poradí, príručka má slúžiť ako kontrolný zoznam umožňujúci osobe, ktorá sa pýta skontrolovať, či boli položené všetky základné otázky. Pýtajúci sa môže upravovať spôsob vedenia rozhovoru a môže formulovať nové otázky. Prvé rozhovory môžu indikovať potrebu upraviť alebo zmeniť poradie alebo formuláciu otázok, predovšetkým vtedy keď majú respondenti problém odpovedať. Často je užitočné získať od respondentov základné informácie v predstihu, aby samotný rozhovor netrval príliš dlho. Osvedčilo sa poskytnúť respondentom témy, ktorých sa bude rozhovor týkať, aby si mohli pripraviť všetky potrebné informácie. Pred začiatkom rozhovoru musí byť respondent oboznámený s účelom rozhovoru, s tým ako dlho bude rozhovor trvať, komu a ako budú informácie sprístupnené. Je užitočné poznať postavenie aktérov a na základe toho vytvoriť harmonogram rozhovorov podľa ich vzťahu k intervencii.
+
+*3. Výber a školenie osôb, ktoré budú viesť rozhovor*
+
+Vedenie rozhovoru musí byť profesionálne. Ten, kto bude viesť rozhovor musí disponovať dobrými komunikačnými a sociálnymi schopnosťami s cieľom zabezpečiť hladký priebeh rozhovoru a vytvoriť príjemné prostredie na komunikáciu pre respondenta. Čím menej je rozhovor štruktúrovaný tým viac musí osoba, ktorá vedie rozhovor poznať problematiku, na ktorú je rozhovor zameraný.
+
+*4. Priebeh rozhovoru*
+
+Osoba, ktorá vedie rozhovor musí rešpektovať stanovisko respondenta, musí sa orientovať v diskutovanej problematike a  vedieť identifikovať súvislosti. Prvý kontakt je veľmi dôležitý a je základom komunikácie. Rozhovor nemôže byť vedený sugestívne, aby neovplyvnil respondenta alebo smerovanie jeho odpovedí; môže byť zaznamenaný, aby nedošlo k skresleniu informácií alebo ich opomenutiu. Avšak, v niektorých prípadoch, pri nahrávaní zvukového záznamu môžu byť respondenti menej ochotní poskytnúť pravdivú a úplnú odpoveď. Prepis rozhovoru, alebo jeho zhrnutie môže byť autorizované respondentom.
+
+*5. Analýza výsledkov*
+
+Záverečná fáza pozostáva z analýzy rozhovorov, interpretácie a porovnania informácií získaných od respondentov a zisťuje spoločné a rozdielne črty postojov respondentov za účelom vypracovania záverečného hodnotenia. Môže byť pripravené zhrnutie, ktoré sa sústredí na rovnaké informácie z rozhovorov alebo ich analýzu .
+
+Za účelom analýzy výsledkov je následne vytvorená analytická tabuľka (analysis grid) vychádzajúca z odpovedí a hypotéz. Táto tabuľka je vysvetľujúci nástroj ku každej správe z rozhovoru. Po ukončení rozhovorov a spísaní správy by mali byť všetky dokumenty a nahrávky uložené na bezpečnom mieste. Prístup k týmto údajom by mali mať len vybraní zamestnanci, ktorí nahrali alebo spracovali údaje a analytici.
+
+## Silné stránky a obmedzenia
+
+Individuálne rozhovory sú v hodnoteniach EŠIF pomerne kľúčové. Na pochopenie komplexných problémov je potrebný hĺbkový výskum. Individuálne rozhovory, poskytujú pohľady jednotlivých respondentov a ich vysvetlenie, bez akýchkoľvek vplyvov od iných účastníkov (čo môže nastať v prípade fokusových skupín). Individuálne rozhovory sú obzvlášť vhodné pre získanie prehľadu v procesoch.
+
+Výhodou tejto metódy je, že poskytuje podrobné informácie o postojoch, faktoch a správaní respondentov. To umožňuje prepojiť skupinu prvkov, ktoré poskytujú široký záber informácií na danú tému. Dobre vedený rozhovor môže poskytnúť prehľad o mechanizmoch implementácie, nájsť kauzálne väzby v konkrétnych intervenciách a tak pomôcť identifikovať úspechy a zjavné nedostatky.
+
+V určitých prípadoch sú individuálne rozhovory preferované, napr. v porovnaní so skupinovou diskusiou alebo iným metódami kde na úsudok jednotlivca vplývajú aj iné faktory. Rozhovory sú tiež jednou z najlepších možností ako zapojiť populáciu s nižším stupňom vzdelania. Štruktúrované rozhovory môžu nahradiť dotazníky pre respondentov, ktorí by mohli mať ťažkosti pri ich vypĺňaní.
+
+Okrem toho, individuálne rozhovory sú v porovnaní so skupinovými, často jednoduchšie. Kľúčovou výhodou je úroveň detailov, ktoré sa dajú získať. V rozhovore je väčší priestor nadviazať na odpovede ďalšími otázkami. Je jednoduchšie podrobne diskutovať problém s jednou osobou ako so skupinou. Individuálne rozhovory sú menej náročné aj na plánovanie.
+
+Napriek tomu má aj táto metóda svoje nevýhody. Pri individuálnych rozhovoroch je veľkosť vzorky obyčajne menšia a výber účastníkov (respondentov) sa nerobí náhodne. Individuálny rozhovor berie do úvahy situačné a individuálne faktory, takže niekedy je pri vyhodnocovaní náročné urobiť všeobecný záver. Takto je síce možné identifikovať efekty (účinky) a možné príčiny, ale nie je ich možné použiť na meranie dopadov.
+
+Ak má byť daná metóda efektívna, vyžaduje si veľa času a profesionálne zručnosti. Špecifické zručnosti sú potrebné na plánovanie, vedenie aj interpretáciu rozhovorov; nedostačujúce zručnosti vedú k získaniu nedôveryhodných a nerelevantných informácií. Ďalším rizikom tejto metódy je subjektívnosť. Napriek tomu, že rozhovor vedú vyškolené osoby, stále je možné, že si osoby, ktoré vedú rozhovor, nerozumejú. Individuálny rozhovor ako metóda pripúšťa subjektivitu, spolieha sa však na integritu a čestnosť výskumníka. Osobné rozhovory nie sú anonymné a osoba vedúca rozhovor môže ovplyvniť odpovede. Okrem toho, úspech tejto metódy závisí na vedomostiach respondentov a ich spolupráci. Informácie môže skresliť aj výber respondentov.
+
+Záznam z rozhovoru môže v niektorých prípadoch obsahovať citlivé údaje, ktoré sa nesprístupňujú. Súkromie respondentov musí byť rešpektované a pri vedení rozhovorov sa neposkytujú dôverné informácie získané od iných respondentov. V žiadnom prípade by sa výsledky výskumu nemali odvolávať na konkrétne mená respondentov. Je potrebné si uvedomiť, že úlohou individuálneho rozhovoru je nájsť a zhromaždiť užitočné informácie, nie informovať subjekty o názoroch iných.
+
+## World Café
+
+Špeciálnou participatívnou metódou, ktorá sa v poslednom čase v hodnoteniach využíva je aj metóda World Café. Je to v podstate priestor pre skupinový dialóg/workshop. Účastníci (zvyčajne do 25 ľudí) vedú skupinové rozhovory v prostredí, ktoré pripomína kaviareň (miestnosť zariadená malými stolíkmi, s papierovými obrusmi, hudbou, občerstvením).
+
+Základná filozofia metódy World Café spočíva v tom, že ľudia majú skúsenosti a poznatky o tom, ako efektívne riešiť otázky rozhodovania alebo plánovania, a že prirodzený rozhovor je jednou z najlepších možností na riešenie. Účastníci sa v priebehu stretnutia striedajú pri stoloch, nadväzujú konverzácie, diskutujú nápady a problémy. Využíva sa tak kolektívna inteligencia a skúsenosti skupiny na riešenie konkrétnej otázky alebo problému.
+
+Na stretnutí World Café sú pri každom stole usadení štyria až piati účastníci. Diskutuje sa konkrétny problém, rozhodnutie alebo plán (často vo forme otázky). Každý stôl sa potom zapojí do konverzácie, zapíše si kľúčové myšlienky a nápady na papierové obrusy. Po 20 - 30 minútach sú účastníci požiadaní, aby sa presunuli k inému stolu - preniesli myšlienky z predchádzajúceho stola do novej skupiny. Počas tohto procesu zostáva za každým stolom „hostiteľ", ktorý zhrnie postrehy z predchádzajúcej diskusie s novými účastníkmi. Po dvoch až troch kolách v malých skupinách sa všetci účastníci zapoja do konverzácie vo veľkej skupine a zozbierajú sa nápady a odporúčania, ktoré sa dajú využiť.
