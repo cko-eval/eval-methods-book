@@ -1,0 +1,362 @@
+# Logický rámec
+
+## Účel
+
+Logický rámec (logframe) je nástrojom na plánovanie a riadenie
+intervencií. Má formu tabuľky (matice), ktorá jasným, jednoduchým,
+logickým a systematickým spôsobom poskytuje základné informácie
+o kľúčových komponentoch intervencie (projektu, programu,...). Popisuje
+hierarchiu cieľov (intervenčnú logiku), kritické faktory úspechu aj to
+ako budú monitorované a hodnotené prínosy intervencie. Logický rámec
+nemá žiadnu univerzálnu definíciu, je len modelom, nástrojom resp.
+pomôckou. Najčastejšie sa používa na plánovanie a prípravu intervencií.
+Slúži však aj počas realizácie, využíva sa pri monitorovaní aj hodnotení
+intervencií.
+
+Logický rámec je zjednodušenou schémou projektu, programu, alebo inej
+intervencie a predstavuje cestovnú mapu, ktorá je základom pre proces
+plánovania, riadenia, komunikácie a hodnotenia. Je to vysvetlenie toho,
+čo má intervencia dosiahnuť a ako to má dosiahnuť; inak povedané ako
+intervencia dosiahne svoje projektové/špecifické ciele a ako tieto ciele
+prispejú k dosiahnutiu celkových/strategických cieľov.
+
+Logický rámec teda sumarizuje štandardným spôsobom:
+
+-   Čo chce intervencia (projekt, program, ...) dosiahnuť, čiže ciele\
+-   Aké aktivity budú realizované na to, aby sa dosiahli výstupy
+    a ciele\
+-   Aké zdroje (vstupy) sú na to potrebné\
+-   Aké možné problémy (predpoklady a riziká) by mohli ohroziť úspech
+    intervencie\
+-   Ako bude meraný (ukazovatele) a overený (zdroje overenia) pokrok
+    a konečný úspech intervencie (projektu).
+
+Štandardná matica logického rámca označená poradím, v akom sa vypĺňajú
+jednotlivé časti.
+
++--------------+--------------+--------------+--------------+
+| **Popis      |              | **Zdroje na  |              |
+| projektu**   | **U          | overenie**   | **P          |
+|              | kazovatele** |              | redpoklady** |
++--------------+--------------+--------------+--------------+
+| 1 Celkový    | 8 Ako budeme | 9 Ako budú   | \            |
+| cieľ --      | merať        | zozbierané   |              |
+|              | strategický  | informácie,  |              |
+| Prí­spevok    | cieľ k       | kedy a kým   |              |
+| projektu     | v            |              |              |
+| k cieľom     | antitatí­vne, |              |              |
+| programu     | kvalitatí­vne |              |              |
+| (dopad)      | a v akom     |              |              |
+|              | čase         |              |              |
++--------------+--------------+--------------+--------------+
+| 2 Cieľ       | 10 Ako       | 11 Ako budú  | 7 Ak sme     |
+| projektu --  | budeme merať | zozbierané   | dosiahli     |
+| priamy       | cieľ         | informácie,  | projektové   |
+| prí­nos pre   | projektu k   | kedy a kým   | ciele, aký   |
+| cieľové      | v            |              | predpoklad   |
+| skupiny      | antitatí­vne, |              | musí­ byť     |
+| (výsledky)   | kvalitatí­vne |              | splnený, aby |
+|              | a v akom     |              | sme dosiahli |
+|              | čase         |              | strategické  |
+|              |              |              | ciele        |
++--------------+--------------+--------------+--------------+
+| 3 Výstupy -- | 12 Ako       | 13 Ako budú  | 6 Ak sme     |
+| hmatateľné   | budeme merať | zozbierané   | dosiahli     |
+| produkty,    | výstupy k    | informácie,  | výstupy, aký |
+| služby       | v            | kedy a kým   | predpoklad   |
+|              | antitatí­vne, |              | musí­ byť     |
+|              | kvalitatí­vne |              | splnený, aby |
+|              | a v akom     |              | sme dosiahli |
+|              | čase         |              | ciele        |
++--------------+--------------+--------------+--------------+
+| 4 Aktivity   | \            | \            | 5 Ak sú      |
+| -- úlohy,    |              |              | ukončené     |
+| ktoré musia  |              |              | aktivity,    |
+| byť urobené, |              |              | aký          |
+| aby sme      |              |              | predpoklad   |
+| dosiahli     |              |              | musí­ byť     |
+| výstupy      |              |              | splnený, aby |
+|              |              |              | sme dosiahli |
+|              |              |              | výstupy      |
++--------------+--------------+--------------+--------------+
+
+Prvý stĺpec logického rámca predstavuje logiku projektu / intervencie.
+Intervenčná logika prezentuje logický reťazec: vstup --\> výstup --\>
+výsledok --\> dopad (input --\> output --\> result --\> impact), t.j.
+aké zdroje využijeme, aké výstupy z nich prostredníctvom aktivít
+dostaneme a aké zmeny či prínosy (v krátkodobom a dlhodobom horizonte)
+budú výsledkami a dopadmi intervencie.
+
+Vstupmi sú všetky finančné, materiálne a ľudské zdroje potrebné na
+realizáciu aktivít. Môže to byť čas, ľudia, dobrovoľníci, peniaze,
+materiál, zariadenia, technológie, infraštruktúra, .... Vstupy sa
+prostredníctvom aktivít menia na výstupy. Aktivity sú teda činnosti, pri
+ktorých sú vstupy projektu transformované na výstupy. Aktivitou môže byť
+prieskum, projektové práce, výstavba, nákup vybavenia, zaškolenie
+personálu a podobne.
+
+Výstupy (outputs) sú produktom aktivít intervencie a môžu to byť
+zariadenia alebo vzdelávanie, či služby poskytnuté intervenciou. Sú
+jasne definované, časovo aj vecne, a smerujú k splneniu cieľa. Napríklad
+výstupom budovania čistiarne odpadových vôd je funkčná čistiareň, alebo
+výstupom školení sú preškolení nezamestnaní. Výstupy sú plne pod
+kontrolou zodpovedných operátorov teda tých, ktorí intervencie riadia a
+pravidelne o nich podávajú správy. Výstupy sa dajú kúpiť a sú
+rozpočtované. Ich neplnenie môže pre prijímateľa znamenať krátenie výšky
+dotácie.
+
+Výsledky[^08-logframe-1] (results, alebo aj immediate či short-term
+outcomes) sú okamžité výhody, efekty pre priamych príjemcov
+financovaných aktivít , napr. čistá voda v rieke, alebo pracovné miesta
+pre preškolených nezamestnaných. Operátori ich nemôžu plne kontrolovať a
+nedajú sa kúpiť. Sú ovplyvnené ďalšími externými faktormi, ktoré už nie
+sú pod kontrolou operátorov. Ak hovoríme o výsledkoch zaujíma nás čo sa
+zmenilo (výsledky), nie čo sme urobili (výstupy). Výsledok je zmena,
+ktorá bola cieľom intervencie a ktorú sme chceli dosiahnuť. Pýtame sa
+naň často aj otázkou „a čo"? Vyškolili sme nezamestnaných, a čo? Akú
+zmenu sme tým chceli dosiahnuť? Chceli sme ich motivovať? Zvýšiť ich
+šance, aby si našli prácu? Chceme, aby začali podnikať?
+
+[^08-logframe-1]: Pojmom výsledky sa niekedy sumárne označujú všetky
+    efekty intervencií, čiže výstupy, výsledky aj dopady
+
+Dopady (impacts alebo long-term outcomes) sú akékoľvek dôsledky
+intervencie nasledujúce po výsledku, t.j. v dlhšom čase a týkajú sa
+širšej skupiny obyvateľstva. Zvyčajne sa dajú hodnotiť až s odstupom
+času po ukončení intervencie. Niekedy je možné sledovať dopady
+s odstupom 1 -- 2 rokov (často v prípade infraštruktúrnych projektov),
+inokedy na sledovanie dopadov je potrebný podstatne dlhší čas (aj 15
+rokov a viac v prípade tzv. mäkkých projektov). Ak sa vrátime
+k predchádzajúcim príkladom, dopadom môže byť napr. zlepšenie stavu
+fauny a flóry, alebo znížená nezamestnanosť v regióne.
+
+## Ciele
+
+Každý projekt by mal prispieť k celkovému/strategickému cieľu, ktorý
+býva stanovený na vyššej úrovni (zväčša vo výzve ak ide o dopytovo
+orientované projekty). Tento cieľ je premietnutý do dlhodobého
+pozitívneho dopadu na širšiu populáciu (napr. zlepšenie kvality
+povrchových vôd, podpora sociálno-ekonomického rozvoja regiónu,
+či zníženie chudoby vo vidieckych oblastiach). Celkové/strategické ciele
+sú vyjadrené dopadmi, kým projektové ciele by sa mali premietnuť do
+výsledkov (napr. zlepšená kvalita vody v recipiente, získanie
+zamestnania a pod.). Niekedy sa uvádzajú aj operatívne ciele (čo sú
+vlastne aktivity) a tie sú vyjadrené vo výstupoch (napr. vybudovať ČOV,
+zrealizovať školenie).
+
+Cieľ projektu, zámer je definovaný ako plánované zlepšenie situácie --
+cieľový stav v konkrétnej oblasti, ktorý je dôsledkom realizovaných
+aktivít a výstupov projektu pri splnení nevyhnutných predpokladov. Je
+vyjadrením toho, čo chce projekt bezprostredne dosiahnuť (napr. zvýšiť
+poľnohospodársku produkciu) projektové ciele by sa mali premietnuť do
+výsledkov (napr. zlepšenie šance zamestnať sa pre dlhodobo
+nezamestnaných prostredníctvom školenia). Niekedy sa uvádzajú aj tzv.
+operatívne ciele a tie sú vyjadrené ako aktivity a premietajú sa do
+výstupov (napr. zrealizovať školenie dlhodobo nezamestnaných).
+
+```{r}
+DiagrammeR::grViz("graph2.gv")
+
+```
+
+## Hlavné kroky
+
+Plánovanie intervencie (projektu) a príprava logického rámca prebieha
+v dvoch fázach: ***analytickej*** a ***plánovacej***. Analytická fáza
+pozostáva zo štyroch analýz, a to z analýzy:
+
+1.  zainteresovaných strán,
+
+2.  problémov,
+
+3.  cieľov, a
+
+4.  stratégií
+
+*Analýza zainteresovaných strán*
+
+Táto analýza je technikou na identifikovanie kľúčových aktérov, na
+získavanie podpory a prekonanie odporu tých, ktorí majú z rôznych
+dôvodov výhrady voči realizácii projektu. Jej predmetom sú všetky
+subjekty, ktoré môžu intervenciu ovplyvniť, rozhodovať o nej, mať záujem
+na jej úspechu, či neúspechu. Základom analýzy je rozdelenie
+zainteresovaných strán do kategórií podľa ich vplyvu (príp. veľkosti) a
+podľa záujmu.
+
+```{=html}
+<table width="580" align="center" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey">Nemajú záujem</td>
+    <td style="background-color:grey">Majú záujem</td>
+  </tr> 
+  <tr>
+    <td style="background-color:grey">Veľký<br>vplyv</td>
+    <td>Užitoční na rozhodovanie:<br>uspokojte<br><strong>latentní</strong></td>
+    <td style="background-color:#0099ff">Najkritickejšia skupina:<br>spolupracujte<br><strong>promotóri</strong></td>
+  </tr>
+  <tr>
+    <td style="background-color:grey">Malý<br>vplyv</td>
+    <td style="background-color:bisque">Najmenej dôležití:<br>monitorujte alebo ignorujte <br><strong>apatickí</strong></td>
+    <td>Dôležití, potrebujú posilniť: <br>zainteresujte, informujte <br><strong>obhajcovia</strong></td>
+  </tr>
+</table>
+```
+Analýza sa snaží maximalizovať pozitívne dopady projektu (sociálne,
+ekonomické, ...) na cieľové skupiny a minimalizovať možné negatívne
+dopady (vrátane konfliktov záujmových skupín).
+
+Tento proces zahŕňa:
+
+-   identifikáciu všetkých zainteresovaných skupín,\
+-   zistenie ich záujmov, vplyvu a kapacity podieľať sa na intervencii,
+    a\
+-   identifikáciu vzájomných vzťahov medzi zainteresovanými.
+
+*Analýza problémov*
+
+Analýza problému identifikuje nedostatky, potreby a problémy a snaží sa
+nájsť kauzálne súvislosti (príčina - následok) medzi týmito problémami.
+V tejto analýze je kľúčové definovať hlavný problém(y), ktorý bude
+intervencia riešiť. Optimálnym prístupom je vizualizácia v podobe stromu
+problémov, kde hlavný problém je základ (kmeň stromu), nad ním sa
+uvádzajú dôsledky a pod ním príčiny, ktoré problém(y) spôsobujú.
+
+Strom problémov by mali tvoriť zainteresované strany. Ak ich je príliš
+veľa, môžu sa rozdeliť do skupín a každá skupina pripraví vlastnú
+verziu. Tento model umožní zjednodušiť realitu a aj preto nemôže úplne
+vysvetliť zložitosť všetkých kauzálnych vzťahov. Poslúži však na
+jednoduché modelové zobrazenie kauzálnych vzťahov. Tieto vzťahy začínajú
+dolu príčinami a pokračujú vyššie následkami (zjednodušene ak - potom).
+Takéto zobrazenie môže vyzerať nasledovne:
+
+```{r}
+DiagrammeR::grViz("graph4.gv")
+
+```
+
+*Analýza cieľov*
+
+Analýza cieľov znamená transformáciu problémov do úspešného riešenia.
+Znázorňuje rovnakú situáciu, ale s tým, že problémy sú už vyriešené.
+Všetky negatívne situácie sú zmenené na opak, čiže pozitívne. Problémy
+sa menia na ciele, čiže napr. „používanie zdrojov so zlou kvalitou vody"
+je transformované na „používanie zdrojov s kvalitnou vodou". Strom
+cieľov prezentuje kauzálne vzťahy v plánovanej situácii po vyriešení
+problémov.
+
+```{r}
+DiagrammeR::grViz("graph1.gv")
+
+```
+
+Analýza cieľov by mala pomôcť pri zvažovaní priorít a realizovateľnosti
+cieľov.
+
+*Analýza stratégií*
+
+Analýza cieľov zvyčajne poskytne komplexnejší obraz intervencie, ale
+zriedka je k dispozícii dostatok finančných prostriedkov na riešenie
+všetkých problémov. Z toho dôvodu je potrebné vybrať relevantnú časť
+intervencie. Výber prebieha na základe rôznych kritérií, zvyčajne sa
+posudzuje:
+
+-   Dostatok zdrojov\
+-   Príspevok k hlavným cieľom politiky\
+-   Prínos pre cieľovú skupinu\
+-   Komplementarita s prebiehajúcimi alebo plánovanými intervenciami\
+-   Finančné a ekonomické prínosy\
+-   Budovanie kapacít\
+-   Technická realizovateľnosť\
+-   Environmentálne dopady
+
+Tieto kritériá určia aká bude intervencia a tvoria základ, podľa ktorého
+sa tvorí logický rámec.
+
+**Predpoklady**
+
+Poslednú časť logického rámca tvoria predpoklady. Sú to externé faktory,
+o ktorých vieme, ale sú mimo dosahu projektového riadenia a môžu
+ovplyvniť (ne)úspech projektu.
+
+```{r}
+DiagrammeR::grViz("graph3.gv")
+
+```
+
+Predpoklady sa formulujú nasledovne: Ak sa uskutočnili aktivity a sú
+splnené predpoklady na úrovni aktivít, potom sa dopracujeme k výstupom,
+ak máme výstupy a sú splnené predpoklady na tejto úrovni, potom sa nám
+podarí dosiahnuť výsledky a rovnakým spôsobom za stanovených
+predpokladov prispejeme k celkovému cieľu.
+
+Je možné pomerne presne povedať, čo nie je predpokladom:
+
+-   ak vieme, že podmienka nebude splnená, nemôžeme ju do logického
+    rámca zahrnúť a projekt musíme prepracovať,
+
+-   ak vieme, že podmienka bude určite splnená, tiež nehovoríme
+    o predpoklade.
+
+Rovnako súčasťou predpokladov nemôžu byť nutné podmienky na realizáciu
+projektu ako je napr. ochota partnera spolupracovať, alebo dostatok
+finančných zdrojov, a pod.
+
+**Ukazovatele**
+
+Účasťou logického rámca sú aj ukazovatele. Objektívne overiteľné
+ukazovatele (indikátory) sa stanovujú na úrovni výstupov, výsledkov
+a dopadov. Ukazovatele sú určené kvantitatívne, alebo kvalitatívne a sú
+základom pre monitorovanie a hodnotenie projektov. Obsahujú hodnoty
+(čísla), alebo parametre kvality, prostredníctvom ktorých môžeme
+dokladovať úspešnosť projektu. Ukazovatele by mali byť merateľné pri
+minimálnych nákladoch. Mali by byť zadefinované v zmysle kvality,
+kvantity a času, t.j. malo by byť jasné kto zbiera tieto informácie,
+akým spôsobom a ako často. Najväčší počet ukazovateľov je na úrovni
+výstupov a smerom k dopadom sa tento počet zužuje, často na jeden či dva
+ukazovatele. Samotný projekt vždy len prispieva k dosahovaniu
+ukazovateľov na úrovni dopadov.
+
+Zdroje overenia sa tvoria spolu s definovaním ukazovateľov a určujú
+odkiaľ sa budú čerpať stanovené údaje ukazovateľov. Účelom je zozbierať
+ukazovatele z existujúcich systémov. Užitočným zdrojom môže byť
+Štatistický úrad a iné inštitúcie, ktoré zbierajú sektorové údaje.
+
+V plánovacej fáze je potrebné:
+
+-   vytvoriť zoznam činností/ aktivít projektu\
+-   rozdeliť úlohy\
+-   stanoviť náväznosti\
+-   určiť začiatok a trvanie aktivít\
+-   pripraviť plán aktivít\
+-   určiť míľniky
+
+Plán aktivít, ktorý slúži na prezentáciu aktivít projektu a zohľadňuje
+logickú následnosť aktivít, ich vzájomné závislosti, trvanie,
+prerozdelenie úloh a zodpovednosti. Plán aktivít pomáha špecifikovať
+náklady a zdroje. Plán aktivít je základom na prípravu rozpočtu projektu
+a určenie ďalších potrebných zdrojov -- ľudských aj materiálnych.
+
+## Silné stránky a obmedzenia
+
+Silnou stránkou logického rámca je, že núti ľudí premýšľať o tom, ako má
+intervencia dosiahnuť zmenu popísať ako budú aktivity produkovať výstupy
+a dosahovať ciele. Poskytuje teda jednoduché zhrnutie kľúčových prvkov
+intervencie, čo umožňuje rýchlo pochopiť podstatu intervencie - čo a ako
+sa snaží robiť a preto je pomerne obľúbeným nástrojom.
+
+Napriek tomu má logický rámec aj svoje nedostatky. Je to v prvom rade
+model, ktorý je zjednodušením reality, čo nie je problém, ak sa s ním
+tak pracuje. Logický rámec je založený na každej lineárnej logike, ktorá
+zdôrazňuje príčinu a následok. To sa dá považovať za dosť mechanistické,
+lebo v skutočnosti môže byť zmena veľmi zložitým procesom. Často je
+považovaný za príliš rigidný, určujúci jedinú plánovanú cestu zmeny, kým
+v skutočnosti môže existovať veľa rôznych ciest ako sa dopracovať
+k stanovenej zmene. Môže sa stať, že niektorí logický rámec vnímajú ako
+určujúci a intervencia sa bude striktne držať logického rámca namiesto
+toho, aby sa vyvíjala na základe aktuálnej situácie. Jedným z dôvodov
+je, že realizátori majú pocit, že musia vykonávať činnosti definované v
+logickom rámci, najmä ak sa o týchto činnostiach na začiatku intenzívne
+diskutovalo. Ďalší aspekt spočíva v tom, že ukazovatele sa formulujú na
+začiatku intervencie pričom hlavne v dlhšom životnom cykle intervencií
+je odchýlka od plánu skôr normou než výnimkou.

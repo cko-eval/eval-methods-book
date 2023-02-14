@@ -1,0 +1,86 @@
+# Prípadová štúdia
+
+Prípadová štúdia je metódou kvalitatívneho výskumu a je zameraná na jeden sociálny subjekt resp. jav, ktorý sleduje a spracúva ako celok zo všetkých relevantných aspektov v jeho jedinečnosti a komplexnosti. Prípadová štúdia slúži na hĺbkový popis a analýzu javu v jeho prirodzenom prostredí.
+
+Prípadové štúdie sú bohaté na informácie. Poskytujú detailné hĺbkové porozumenie komplexných skutočných interakcií a procesov. Definovanie vlastnosti konkrétnej prípadovej štúdie je celistvé, pripisujúce osobitnú pozornosť kontextu a nastaveniu. Prípadová štúdia môže analyzovať jeden prípad (single case study)[^05-case-study-1] alebo viacero prípadov (multiple case study)[^05-case-study-2].
+
+[^05-case-study-1]: Single case study (prípadová štúdia s jedným prípadom) -- je vhodná v prípade, ak je objekt skúmania v jedinečnej príp. extrémnej situácii a následne bude vykonaná hĺbková analýza jeho správania.
+
+[^05-case-study-2]: Multiple case study (prípadová štúdia s viacerými prípadmi) -- umožňuje skúmať podobnosti a rozdiely medzi jednotlivými prípadmi.
+
+## Účel metódy
+
+Prípadové štúdie sa používajú v nasledujúcich situáciách:
+
+-   **Ilustrácia:** prípadová štúdia je nástroj, ktorý môže podporiť vierohodnosť hodnotenia. Tento prípad musí byť vybratý starostlivo, pretože musí byť reprezentatívny vzhľadom na intervenciu ako celok alebo dokresliť určitý špecifický prvok -- napríklad opatrenie alebo prístup, ktorý mal závažné nedostatky a je potrebné sa mu v budúcnosti vyhnúť.
+
+-   **Prieskum:** predkladanie hypotézy pre budúci výskum, identifikácia rôznych uhlov pohľadu všetkých zúčastnených strán.
+
+-   **Kritická analýza:** overenie alebo potvrdenie vyhlásenia týkajúceho sa programu, projektu alebo stratégie.
+
+-   **Analýza implementácie:** skúmanie rozšírenia služieb a jej mechanizmov, často na rôznych miestach.
+
+-   **Analýza dopadov intervencií:** porozumenie podstaty procesov produkujúcich dopady.
+
+Výsledky prípadovej štúdie sú vždy prezentované formou príbehu (rozprávania), čím poskytujú čitateľovi „vnútorný pohľad" na prípadovú štúdiu a dojem autenticity.
+
+## Podmienky použitia
+
+Prípadové štúdie sa v hodnotení používajú pomerne často. Tie prípadové štúdie, ktoré používajú sofistikované výberové metódy majú tendenciu nahradiť rozsiahle kvantitatívne prieskumy vykonávané v rôznych kontextoch.
+
+Použitie tejto metódy umožňuje poskytnúť detailný pohľad na vybraný spoločenský fenomén, pričom jej využitie je vhodné pri nových oblastiach, kde neexistuje dostatok teoretických východísk ako podklad pre exaktnejšie metódy výskumu.
+
+Prípadová štúdia predstavuje metódu holistickej analýzy aplikovanej na komplexné situácie. Je významná pri identifikovaní dopadov intervencií, rozvíja predpoklady týkajúce sa javov, ktoré spájajú príčiny a následky. Tieto predpoklady by mali byť následne podporené informáciami získanými z iných prípadových štúdií a testované prostredníctvom hľadania alternatívnych vysvetlení. Môže byť užitočná pri pozorovaní očakávaných výsledkov ale aj pre odhalenie tých neočakávaných. Táto metóda je menej vhodná na identifikáciu príčinných väzieb, aj keď môže byť použitá za účelom ich demonštrácie.
+
+Prípadová štúdia má čo najkomplexnejšie popisovať skúmaný fenomén. Analýza jednotlivých príčin musí vychádzať z viacerých zdrojov údajov, ako sú rozhovory, pozorovanie v čase, štatistiky, atď. Údaje musia byť krížovo kontrolované.
+
+Prípadová štúdia s viacerými prípadmi je obzvlášť vhodná na analýzu jednotlivých členských štátov a regiónov ale aj tematických hodnotení. Flexibilita každej prípadovej štúdie umožňuje zostaviť zodpovedajúci opis charakteristík daného miesta alebo intervencie. Formulácia spoločného súboru otázok, vzhľadom na hodnotenie, uľahčuje analýzu výsledkov získaných z rôznych prípadových štúdií.
+
+## Hlavné kroky[^05-case-study-3]
+
+[^05-case-study-3]: Gagnon Y.C. (2010) The case study´s a research Method: a Practical handbook
+
+*1. Výber relevantnej metódy*
+
+Pred samotnou realizáciou procesu vypracovania prípadovej štúdie je potrebné overiť, či uvedený prístup je relevantný na skúmanie daného javu. V zahraničnej literatúre (Yin, 2003) sú uvedené štyri podmienky, kedy je možné použiť prípadovú štúdiu ako vhodnú výskumnú metódu:
+
+-   hľadáme odpovede na otázky „ako?" a „prečo?",\
+-   správanie objektu výskumu nie je možné ovplyvniť,\
+-   sledujeme jav v určitom kontexte, ktorý považujeme za relevantný pre výsledky výskumu,\
+-   nie sú zreteľné hranice medzi skúmaným javom a kontextom.
+
+V prípade, že daný jav spĺňa všetky štyri podmienky pre výskum využitím prípadovej štúdie, v ďalších krokoch je potrebné postupovať nasledovne.
+
+*2. Príprava výskumu*
+
+V rámci prípravy výskumu je potrebné:
+
+-   rozhodnutie o type prípadovej štúdie,\
+-   výber techník zberu údajov a voľba zdrojov údajov,\
+-   identifikácia cieľovej skupiny výskumu,\
+-   definovanie spôsobu kódovania a pravidiel analýzy údajov,\
+-   získanie dodatočných informácií o skúmanom jave.
+
+*3. Výber prípadov*
+
+Existujú najmenej tri kritériá podľa ktorých sa robí výber prípadov: vhodnosť/prístup, účel na ktorý sú poskytnuté, rozsah v akom môžu byť používané. Výber prípadov je kritický krok na zovšeobecňovanie a zodpovedanie hodnotiacich otázok. Je náročné zdôvodniť výber len na základe vhodnosti. Výber na základe účelu je vhodný vo väčšine prípadov.
+
+*4. Zber údajov*
+
+Teoreticky sa zber údajov vzťahuje na všetky dostupné informácie o prípade, vrátane tých, ktoré vyplývajú z  dokumentácie, správ zo stretnutí a zozbieraných na rôznych úrovniach: rozhovory s vedúcimi projektov a personálom, pozorovanie strán projektu, prieskumy medzi príjemcami služieb poskytovaných projektom. Tieto údaje musia byť zozbierané, zaznamenané (v registri), očistené a zosumarizované len tak môžu byť použité v záverečnej správe.
+
+*5. Analýza údajov*
+
+Realizácia výskumu prostredníctvom použitia prípadových štúdií predstavuje náročný proces, pretože tento druh výskumu disponuje údajmi z rôznych zdrojov. Prvým krokom v procese analýzy údajov je príprava údajov, ktorá v sebe zahŕňa triedenie údajov a identifikovanie tých, ktoré nesúvisia s objektom výskumu. Získané údaje je vhodné klasifikovať a kódovať. Kódovanie údajov predstavuje priradenie číselných alebo textových kódov, ktoré definujú príslušné kategórie vzťahujúce sa na javy alebo ich časti. Následne tieto kódované údaje predstavujú vhodnú podobu na spracovanie a analýzu. Popis každého prípadu má za cieľ previesť výsledky a modely správania získané analýzou do naratívnej podoby a interpretovať ich v zodpovedajúcom kontexte.
+
+*6. Interpretácia údajov*
+
+Prípadová štúdia predstavuje druh výskumu pri ktorom je nevyhnutné interpretovať výsledky nielen na konci výskumu, ale po celú dobu výskumného procesu. Interpretácia údajov si vyžaduje kreativitu a predstavivosť výskumníka.
+
+*7. Výsledná správa a prezentácia výsledkov*
+
+Finálnu hodnotiacu správu je potrebné sprostredkovať vedeckej alebo odbornej verejnosti. Kľúčovým faktorom pri voľbe spôsobu prezentácie je cieľové publikum.
+
+## Silné stránky a obmedzenia
+
+Tak ako každá výskumná metóda, aj prípadová štúdia, má svoje silné stránky a obmedzenia, ktoré je potrebné zvážiť pri rozhodovaní návrhu výskumu. Prvoradou výhodou tejto metódy je schopnosť poskytnúť hĺbkovú analýzu subjektu resp. javu v určitom kontexte. Základnou vlastnosťou je jej empirickosť. Používanie tejto metódy je spojené s viacerými obmedzeniami. Z časového hľadiska ide o náročnú metódu pre vedca a aj skúmané subjekty resp. javy. Ďalším dôležitým obmedzením je problematická externá validita výsledkov, ktorá je spôsobená náročnou reprodukovateľnosťou a preto sa jej výsledky nedajú zovšeobecniť na širšiu populáciu.

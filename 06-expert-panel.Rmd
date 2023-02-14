@@ -1,0 +1,41 @@
+# Panel expertov
+
+Panel expertov tvorí pracovná skupina zložená z nezávislých špecialistov (odborníkov) z oblastí, na ktoré sa vzťahuje príslušná intervencia. Títo spoločne diskutujú o vopred zvolenej téme alebo probléme a v konečnom dôsledku navrhujú odporúčania a možnosti riešenia problémov. Panel môže byť považovaný za hodnotiaci nástroj, ktorý je používaný pri dosahovaní konsenzu a pri hľadaní odpovedí na otázky, ktoré sa nedajú zodpovedať inými nástrojmi. Odborníci sú vybraní tak, aby zastupovali resp. reprezentovali všetky uhly pohľadu vyváženým a nestranným spôsobom. Sú to nezávislí odborníci uznávaní v oblasti, ktorá je predmetom intervencie.
+
+## Účel metódy
+
+Panel expertov predstavuje všeobecný nástroj, ktorý je používaný pri hodnotení EŠIF. Táto metóda umožňuje hľadanie odpovedí na širokú škálu otázok, od relevantnosti cieľov intervencie až po odhad jej reálnych alebo pravdepodobných efektov. Expertné panely môžu byť obzvlášť nápomocné najmä v spojitosti s posudzovaním kvality a relevantnosti.
+
+## Podmienky použitia
+
+Tento nástroj sa odporúča ak máme k dispozícii dostatok odborníkov v predmetnej oblasti a hodnotenie je komplexné. Panel expertov môže byť použitý v rôznych fázach hodnotiaceho procesu. Experti sa môžu stretnúť v živej diskusii alebo online.
+
+Panely expertov sú používané za účelom dosiahnutia konsenzu v prípade hľadania odpovedí na komplexné a štruktúrované otázky, pre ktoré iné nástroje neposkytujú jednoznačné alebo dôveryhodné odpovede. Ide o obzvlášť užitočný nástroj vo vzťahu ku komplexným intervenciám, keď je v hodnotení príliš náročné pustiť sa do vysvetlenia alebo klasifikácie kritérií v súvislosti s formulovaním záverov.
+
+Vo vzťahu k EŠIF, panel expertov môže byť použitý za účelom vykonania ex-ante hodnotenia. Napríklad panel expertov môže byť požiadaný o odhad pravdepodobnosti dopadu intervencie v oblasti zamestnanosti alebo o posúdenie opodstatnenosti intervencie z hľadiska synergií. Panely expertov môžu byť obzvlášť užitočné pre odhad pravdepodobnosti dopadov pri použití v spojení s mikro a makro ekonomickými technikami modelovania a sú dobrým spôsobom, ako posúdiť, či účinky sú dostatočné alebo nedostatočné.
+
+V oblasti európskej politiky súdržnosti, panely expertov môžu pomôcť pri identifikácii dopadov. Táto technika je veľmi univerzálna a môže byť užitočná v každom čase vo fáze formovania alebo rozhodovania o intervencii. Panel expertov môže zasiahnuť na začiatku a na konci hodnotenia, v kombinácii s ďalšími nástrojmi používanými na zber alebo analýzu údajov. Panel expertov môže plniť niekoľko funkcií, je však vhodnejšie obmedziť jeho aktivity iba na vybrané časti hodnotenia: štruktúrovanie cieľov a odhady efektov alebo rozhodnutí. Čím lepšie je panel zadefinovaný, tým viac budú jeho závery dôveryhodnejšie. Spoľahlivosť tohto nástroja môže byť ohrozená, ak sú otázky, ktorými sa odborníci zaoberajú, príliš široké.
+
+## Hlavné kroky
+
+*1. Identifikácia zoznamu potenciálnych expertov*
+
+Členovia panelu musia byť odborníci aspoň v jednej z dotknutých oblastí diskusie, bez konfliktu záujmov a ochotní zapojiť sa do hodnotenia.
+
+*2. Výber a mandát expertov*
+
+Panel je všeobecne vytvorený zo šiestich až dvanástich členov z rozličných oblastí špecializácie. Súčasný trend je rozšíriť spektrum záujmov a usilovať sa o čo najväčšiu rozmanitosť pohľadov (názorov) na danú tému.
+
+*3. Výskum*
+
+Odborníci sa obvykle stretnú tri až šesť krát, v jednomesačných intervaloch, prípadne podľa potreby. Odporúča sa, aby všetky dátumy stretnutí boli plánované na začiatku. Členovia panelu konzultujú dokumentáciu (správy, priebežné štúdie, výskum) a interview s lídrami intervencie. Za účelom získania informácií sa taktiež môžu pohybovať v teréne, spravidla v skupinách po dvoch, aby sa obmedzilo riziko skreslenia. Panely expertov sú používané v spojení s ďalšími metódami.
+
+*4. Syntéza*
+
+Na záver je pripravená záverečná správa, v ktorej sú  formulované kolektívne schválené závery a odporúčania. V prípade nezhody, môže byť užitočné vyjadriť väčšinový názor a doplniť názor menšiny.
+
+## Silné stránky a obmedzenia
+
+Panel expertov je veľmi flexibilný nástroj, ktorý môže byť použitý za účelom posúdenia kvalitatívnych a kvantitatívnych údajov, dokonca ak keď sú nekompletné. Ak je tento nástroj použitý efektívne, zvyšuje dôveryhodnosť a prijateľnosť hodnotiacich záverov, lebo rešpektuje rozdiely v názoroch a smeruje ku konsenzu. Ide o relatívne finančne nenáročný a rýchly nástroj. Závery panela expertov majú vysoký stupeň dôveryhodnosti, ak sú jeho členmi nezávislí uznávaní odborníci.
+
+Slabou stránkou panela je, že experti musia mať dostatočnú skúsenosť v odbore, čo súčasne znamená, že sú vystavení riziku zaujatosti a neochote kritizovať relevantnosť cieľov alebo sa zamerať na prípadné nežiadúce účinky. Konsenzuálny režim fungovania, na ktorom je založená dynamika panela, vytvára konvergenciu názorov okolo väčšinových hodnôt, ktoré nemusia byť najrelevantnejšie.

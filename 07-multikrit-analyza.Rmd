@@ -1,0 +1,196 @@
+# Multikriteriálna analýza
+
+Multikriteriálna analýza sa používa pri porovnávacom posúdení
+alternatívnych projektov alebo heterogénnych opatrení. Pri tejto metóde
+je možné vziať do úvahy niekoľko kritérií súčasne. Táto metóda je
+navrhnutá tak, aby integrovala rozličné možnosti a brala do úvahy názory
+zainteresovaných strán. Výsledky sú obyčajne zamerané na poskytnutie
+operatívnych odporúčaní alebo odporúčaní pre budúce činnosti.
+
+Cieľom multikriteriálneho hodnotenia je pripraviť ucelený záver
+a zohľadniť preferencie a priority niekoľkých rôznych partnerov.
+V prípade sociálno-ekonomických programov EÚ, môžu byť zainteresované
+rôzne úrovne partnerstva (európske, národné, regionálne). Každý z tejto
+úrovne je oprávnený stanoviť si svoje vlastné priority a vyjadriť svoje
+vlastné preferencie v rámci jednotlivých kritérií.
+
+## Účel metódy
+
+Multikriteriálna analýza predstavuje metódu kvantitatívneho hodnotenia,
+kedy výsledkom má byť celkové ohodnotenie stavu a vzájomné porovnanie
+viacerých možností intervencie príp. problému. Túto metódu je možné
+použiť v prípade, ak analyzovaná situácia resp. problém závisí od
+rozličných faktorov (sociálnych, ekonomických), ktoré je náročné uviesť
+pri porovnávaní a hodnotení na jednu platformu. Účelom tohto nástroja je
+vytvoriť štruktúru a kombinovať rozličné kritériá, ktoré je potrebné
+vziať do úvahy pri rozhodovaní.
+
+Pri tejto metóde sa stanovia kritériá K~1~, K~2~, K~3~....K~n~, ktoré
+ovplyvňujú riešenie danej situácie resp. problému. Následne sa dané
+kritéria zhodnotia a priradia sa im váhy podľa dôležitosti a vplyvu na
+riešenie. Multikriteriálna analýza je syntézou vyjadrených názorov, za
+účelom zistiť prioritnú štruktúru, analyzovať konfliktné situácie,
+formulovať odporúčania alebo vybrať najvhodnejšie operačné riešenia.
+Oblasti použitia môžu zahŕňať napríklad:
+
+-   Odporúčania k realokácii rozpočtov, a to počas realizácie alebo
+    v procese prípravy nasledujúcej intervencie. Napr. najmenej úspešným
+    intervenciám sa takto zníži rozpočet alebo dôjde k ich reorganizácii
+    a zvýšeniu efektívnosti.
+
+-   Šírenie osvedčených postupov (príklady dobrej praxe). Informácie
+    o opatreniach, považovaných za najúspešnejšie (dobrá prax) môžu byť
+    šírené prostredníctvom niektorých masovokomunikačných prostriedkov,
+    pomocou ktorých orgány zodpovedné za intervenciu môžu prezentovať
+    verejnosti ako boli vynaložené prostriedky.
+
+-   Zverejnenie konkrétnych príkladov úspešných intervencií môže tiež
+    pomôcť manažérom nastaviť financovanie obdobných intervencií.
+
+-   Spätná väzba užitočná pri výbere budúcich intervencií. Výber
+    hodnotiacich kritérií, ich praktická definícia a ich váha
+    predstavujú užitočný príspevok k multikriteriálnej analýze. Tento
+    nástroj umožňuje formulovať jasný, úplný a ucelený opis intervencií
+    a priorít zainteresovaných aktérov.
+
+-   Posilnenie procesu výberu projektov. Je pomerne jednoduché
+    transformovať kritériá, bodovacej stupnice a koeficienty (váhy) do
+    systému výberu projektov, ak je tento systém založený na rovnakom
+    základe.
+
+## Podmienky použitia
+
+Multikriteriálna analýza je nástroj na porovnávanie alternatív, v ktorom
+je zohľadnených niekoľko hľadísk, a preto je obzvlášť užitočná počas
+formulovania názoru, týkajúceho sa zložitých problémov. Táto analýza sa
+používa predovšetkým vo fáze formovania záverov, a to hlavne
+v komplexných prípadoch a najmä vtedy, kedy proti sebe stoja rôzne
+kritériá (pracovné miesta a životné prostredie) alebo ak je výber medzi
+kritériami komplikovaný.
+
+Vo všeobecnosti, táto metóda je používaná hlavne pri ex-ante
+hodnoteniach intervencií a ich variantách (rozloženie diaľnice, výstavba
+novej infraštruktúry). Menej často je, multikriteriálna analýza
+používaná v priebežnom a ex-post hodnotení intervencií.
+
+## Hlavné kroky
+
+*1. Identifikácia cieľa alebo definícia problému*
+
+Prvým základným krokom multikriteriálnej analýzy je vymedzenie cieľa,
+resp. definovanie problému, ktorému má proces rozhodovania pomôcť. Tento
+krok v sebe zahŕňa súpis plánovaných a realizovaných intervencií alebo
+činností, ktoré budú podrobené  multikriteriálnej analýze.
+
+*2. Stanovenie hodnotiacich kritérií*
+
+Osobitnú pozornosť je treba venovať výberu a definovaniu kritérií.
+Vymedzenie kritérií má byť čo najviac vyčerpávajúce. Kritéria musia
+odrážať preferencie tvorcov rozhodnutí alebo rôzne uhly pohľadu, a
+súčasne sumarizovať a zoskupovať spolu rôzne charakteristické rozmery
+použité pre vyhodnocovanie daného cieľa resp. problému. Počet kritérií
+má byť obmedzený, pričom na základe skúseností sa odporúča 7 až 12
+kritérií. V prípade, že na hodnotení participujú tí, ktorí rozhodujú
+príp. iné zainteresované strany, je možné ich zahrnúť do procesu
+identifikácie hodnotiacich kritérií a to prostredníctvom
+diskusie[^07-multikrit-analyza-1] zameranej na hľadanie konsenzu. Na
+základe toho sa vytvorí zoznam kritérií, ktorý bude odrážať preferencie
+všetkých zainteresovaných strán.
+
+[^07-multikrit-analyza-1]: Brainstorming predstavuje efektívny spôsob
+    pre rozhodovanie zainteresovaných strán pri identifikovaní a
+    vytváraní súboru kritérií
+
+*3. Identifikácia alternatív*
+
+Ďalší krok analýzy v sebe zahŕňa identifikovanie súboru alternatívnych
+možností, ktoré by malo zaistiť komplexnosť a zabezpečiť, že nevynecháme
+žiadnu z možností. Jednotlivé alternatívne možnosti majú byť rozmanité
+avšak ich počet má byť obmedzený.
+
+*4. Stretnutia zainteresovaných strán*
+
+Stretnutia zainteresovaných strán, ako už bolo spomenuté vyššie, môžu
+byť taktiež použité na identifikáciu súboru alternatívnych možností.
+Niekedy je potrebné uskutočniť 2 a viac stretnutí za účelom
+podrobnejšieho preskúmania jednotlivých možností a ich
+obmedzení[^07-multikrit-analyza-2].
+
+[^07-multikrit-analyza-2]: Časť alternatív môže byť označená ako
+    nevhodná alebo nevyhovujúca vzhľadom na rôzne obmedzenia --
+    chýbajúca hodnota, atď.
+
+*5. Tvorba multikriteriálnej hodnotiacej matice*
+
+Na základe kritérií a opatrení (alebo skupín alebo časti opatrení),
+ktoré sa majú hodnotiť, by mal hodnotiaci tím vytvoriť multikriteriálnu
+hodnotiacu maticu. Táto matica predstavuje tabuľku so stĺpcami, ktorých
+počet je rovný počtu alternatív, ktoré sa budú porovnávať a počet
+riadkov je rovný počtu kritérií. Každá bunka predstavuje vyhodnotenie
+jednej možnosti pre jedno kritérium. Multikriteriálna analýza vyžaduje
+vyhodnotenie všetkých alternatívnych možností pre všetky kritériá
+(žiadna bunka nesmie zostať prázdna).
+
+*6. Váhy kritérií*
+
+V tomto kroku dochádza k zapracovaniu preferencií zainteresovaných
+subjektov do celého procesu. Nie každé kritérium je rovnako dôležité
+a práve váhami sa stanoví relatívna dôležitosť každého kritéria voči
+ostatným. Vo všeobecnosti platí, že suma všetkých váh je rovná 1. Pri
+stanovení váh je možné využiť niekoľko metód. Základné z nich je možné
+rozdeliť na rankingové[^07-multikrit-analyza-3],
+ratingové[^07-multikrit-analyza-4] a trade-off
+analýzu[^07-multikrit-analyza-5].
+
+[^07-multikrit-analyza-3]: Rankingové metódy -- zoradenie kritérií podľa
+    preferencií zainteresovaných strán a následné pridelenie hodnoty na
+    základe dohodnutých pravidiel.
+
+[^07-multikrit-analyza-4]: Ratingové metódy -- dopredu dohodnutá mierka
+    s presne stanoveným počtom bodov, ktoré sa budú rozdeľovať medzi
+    jednotlivé kritériá.
+
+[^07-multikrit-analyza-5]: Trade-off analýza -- výber z dvoch alternatív
+    s prihliadnutím na jedno kritérium, pričom je potrebné sa rozhodnúť
+    v prospech alternatívy 1 alebo alternatívy 2.
+
+*7. Hodnotenie alternatív*
+
+Jednotlivé alternatívy sú hodnotené pomocou vybraných faktorov. Analýzu
+môžeme definovať minimalizačne tzn., čím je hodnota kritéria pre danú
+alternatívu menšia, tým lepšie alebo maximalizačne tzn., že čím je
+hodnota kritéria pre danú alternatívu vyššia, tým lepšie.
+
+*8. Rozhodovacie pravidlá*
+
+V tomto záverečnom kroku sa určí rozhodovacie pravidlo, agregačná
+funkcia, ktorá zoradí, resp. porovná jednotlivé alternatívy tak, aby
+bolo možné určiť tú najvhodnejšiu možnosť. Víťazná alternatíva sa tiež
+označuje pojmom výsledok rozhodovania.
+
+|                             |          |             |              |             |
+|-----------------------------|----------|-------------|--------------|-------------|
+| **Alternatíva**             | **Váhy** | **Mesto 1** | **Mesto 2**  | **Mesto 3** |
+| **Kritériá**                | **w**    | **HF~1~**   | **HF~1~\*w** | **HF~2~**   |
+| **Miera zamestnanosti**     | 0,5      | 78          | 39           | 82          |
+| **Kvalita ovzdušia**        | 0,2      | 48          | 9,6          | 59          |
+| **Dopravná infraštruktúra** | 0,3      | 5           | 1,5          | 8           |
+| **Vážený súčet**            | **1,0**  |             | **50,1**     |             |
+| **Poradie**                 |          |             | **3.**       |             |
+
+## Silné stránky a obmedzenia
+
+Multikriteriálna analýza poskytuje koncepciu, v ktorej sa všetci aktéri
+(zainteresované strany) môžu zúčastniť rozhodovania a riešenia
+problémov. Sila multikriteriálnej analýzy spočíva v tom, že umožňuje
+brať do úvahy hodnoty a názory niekoľkých subjektov a spracovať
+ich kvantitatívnym spôsobom.
+
+Opatrenie, ktoré má nízke skóre pre všetky kritériá, nikdy nebude mať
+vysoké vážené globálne skóre. Tvorcovia rozhodnutí často preferujú
+metódy tohto druhu, pretože sú zapojení do procesu pomocou relatívne
+jednoduchého technického rámca. Použitie multikriteriálnej analýzy môžu
+limitovať špecifické problémy implementácie alebo požiadavky na účasť
+sektorových expertov na hodnotení. Ak táto metóda nie je používaná
+interaktívnym spôsobom, môže sa to odraziť v procese stanovenia kritérií
+a ich váh.
