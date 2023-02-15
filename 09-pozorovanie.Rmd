@@ -1,0 +1,155 @@
+# Pozorovanie
+
+## Účel
+
+Pozorovanie je súborom nástrojov kvalitatívneho charakteru na skúmanie
+javov v ich prirodzenom prostredí. Súčasťou pozorovania nie sú len
+vizuálne, ale často aj sluchové a iné vnemy. Počas pozorovania sa
+zaznamenáva správanie, interakcie alebo udalosti.
+
+Pozorovanie môžeme klasifikovať ako:
+
+-   skryté, alebo otvorené, podľa toho, či sú o ňom účastníci
+    informovaní, alebo nie;
+
+-   zúčastnené (participatívne), alebo nezúčastnené, podľa toho do akej
+    miery, pozorovateľ participuje na dianí;
+
+-   štruktúrované alebo neštruktúrované, podľa toho, či prebieha podľa
+    vopred určeného predpisu.
+
+Ten, kto realizuje pozorovanie môže byť:
+
+-   úplným účastníkom pozorovanej skupiny, pričom neinformuje o svojej
+    pravej totožnosti;
+
+-   účastníkom ako pozorovateľ, kedy je v úlohe člena skupiny, ale
+    ostatní o jeho úlohe pozorovateľa vedia;
+
+-   pozorovateľom, ktorý je v skupine, ale kladie otázky a na dianí
+    v skupine sa nezúčastňuje, alebo
+
+-   úplný pozorovateľ, ktorý pozoruje zvonku, pričom účastníci ani
+    nevedia, že sú pozorovaní a ich správanie sa tým nie je ovplyvnené,
+    tento spôsob však nie je možný v uzatvorených komunitách.
+
+## Podmienky použitia
+
+Pozorovanie je všeobecná metóda, ktorá zahŕňa zber, interpretáciu a
+porovnanie údajov, podobne ako pri prípadových štúdiách. Preto je táto
+metóda vhodná na analýzu efektov intervencií, ktoré sú inovatívne či
+neznáme, ale aj na objasnenie faktorov, ktoré ovplyvňujú zdanlivý úspech
+či neúspech hodnotených intervencií. Pozorovacie techniky slúžia na
+odhalenie rozdielov medzi tým ako chápu intervencie vysoko postavení
+manažéri vo verejnej správe a ako sú chápané jednotlivcami v skutočnom
+živote. Pozorovanie býva často obmedzené malým počtom prípadov.
+Zovšeobecnenie je preto možné iba v prípade, že intervencie sú
+dostatočne homogénne.
+
+## Hlavné kroky
+
+Pozorovanie sa skladá z niekoľkých základných krokov. Presnejšia
+špecifikácia jednotlivých krokov závisí od typu zvoleného pozorovania.
+Zúčastnené pozorovanie patrí k najdôležitejším metódam kvalitatívneho
+výskumu. Dá sa ním popísať čo sa deje, kto, alebo čo sa zúčastňuje
+diania, kedy a kde sa veci dejú, ako sa objavujú a prečo. Zúčastnené
+pozorovanie je vhodné, ak:
+
+-   jav, ktorý skúmame je málo preskúmaný,\
+-   medzi názormi členov pozorovanej skupiny a tých, ktorí nie sú členmi
+    tejto skupiny sú veľké rozdiely, alebo ak\
+-   jav nie je možné sledovať osobou mimo skupiny.
+
+Ak sa pozorovateľ sám zúčastňuje diania, umožňuje mu to odhaliť vnútorný
+pohľad na vec a veľa otázok sa dá vysvetliť len takýmto spôsobom.
+V priebehu pozorovania sa používajú všetky dostupné nástroje na zber
+údajov, t.j. rôzne typy rozhovorov, audio, video nahrávky a pod.
+Zúčastnené pozorovanie prebieha v nasledovných krokoch:
+
+*1. Výber situácie na pozorovanie/ nadviazanie kontaktu*
+
+Získať prístup do terénu a vytvoriť si kontakt s účastníkmi situácie je
+časovo náročný proces. Až po tom, keď si na seba účastníci zvyknú, môže
+začať samotné pozorovanie. Kľúčovou osobou (osobami) je informátor. Mal
+by to byť niekto, kto dôverne pozná prostredie a dokáže sa jasne
+vyjadriť. Vo všeobecnosti pri pozorovaní vopred definujeme čo chceme
+pozorovať. Výskumník si potom s relevantnými účastníkmi dohodne prístup
+na miesto pozorovania.
+
+*2. Samotné pozorovanie*
+
+Samotné pozorovanie sa zvyčajne začína popisným pozorovaním --
+vytváraním portrétu. Následne sa pozorovanie sústredí na relevantné
+procesy a problémy a ku koncu selektívne hľadá príklady na verifikovanie
+hypotéz. Pozorovanie musí byť čo najmenej rušivé, čiže písanie poznámok
+či robenie záznamov musí byť maximálne diskrétne. Poznámky sa často
+robia až bezprostredne po návšteve. Pozorovanie sa často dopĺňa
+organizačnou, či inštitucionálnou analýzou, ktoré odhaľujú sociálne,
+kultúrne a fyzické faktory vplývajúce na vzťahy medzi účastníkmi.
+
+*3. Záznam údajov a ich analýza*
+
+Záznam informácií by mal obsahovať čo najviac detailov. Kvalita výskumu
+závisí od dôkladnosti a úplnosti terénnych poznámok. Súčasne je veľmi
+dôležité, aby boli poznámky detailne spísané najneskôr do 24 hodín, inak
+sa veľa detailov stratí. Výskumník identifikuje "hodnotiace tvrdenia" a
+analýza sa zameriava na tieto tvrdenia.
+
+*4. Záver pozorovania*
+
+V závere sú typické tvrdenia prepísané a anonymizované. Tie sú potom
+poskytnuté účastníkom pozorovania, aby ich mohli pripomienkovať. Tento
+krok slúži na overenie, že nedošlo k skresleniu tým, že veci boli
+vytrhnuté z kontextu a javy sú interpretované tak, ako ich potvrdia
+účastníci. Pri nezúčastnenom pozorovaní výskumník nie je v priamom
+kontakte s účastníkmi a nie je tak citovo angažovaný, ale takouto formou
+prakticky nevie získať postoje účastníkov a ich vnímanie. Tento prístup
+je skôr zameraný na určité spôsoby správania sa než na kvalitatívny
+výskum ako taký.
+
+Pozorovanie sa používa na zhromažďovanie hĺbkových informácií o
+typických situáciách, ktoré sa dejú počas realizácie intervencie. Táto
+metóda poskytuje detailný pohľad na dôsledky intervencie a vplyv
+kontextu a odráža názory kľúčových aktérov a prijímateľov.
+
+Je to zvlášť užitočný prístup, ak sa štúdia zaoberá efektami
+intervencií, na ktorých je zainteresovaných niekoľko zúčastnených strán.
+Pozorovanie môžu tiež poskytnúť informácie o úlohe inštitucionálnych a
+organizačných procesov a ich účinkov na správanie sa zainteresovaných.
+
+Pozorovanie je tiež užitočné, ak musíme sledovať situáciu, o ktorej máme
+veľmi málo poznatkov, alebo ak je pravdepodobné, že rovnaká situácia je
+chápaná veľmi rozdielne, podľa toho, či ide o "externý" alebo "interný"
+pohľad. Používa sa na pochopenie toho, ako funguje vzdelávacia či
+zdravotnícka politika, vedecký výskum, doprava, bývanie a pod.
+V hodnotení sa pozorovanie využíva na sledovanie vzťahov medzi
+administratívou a verejnosťou, hlavne v prípadoch kde máme verejnosť,
+ktorá sa bežnými spôsobmi ťažko pozoruje, napr. dlhodobo nezamestnaní,
+drogovo závislí a pod.
+
+## Silné stránky a obmedzenia
+
+Pozorovanie sa dá použiť v prípade ak pracujeme s verejnosťou, ktorá má
+problém alebo nevie odpovedať na dotazníky, alebo poskytnúť informácie.
+Nezúčastnené pozorovanie je v podstate jediný nástroj, ktorý sa dá
+použiť ak nie je možné dostať sa priamo do komunity, napr. kvôli tomu,
+že je konanie prijímateľov nelegálne. Využíva sa tiež v prípadoch
+intervencií, ktorých fungovanie nie je známe, príp. ak tí, ktorí
+realizujú intervenciu a jej prijímatelia nevnímajú realitu rovnako.
+
+Metodika je časovo náročná a poskytuje veľké množstvo údajov, ktoré je
+potrebné spracovať a zanalyzovať. Pri štruktúrovanom pozorovaní sú tieto
+nároky nižšie a údaje sa dajú ľahšie agregovať a zovšeobecniť. Od
+výskumníka si to vyžaduje značné zručnosti, aby dokázal presne zachytiť
+a popísať správanie sa účastníkov.
+
+Napriek svojim výhodám si pozorovanie vyžaduje starostlivú prípravu, je
+časovo náročné kvôli zberu údajov a tým aj nákladné. Táto metóda
+umožňuje zber údajov v situáciách, keď sa nedajú použiť iné nástroje.
+Dokáže zachytiť neočakávané údaje, ktoré iné metódy nezachytia.
+Výskumník neurčuje aké údaje bude zbierať v teréne, ale hľadá "čo je k
+dispozícii" - teória vzniká na báze údajov z terénu, neurčuje aké údaje
+sa budú zbierať.
+
+Prítomnosť výskumníka počas pozorovania má vždy do určitej miery rušivý
+vplyv a výskumníci si musia byť tohto vplyvu vedomí a zohľadniť ho.

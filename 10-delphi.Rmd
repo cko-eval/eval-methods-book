@@ -1,0 +1,44 @@
+# Delphi metóda
+Táto technika je pomerne jednoduchá. Pozostáva zo série dotazníkov, ktoré sa posielajú vopred určenej skupine expertov. Dotazníky sú zostavené tak, aby poskytovali odpovede jednotlivcov na konkrétne zadanie  a umožnili expertom upravovať svoje názory počas práce celej skupiny. Podstatou metódy Delphi je prekonať nevýhody tradičných foriem "konzultácií v skupinách", hlavne čo sa týka dynamiky v skupine.
+
+Metóda Delphi je teda založená na niekoľkých kolách moderovanej, korešpondenčnej (čiže nepriamej) komunikácie medzi moderátorom (výskumníkom) a expertmi. Nepriama forma komunikácie znamená, že starostlivo vybraní experti nekomunikujú medzi sebou navzájom (vzhľadom na anonymitu o sebe dokonca ani nevedia) a sú v kontakte len s moderátorom. Ten formuluje a distribuuje jednotlivé otázky a následne zhromažďuje a sumarizuje získané odpovede. Tie sú v ďalšom kole distribuované jednotlivým účastníkom so žiadosťou o korekciu alebo potvrdenie vlastného stanoviska, príp. doplnenie argumentov či námietok atď.
+
+Proces komunikácie s expertmi môže prebiehať v niekoľkých kolách, často to bývajú 3 - 4 kolá pričom experti majú vždy aspoň raz možnosť zmeniť alebo doplniť svoje odpovede. Kľúčovými charakteristikami tejto metódy je teda anonymita expertov (nevedia o sebe, aby sa nemohli vzájomne ovplyvňovať a aby bola zaistená rovnosť názorov / expertných odhadov); niekoľko kolové opakovanie - zapojenie expertov, ktorí môžu reagovať na anonymné stanoviská ostatných expertov, čo zvyčajne vedie k postupnej konvergencii odhadov; korešpondenčný spôsob komunikácie, kedy je expertom ponechaný dostatočný časový priestor na formuláciu ich písomných stanovísk (obvykle rádovo niekoľko dní), ktoré zasielajú moderátorovi. Len výnimočne sa namiesto korešpondenčnej komunikácie vykonávajú hĺbkové rozhovory.
+
+Súbor expertov má niekoľko desiatok jednotlivcov; ich výber závisí na cieli prieskumu, snahou je zapojiť expertov, ktorí v danej oblasti aktívne pôsobia. Odborná kompetencia je predpokladom zaradenia danej osoby medzi expertov.
+
+## Účel
+
+Delphi umožňuje predovšetkým tvoriť skupinový úsudok. Odstraňuje skreslenie, ktoré prinášajú napr. fokusové skupiny kvôli dominancii vplyvných osobností. Môže sa využiť pri plánovaní na tvorbu hypotéz, pravdepodobných scenárov, alebo ich socio-ekonomických vplyvov. Využíva sa na predpovedanie vývoja v oblasti technológií, vzdelávania a pod. Hlavne sa však používa na sledovanie vývoja situácie, určenie priorít, náčrt možných scenárov, či expertné odhady budúcich trendov a prognózy budúceho vývoja. Delphi sa v širokej miere uplatňuje pri ex-ante hodnotení.
+
+## Podmienky použitia
+
+Pôvodne bola táto metóda vyvinutá na nepreskúmané a menej známe oblasti, ale v hodnotení sa využíva práve tam, kde existuje o subjekte dostatok poznatkov (neinovatívne intervencie). Odporúča sa, ak sú kladené otázky jednoduché (technická intervencia s niekoľkými cieľmi) za účelom vytvorenia kvantitatívneho odhadu možných dopadov samostatne prebiehajúcej intervencie (napr. zvýšenie daní, alebo zmeny ceny energií). Uplatňuje sa pri ex ante hodnotení verejných intervencií technickej povahy. Často sa preto využíva v rámci energetických politík, napr. pri odhade dopadov zmeny v daňovom systéme. V hodnoteniach EÚ financovaných intervencií, sa Delphi odporúča na získanie makro-ekonomických odhadov komplexných intervencií; napr. na kvantifikovanie dopadu dôležitého projektu infraštruktúry. Je veľmi užitočná ak intervencia pokrýva veľké územie, keďže pri nej nie je potrebné cestovať. Ukázala sa ako veľmi užitočná v programoch verejného zdravia (napr. zníženie užívania drog, prevencia AIDS/HIV) a vzdelávania.
+
+Pri jej využití treba zvážiť:
+
+* aký spôsob komunikácie so skupinou je vhodný?  
+* kto by mal byť expertom a kde sa tí ľudia nachádzajú?  
+* aké iné nástroje máme k dispozícii a aké výsledky sa dajú od nich očakávať?
+
+## Hlavné kroky
+
+Prístup spočíva v kladení otázok expertom v niekoľkých kolách. Účelom je dosiahnuť nejaké priblíženie sa, či konsenzus v nasledovných krokoch:
+
+1\. Stanovenie otázok: pozornosť sa musí sústrediť na výber a formuláciu otázok, aby sme získali potrebné informácie.
+
+2\. Výber expertov: musia mať špeciálne vedomosti v danej oblasti a byť pripravení zapojiť sa do tohto procesu. Zvyčajne to býva okolo 50 ľudí.
+
+3\. Formulácia prvého dotazníka, ktorý sa zasiela expertom: musí obsahovať krátku zmienku o tom, čo je účelom štúdie a obsahovať dve alebo tri čiastočne otvorené otázky.
+
+4\. Analýza odpovedí na prvý dotazník: odpovede sú analyzované tak, aby bola určená všeobecná hlavná línia a odčlenené najextrémnejšie odpovede.
+
+5\. Formulácia otázok a zaslanie druhého dotazníka expertom: každý expert je informovaný o výsledkoch prvého kola a požiadaný, aby poskytol nové odpovede a zdôvodnil ich, ak sa líšia od všeobecnej hlavnej línie.
+
+6\. Zaslanie tretieho dotazníka: tento dotazník je určený len pre tých expertov, ktorých odpovede boli "extrémne". Sú požiadaní o kritiku argumentov tých, ktorí podporili opačné stanovisko. Porovnanie názorov takto umožňuje priblížiť názory expertov. Dostatočné priblíženie názorov sa zvyčajne objaví v štvrtom kole. Ak nie, cyklus pokračuje.
+
+7\. Zhrnutie procesu a príprava záverečnej správy: analýza údajov získaných metódou Delphi by mala využiť štatistické metódy analýzy (napr. klastrovú analýzu) aby mohla identifikovať podobnosti a rozdiely v odpovediach expertov.
+
+## Silné stránky a obmedzenia
+
+Výsledky metódy Delphi sú  závislé na výbere expertov, čo je jednou z jej nevýhod. Z týchto dôvodov je táto metóda aj ťažko reprodukovateľná; jej výsledky sú citlivé aj kvôli nejednoznačnosti v dotazníkoch, ale aj kvôli tomu, že nie je ľahké posúdiť odbornosť zúčastnených expertov. Hlavným problémom tejto metódy je tendencia expertov prehnane zjednodušovať veci a chápať ich ako izolované. Je to hlavne prípad predikcií, kde experti zvyknú myslieť príliš priamočiaro. Na druhej strane je metóda Delphi užitočná na preskúmanie a rozbor špecifických a jednoduchých problémov. Menej sa podporuje jej využitie v komplexnom, viac-rozmernom modelovaní. V týchto prípadoch sa však potvrdzuje, že údaje zozbierané metódou Delphi sú užitočným vstupom, a podporené údajmi z iných zdrojov slúžia na komplexnú výstavbu scenára.

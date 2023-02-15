@@ -1,0 +1,75 @@
+# Analýza nákladov a prínosov
+Analýza nákladov a výnosov je hodnotiaca metóda čistého ekonomického dopadu verejného projektu. Sieber (2004) definuje CBA ako metodický postup, ktorý svojim priebehom zodpovedá základnú otázku: „Čo komu realizácia investičného projektu prináša a čo komu berie?“. Takto vymedzené dopady sú následne agregované, prevedené na hotovostné toky a zhrnuté do výpočtov rozhodujúcich ukazovateľov, na základe ktorých je možné rozhodnúť, či je projekt vo svojom dôsledku pre spoločnosť prínosom alebo nie. Drdúlová (2008) pri vymedzení CBA kladie dôraz na cieľ tejto metódy, ktorým je _napomôcť v rozhodovacom procese o realizácii opatrenia resp. projektu_. CBA vstupuje do tohto rozhodovacieho procesu svojou ekonomickou informáciou o prínosoch nákladov vynakladaných na realizáciu opatrení v súvislosti s disproporcionalitou nákladov. 
+
+Metóda sa používa na:
+
+1.  predpovedanie ekonomických vplyvov projektu,
+2.  kvantifikáciu ekonomických vplyvov projektu,
+3.  peňažné vyjadrenie ekonomických výsledkov,
+4.  výpočet ekonomickej návratnosti použitím relevantného indikátora (prostredníctvom ktorého sa dospeje k stanovisku o realizácii projektu).
+
+## Účel metódy
+
+Zdôvodnenie investičného projektu sa zhoduje s jeho realizovateľnosťou a ekonomickou výkonnosťou. CBA zvyčajne sprevádza štúdia uskutočniteľnosti projektu (technická, finančná, legislatívna, organizačná) a predstavuje konečnú syntézu. Hlavnou výhodou CBA v porovnaní s inými účtovníckymi hodnotiacimi metódami je to, že sú tiež zohľadnené vonkajšie faktory a pozorované cenové skreslenia. Týmto spôsobom sú explicitne zohľadňované trhové nedokonalosti, ktoré sa neodrážajú ani v podnikovom účtovníctve ani, v národných účtovných systémoch.
+
+## Podmienky použitia
+
+Systematické používanie analýzy nákladov a výnosov bol vyvinutý medzinárodnými organizáciami, predovšetkým Svetovou bankou. Dnes CBA zohráva dôležitú rolu v hodnotení majoritných projektov infraštruktúry, obzvlášť tých, ktoré sú spolufinancované z ERDF a Kohézneho fondu. Vo všeobecnosti sa analýza nákladov a výnosov používa ex-ante na výber investičného projektu. Taktiež môže byť použitá za účelom merania ekonomických dopadov intervencie. Zvyčajne sa používa pre veľké projekty v oblasti infraštruktúry, v sektore dopravy a životného prostredia, kde je ľahšie kvantifikovať a vyjadriť peňažný netrhový vplyv[^1]. CBA sa používa aj na vyhodnotenie projektov v oblasti zdravotníctva, vzdelávania, kultúrneho dedičstva a pod. CBA nie je bežne používaná na hodnotenie intervencií.
+
+## Hlavné kroky[^2]
+
+_1\. Identifikácia investičného projektu_
+
+Prvý krok slúži na identifikovanie a definovanie podstaty investičného projektu. Je vhodné vymedziť skupinu subjektov, ktoré budú realizáciou projektu zasiahnuté a získajú z jeho realizácie nejaký prínos. Pokiaľ sa nerozhoduje medzi viacerými projektmi – zostaví sa rebríček, za akých okolností investícia bude a nebude zrealizovaná. Je nevyhnutné definovať situáciu, kedy projekt bude realizovaný a situáciu kedy projekt nebude realizovaný. V tejto fáze sa odporúča vymedziť si jednotlivé fázy projektu a ich trvanie[^3].
+
+_2\. Finančná a ekonomická analýza_
+
+Finančná analýza je východiskom pre následné ekonomické analýzy. Poskytuje všetky potrebné údaje týkajúce sa vstupov, výstupov, ich relatívnej ceny a spôsob, akým sú distribuované v priebehu času.
+
+V tomto kroku sú prehodnotené všetky náklady a výnosy projektu vo všetkých jeho fázach. Náklady spojené s predinvestičnou fázou sa do analýzy nezahŕňajú. Ide predovšetkým o vypracovanie projektovej dokumentácie, administratívne náklady spojené s prípravou a realizáciou projektov a projekty na vypracovanie samotnej analýzy. Tieto náklady sú realizované bez ohľadu na to, či daný projekt bude alebo nebude realizovaný. Následná investičná fáza je spojená s prevahou nákladov nad výnosmi (resp. prínosmi). V realizačnej fáze, ktorej trvanie je vymedzené spustením projektu do prevádzky a trvá do okamihu jeho ukončenia, by mali prevažovať výnosy (resp. prínosy) nad nákladmi. V porealizačnej etape je projekt ukončený ale stále môže ovplyvňovať náklady a výnosy niektorých zainteresovaných subjektov, preto je potrebné zohľadňovať a brať ich do úvahy.
+
+Veľmi dôležitým krokom pri vypracovaní analýzy je stanovenie diskontnej sadzby. Sieber (2004) definuje diskontnú sadzbu ako _...výnosovú mieru, ktorú ponúkajú z hľadiska rizika porovnateľné investičné alternatívy_. Diskontná sadzba slúži k prevodu peňažných tokov realizovaných v budúcnosti na ich súčasnú hodnotu.
+
+V tomto kroku dochádza k vyhodnocovacej fáze metódy CBA. Všetky kvantifikované náklady a výnosy sú známe pre zainteresované subjekty v jednotlivých rokoch a sú vyjadrené v podobe hotovostných tokov (príjmy a výdavky). Následne je možné kvantifikovať rozhodujúce ukazovatele:
+
+_Súčasná hodnota (PV)_ – predstavuje súčet všetkých budúcich peňažných tokov plynúcich z investície prevedených na ich súčasnú hodnotu.
+
+_Čistá súčasná hodnota (NPV)_ – predstavuje súčet súčasných hodnôt budúcich hotovostných tokov plynúcich z investície vrátane hotovostného toku v roku 0 (prvotného investičného výdavku).
+
+_Vnútorné výnosové percento (IRR)_ – predstavuje takú úroveň diskontnej sadzby, pri ktorej bude čistá súčasná hodnota toku plynúca z investície rovná nule.
+
+_Index rentability_ – predstavuje podiel čistej súčasnej hodnoty projektu na hotovostnom toku nultého obdobia (na investičných výdavkoch).
+
+_Doba návratnosti z diskontovaných tokov_ – predstavuje ukazovateľ, ktorý vypovedá o dobe, za ktorú nám výnos projektu nahradí investíciu  na jej počiatku.
+
+_3\. Výber vhodného projektu_
+
+V poslednom kroku CBA metódy sa vytvorí poradie výsledkov, podľa významu, ktorý sa im bude prisudzovať, a to z toho dôvodu, že jednotlivé kritéria by si mohli vzájomne protirečiť. Pri zostavovaní poradia je potrebné zvážiť aj ich obmedzenia.
+
+## Silné stránky a obmedzenia
+
+Silné stránky
+
+* Systematický postup úspešne použiteľný takmer na každý projekt  
+* Takmer plné využitie teoretického a metodického aparátu podnikových financií  
+* Zohľadňuje externality a deformácie ceny
+
+Obmedzenia
+
+* Vyjadrenie všetkých vstupov a výstupov v peňažných jednotkách závisí na odhade hotovostných tokov  
+* Nie je možné efektívne použiť v prípade projektov regulovaných externými normami  
+* Problém výberu vhodného hodnotiaceho kritéria 
+
+
+
+[^1]: metodiky MF SR: https://www.mfsr.sk/sk/financie/hodnota-za-peniaze/hodnotenie-investicnych-projektov/hodnotenie-investicnych-projektov.html
+
+[^2]: metodické usmernenie použitia metódy CBA je možné nájsť v Metodickom pokyne č.7 vydanom CKO, ÚPPVII.
+
+[^3]: Predinvestičná fáza – obdobie prípravy projektu a rozhodovania o jeho realizácii alebo zamietnutí.
+
+Investičná fáza – obdobie od začiatku investičnej výstavby projektu do zahájenia jeho prevádzky.
+
+Realizačná fáza – obdobie od zahájenia prevádzky po jeho uskutočnenie.
+
+Likvidačná fáza (porealizačná fáza) – obdobie, v ktorom sa projekt neprevádzkuje.
