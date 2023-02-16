@@ -1,4 +1,4 @@
-# (PART) Hodnotenie dopadov {-}
+# (PART\*) Hodnotenie dopadov {-}
 Jedným zo základov hodnotenia intervencií sociálno-ekonomického rozvoja
 je kvantifikácia a vysvetlenie ich efektov. Aby mohli tvorcovia politík
 prijímať informované rozhodnutia musia vedieť čo funguje a čo nefunguje,

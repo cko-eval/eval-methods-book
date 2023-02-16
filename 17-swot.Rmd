@@ -1,0 +1,63 @@
+# SWOT analýza
+SWOT je skratka pre silné stránky (strengths – S), slabé stránky (weaknesses – W), príležitostí (opportunities – O) a hrozby (threats – T). SWOT analýza nie je analytickým nástrojom sama o sebe; je to spôsob ako syntetizovať predchádzajúce analýzy a použiť ich pre rozvoj stratégie. Vo svojej základnej forme ide o štruktúrovaný zoznam charakteristík organizácie a jej interného a externého prostredia, ktorý sa často používa na uľahčenie diskusie o strategickom plánovaní. Podľa niektorých autorov SWOT analýza musí smerovať k identifikovaniu a posúdeniu vplyvov ako aj predikcii vývojových trendov vonkajšieho a vnútorného prostredia analyzovanej organizácie a ich vzájomných súvislostí. Ide o veľmi rozšírený nástroj, predovšetkým preto, že je jednoduchý a nie je náročný na prípravu. V politike súdržnosti, ja táto metóda používaná ako súčasť socio-ekonomickej analýzy regiónov. V niektorých prípadoch sa používa ako podpora pre identifikáciu vhodnej stratégie.
+
+## Účel metódy
+
+SWOT analýza sa začala používať v roku 1960 a pochádza z diel obchodnej politiky akademikov. Bola navrhnutá za účelom použitia spoločnosťami v ich strategickom plánovacom procese. Koncepčne je založená na „strategic fit“ myšlienke, že organizácia je úspešná, ak jej vnútorná charakteristika (silné a slabé stránky) zapadá do vonkajšieho prostredia (príležitosti a hrozby) pričom zásadnou úlohou strategického plánovania je zaistenie dlhodobého súladu medzi nimi.
+
+Potom čo boli identifikované vnútorné a vonkajšie faktory, SWOT dvojica silných a slabých stránok s príležitosťami a hrozbami v podstate dáva štyri typy strategických možností:
+
+* zameraním sa na silné stránky a využitím príležitostí;  
+* zameraním sa na silné stránky a vyhýbanie sa alebo minimalizovanie hrozieb;  
+* identifikovaním slabých stránok, ktoré môžu zabrániť úspechu cieľom;  
+* identifikovaním slabých stránok, ktoré môžu predstavovať veľké riziko v spojení s hrozbami.
+
+Tieto možnosti nie sú nevyhnutné alternatívy. Kľúčom rozvoja stratégie je spojiť tieto možnosti spôsobom, ktorý zaistí „strategic fit“ a tým je aj organizácia schopná maximalizovať výhody, ktoré pochádzajú z meniaceho sa prostredia.
+
+## Podmienky použitia
+
+Predmet SWOT analýzy sa môže meniť a aj postup je veľmi flexibilný. SWOT analýzy môže byť použitá pre firmu, produkt, projekt, politiku alebo dokonca aj program rozvoja. Avšak, môže byť použitá aj pre posúdenie vhodnosti v súvislosti s určitými cieľmi, v takom prípade stanovenie cieľov predchádza.
+
+## Hlavné kroky
+
+SWOT predstavuje flexibilný nástroj, ktorý môže byť uplatnený rozličným spôsobom. Ak chceme maximalizovať príspevok SWOT v procese strategického plánovania, niektoré kroky sú nutné.
+
+_1\. Identifikovanie cieľov intervencie_
+
+Ako už bolo spomínané vyššie, SWOT je interpretovaná v nadväznosti na ciele. Prvý krok je veľmi dôležitý, pretože jednotlivým prvkom je možné porozumieť len vo vzťahu k cieľu. Je to nevyhnutné pre rozhodovanie o tom, či je faktor prospešný alebo neprospešný, a tiež či je relevantný pre analýzu alebo nie.
+
+_2\. Identifikovanie externých faktorov: príležitosti a hrozby_
+
+Vonkajšie faktory sú charakteristiky budúcich trendov (ktoré už môžu existovať v súčasnosti), ktoré môžu mať vplyv na dosiahnutie našich cieľov. Tieto faktory nemôžu riadiť tí, ktorí robia rozhodnutia. Samotná analýza môže byť súčasťou SWOT alebo môže byť vykonaná mimo nej. Dôraz je kladený na identifikáciu externých faktorov a ich posúdenie do akej miery sú priaznivé alebo nepriaznivé.
+
+_3\. Interná analýza silných a slabých stránok_
+
+Vnútorné faktory sú charakteristiky, ktoré už existujú a sú pod kontrolou tých, ktorí robia rozhodnutia. V závislosti od toho, či prispievajú k dosiahnutiu cieľa alebo v tom bránia, sú zaradené medzi silné alebo slabé stránky. Podobne ako v predchádzajúcom kroku, analýza môže byť súčasťou SWOT alebo môže byť realizovaná mimo nej.
+
+_4\. Párovanie externých a interných faktorov_
+
+Štyri strategické možnosti sú popísané v tomto kroku (Tab. 4).
+
+: Tab. 4 SWOT analýza
+
+|     |     |
+| --- | --- |
+| **Silné stránky (Strengths)** | **Slabé stránky (Weaknesses)** |
+| **Príležitosti (Opportunities)** | **Hrozby (Threats)** |
+Ak sú SWOT zložky veľmi komplexné, môžu byť rozdelené do kategórií (napr. hrozby môžu byť rozdelené na environmentálne a ekonomické). V tomto prípade počet párovaní môžeme zvýšiť, napr. párovanie silných stránok a slabých stránok voči obom environmentálnym a ekonomickým hrozbám.
+
+_5\. Vypracovanie stratégie_
+
+Tieto štyri strategické možnosti sa kombinujú za účelom vytvorenia stratégie. Interakcia medzi rôznymi možnosťami môže byť veľmi zložitá, pretože sa môžu dopĺňať alebo vzájomne si odporovať. Finálnym výsledkom tohto kroku budú ciele a stratégia na ich dosiahnutie.
+
+## Silné stránky a obmedzenia
+
+Napriek svojej popularite, SWOT je tiež kritizovaná ako koncepčne, tak vo svojom použití. SWOT nemusí byť realizovateľná, keď prostredie (alebo organizácia, ktorá vytvára stratégie) sa veľmi rýchlo mení a budúce trendy sú neisté. V týchto prípadoch SWOT môže viesť k „falošnej neistote“ a stanoveniu stratégie, ktorá môže byť nepriaznivá.
+
+Vykonávanie SWOT analýzy môže čeliť niekoľkým nástrahám:
+
+* SWOT analýza môže byť príliš dlhá. SWOT analýza môže vyžadovať klasifikáciu všetkých charakteristík organizácie alebo prostredia (aj keď nie sú relevantné pre ciele).
+* Položky na zozname sú nejasné a nejednoznačné. Ľudia majú tendenciu použiť dve alebo tri slová na opis komplexného faktoru, ktorý môže viesť k zavádzajúcim interpretáciám, ak detailný opis nie je uvedený.
+* Neexistuje žiadna prioritizácia prvkov: každá silná stránka, slabá stránka, ktorá je uvedená, má rovnaký význam. Tomu sa dá zabrániť priradením váh alebo priorít každému z nich.
+* Rovnaký faktor sa môže objaviť v protichodných kategóriách. Napríklad „nízka nezamestnanosť“ môže byť považovaná aj za silnú stránku (nízky tlak na sociálne zabezpečenie) a ako aj slabá stránka (tlak na mzdy). Určenie tohto fenoménu môže závisieť od ďalších analýz (ktoré hospodárske odvetvia sú hlavným zdrojom pracovných miest), životného prostredia (napr. budúce trendy v týchto odvetviach) a cieľov (napr. cieľom je zlepšenie environmentálnej situácie v regióne alebo štrukturálne zmeny v ekonomike)
+* V mnohých prípadoch SWOT obsahuje vyhlásenia, ktoré nie sú overené alebo podporované dôkazmi, ale skôr odrážajú názor ľudí pracujúcich na SWOT. To môže viesť k vážnym problémom, ak existuje výrazný rozdiel medzi realitou a jej vnímaním danej skupiny ľudí.

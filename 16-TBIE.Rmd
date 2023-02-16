@@ -1,0 +1,129 @@
+# Prístupy hodnotenia dopadov založené na teórii
+Experimentálne a kvázi experimentálne prístupy sú vhodné na overenie, či intervencia funguje, ale majú niekoľko nedostatkov. Nie vždy sú tieto prístupy realizovateľné. V niektorých prípadoch nie je možné vytvoriť situáciu bez intervencie. Niekedy môže ísť o etický problém, v iných prípadoch nemusia byť k dispozícii zdroje alebo čas potrebný na realizáciu. Experimentálne a kvázi experimentálne prístupy sa nepokúšajú odpovedať na otázku "Či to  bola intervencia alebo kontext, ktorý viedol k výsledkom? Ak sa nedosiahli výsledky, bolo to preto lebo intervencia nefungovala? Bola dôvodom nesprávna intervenčná logika, alebo zlá implementácia?" Odpovede na tieto otázky sú však dôležité na zlepšenie intervencie alebo jej realizáciu na inom mieste či iným spôsobom. Keďže experimentálne prístupy nekladú tieto otázky, sú často popisované ako "čierne skrinky"; môžu posúdiť, či dosiahli očakávané výsledky, ale neskúmajú dôvody, prečo intervencia (ne)fungovala. Prístup k hodnoteniu založený na teórii môže pomôcť riešiť tieto nedostatky a posúdiť rozsah, v akom intervencia priniesla alebo ovplyvnila pozorované výsledky.
+
+## Účel
+
+Prístupy k hodnoteniu založené na teórii (theory-based evaluation – TBE) používajú _teóriu zmeny_ na vyvodenie záverov o tom, či a ako intervencia prispela k pozorovaným výsledkom. TBE môžu byť použité v kombinácii s väčšinou metód a techník hodnotiacich výsledky intervencií.
+
+Hodnotenie založené na teórii je prístup k hodnoteniu (t. j. koncepčný analytický model) a nie špecifická metóda alebo technika, napriek tomu je súčasťou tejto príručky. Je to spôsob štruktúrovania a analýzy v hodnotení.
+
+Teória zmeny vysvetľuje ako intervencia prinesie svoje očakávané výsledky. Teória zvyčajne začína s postupnosťou udalostí a reťazcom výsledkov (výstupy, výsledky, dopady). Toto sa bežne označuje ako "intervenčná logika" alebo "logický model". Teória zmeny však ide ešte ďalej tým, že načrtáva mechanizmy zmien, predpoklady, riziká a kontext, ktoré podporujú alebo bránia tomu, aby sa teória prejavila vo forme pozorovaných výsledkov. Skúma kauzálnu súvislosť medzi výstupmi a pozorovanými výsledkami. Teória zmeny môže porovnať predpokladaný kauzálny reťazec výsledkov s tým, čo je pozorované v skutočnosti, a skontrolovať každý vzťah a predpoklad v teórii. Teória zmeny vysvetľuje čo by sa malo udiať v „prepojeniach“, ktoré spájajú jednotlivé prvky. Vo forme logického modelu (napr. logframu) popisuje a vysvetľuje kauzálne väzby medzi výstupmi, výsledkami a dopadmi.
+
+Dve kľúčové idey, ktoré odlišujú TBE prístupy od tradičných prístupov, sú (1) vplyv kontextu na výsledky intervencie a (2) skôr mechanistický ako kontrafaktuálny prístup k určovaniu kauzality. TBE venuje kontextu intervencie omnoho väčšiu pozornosť ako iné evaluačné prístupy. Napríklad v intervencii zameranej na zníženie fajčenia budú kontextové faktory zahŕňať nadšenie tých, ktorí sú za zákaz, „pochopenie“ cieľovej skupiny a súvisiace právne predpisy. Pri vypracovaní teórie zmeny  by mal byť kontext jasne popísaný alebo by sa mal na základe diskusie premietnuť do predpokladov, z ktorých intervencia vychádza.
+
+## Podmienky použitia
+
+TBE sa pokúša pochopiť príspevok intervencie k pozorovaným výsledkom mechanickou alebo procesnou interpretáciou kauzálnych súvislostí namiesto porovnania s kontrolnou skupinou. V TBE sa testujú špecifické kroky a mechanizmy. Ak sa tieto dajú potvrdiť empirickými dôkazmi, potom je možné vyvodiť kauzálny záver pričom sa identifikujú a posudzujú všetky dostupné faktory (t. j. kontextové faktory), ktoré môžu tiež zohrávať úlohu v kauzálnej reťazi.
+
+_Teória zmeny a logické modely_
+
+Na opis výsledkov intervencií sa používajú logické modely (logický rámec/logframe je jednou z nich). Teória zmeny vychádza z kauzálneho reťazca výsledkov (výstup – výsledok – dopad a študuje jednotlivé vzťahy (logiku "krátkeho cyklu" medzi jednotlivými prvkami) kým logický model je o celom reťazci výsledkov. Jednoducho povedané, TBE vysvetľujú, ako intervencia prinesie požadované výsledky a nie len opis výsledkov.
+
+Všeobecne platí, že teória zmeny zahŕňa:
+
+* logický model/reťazec výsledkov;  
+* predpoklady, riziká a v niektorých prípadoch mechanizmy súvisiace s každým článkom v reťazci výsledkov;  
+* vonkajšie faktory, ktoré môžu ovplyvniť očakávané výsledky; a  
+* všetky empirické dôkazy podporujúce predpoklady, riziká a vonkajšie faktory.
+
+_Predpoklady_ sú kľúčové udalosti alebo podmienky, ktoré sa musia vyskytnúť, aby kauzálna súvislosť existovala. _Riziká_ sú vplyvy alebo udalosti mimo intervencie, ktoré môžu brániť vzniku kauzálnej súvislosti. _Vonkajšie faktory_ sú okolnosti mimo kontroly intervencie (sociálne, politické alebo ekonomické), ktoré môžu ovplyvniť schopnosť intervencie dosiahnuť zamýšľaný výsledok.
+
+Existujú dve kategórie TBE: realistické hodnotenie a prístup založený na teórii zmeny.
+
+## Realistické hodnotenie
+
+Realistické hodnotenie vychádza z toho, že fungovanie intervencií závisí od základných mechanizmov, ktoré sú v hre v konkrétnom kontexte:  výsledok $=$ mechanizmus $+$ kontext
+
+Realistické hodnotenie vyvíja a potom empiricky testuje hypotézy o tom, aké výsledky sú produkované akými mechanizmami v akých kontextoch. Realistický prístup sa zameriava na základnú intervenčnú logiku a jej behaviorálne predpoklady ako aj podmienky podporujúce intervenciu. Dôraz sa kladie na najsľubnejšie konfigurácie, ktoré ukazujú, ako majú intervencie fungovať, v ktorých populáciách a za akých podmienok. Tie možno vnímať ako mini-teórie zmeny.
+
+### Hlavné kroky
+
+Realistické hodnotenia, s použitím intervencie odvykania od fajčenia ako príkladu, pozostáva z nasledovných krokov:
+
+1. Hodnotiteľ sa prostredníctvom dialógu s realizátormi intervencie snaží pochopiť povahu intervencie/programu: Aký je cieľ nášho programu odvykanie od fajčenia? Aká je povaha cieľovej populácie, pre ktorú je určená? V akých kontextoch a nastaveniach bude fungovať? Aké existujú teórie o tom, prečo odvykanie od fajčenia bude fungovať u niektorých ľudí za určitých okolností?
+
+2. Hodnotiteľ mapuje sériu potenciálnych mini-teórií, ktoré sa týkajú rôznych kontextov programu a viacerých mechanizmov, ktoré produkujú rôzne výsledky. Napríklad, vedomosti lekára by mohli naznačovať, že zameranie vzdelávania na pôrodné asistentky (o negatívnych účinkoch na deti v maternici) bude najúčinnejšie pre tehotné ženy, ostatné mladé ženy by menej reagovali na hrozbu zdravotných účinkov na deti, ale možno by skôr reagovali na svoj imidž.
+
+3. V tejto fáze hodnotiteľ skúma _výsledky súvisiace s_ mini-teóriami. Mohol by sa napríklad zaoberať tým, ako bývalí fajčiari reagujú na rôzne služby, ktoré sú im poskytované. Tento obraz zahŕňa posúdenie rozsahu, v akom sa spustili psychologické motivácie a mechanizmy, po poskytnutí špecifických služieb pre fajčiarov.
+
+4. Skúmaním, súvislostí medzi kontextom, mechanizmom a výstupmi/výsledkami si hodnotiteľ spresňuje a vyvíja predbežné teórie o tom, čo funguje, pre koho za akých okolností.
+
+Kľúčovou silou realistického prístupu je jeho zameranie na kontext. Kontext musí byť súčasťou hodnotiaceho rámca a špeciálne súvislosti, či už v rámci intervencie alebo mimo jej kontroly, môžu viac upriamiť alebo odviesť pozornosť od toho, ako dobre intervencia funguje.
+
+## Prístupy založené na teórii zmeny
+
+Tieto prístupy zahŕňajú vypracovanie teórie zmeny pre intervenciu. Tá ukazuje, ako má konkrétna intervencia fungovať a aké predpoklady stoja za teóriou. Majú tendenciu zaoberať sa tradičnými hodnotiacimi otázkami, či a do akej miery intervencia fungovala. Vždy najprv vypracujú teóriu zmeny pre intervenciu a potom overia do akej miery teória zodpovedá tomu, čo je pozorované.
+
+Jedna z teórií zmeny – analýza príspevkov, tvrdí, že ak hodnotiteľ môže potvrdiť teóriu zmeny empirickými dôkazmi a zohľadniť hlavné vonkajšie ovplyvňujúce faktory, potom je logické dospieť k záveru, že intervencia spôsobila zmenu. Súčasne teória identifikuje nedostatky v argumentoch, čiže zistí kde chýbajú, alebo nie sú dostatočné dôkazy na podporu takýchto tvrdení. Kauzalita sa odvodzuje z týchto dôkazov:
+
+* Intervencia je založená na odôvodnenej teórii zmeny: reťazec výsledkov a základné predpoklady určujúce, že intervencia bude fungovať, sú hodnoverné a odsúhlasené kľúčovými aktérmi.
+
+* Aktivity intervencie boli implementované.
+
+* Teória zmeny je overená dôkazmi: objavil sa reťazec výsledkov, splnili sa predpoklady a boli dosiahnuté výsledky.
+
+* Vyhodnotili sa vonkajšie faktory (kontext), ktoré ovplyvňovali intervenciu, a ukázalo sa, že nemali výrazný vplyv, a ak áno, bolo to zohľadnené.
+
+Nakoniec sa dospeje k záveru, či intervencia prispela k zmene. Sumárne:
+
+deklarovaný príspevok $=$ overená teória zmeny $+$ iné kľúčové ovplyvňujúce faktory
+
+Vypracovanie teórie zmeny zahŕňa identifikáciu činností, výstupov a postupnosti v reťazci výsledkov potrebných na dosiahnutie očakávaných benefitov. To často zahŕňa vývoj logického modelu s primeraným reťazcom výsledkov a opis toho, čo šípky alebo iné spojenia v reťazci výsledkov znamenajú.
+
+### Použitie TBE na kauzálne závery
+
+Kauzálne závery (tvrdenia o príčinách a následkoch) možno vyvodiť testovaním teórie zmeny intervencie oproti pozorovanému skutočnému stavu a posúdením vplyvu iných vonkajších faktorov. Jedným z takýchto prístupov, o ktorých sa diskutuje v tejto časti, je analýza príspevkov (contribution analysis). Obsahuje sedem krokov a výsledkom analýzy príspevkov by mal byť dôveryhodný "príbeh" (t. j. naratívny opis teórie zmeny a jej podporných dôkazov). Týchto sedem krokov je zvyčajne predmetom neustáleho skúmania a revízie.
+
+_1\. Stanoviť príčinu a následok, ktorý sa má riešiť_
+
+Prvým krokom v analýze príspevkov je objasniť rozsah hodnotenia a formulovať hodnotiace otázky, ktoré vysvetlia mechanizmus príčina-následok. Zvyčajne to sú otázky ako: Prispela intervencia k riešeniu problému? Aké aspekty intervencie alebo kontextu prispeli k riešeniu problému? Následne je potrebné vzhľadom na hodnotiaci kontext a povahu rozhodnutí, ktoré má hodnotenie informovať, určiť úroveň spoľahlivosti; preskúmať povahu a rozsah príspevku očakávaného od intervencie; určiť, aké dôkazy by pomohli potvrdiť, že intervencia výrazne prispela k plánovaným výsledkom; a posúdiť, či je očakávaný príspevok vo všeobecnosti hodnoverný vzhľadom na povahu intervencie (t. j. určiť, či sa problém môže primerane riešiť prostredníctvom intervencie).
+
+_2\. Vypracovať teóriu zmeny_
+
+Vypracovanie teórie zmeny je druhým krokom v analýze príspevkov. Znamená zo vytvoriť počiatočnú a upravenú teóriu zmeny pre intervenciu; pri budovaní teórie zmeny, určiť úroveň potrebných detailov - analýza príspevkov sa najlepšie vykonáva s primerane priamočiarymi a nie príliš podrobnými reťazcami výsledkov, najmä na začiatku, v neskorších krokoch sa môžeme rozhodnúť aké ďalšie podrobnosti a vylepšenia sú potrebné na ďalšie preskúmanie niektorých aspektov teórie zmeny, ale tieto môžu byť pridané neskôr.
+
+_3\. Posúdiť výsledný príspevok (kontribúciu)_
+
+V tomto bode je užitočné kriticky preskúmať príspevok vyplývajúci z vypracovanej teórie zmeny: posúdiť logiku a otestovať hodnovernosť predpokladov v teórii zmeny (Sú v teórii medzery? Môžu byť vyplnené ďalším zdokonalením teórie zmeny? Ak nie, aké ďalšie kroky sú potrebné na vytvorenie dôveryhodného hodnotenia?); identifikovať kde sa vyžadujú dôkazy na posúdenie príspevku (Čo je podložené minimálnymi alebo žiadnymi dôkazmi? Ktoré vonkajšie faktory nie sú dobre pochopené?); zistiť, do akej miery je akceptovaná teória zmeny (Je na tom široká dohoda? Sú spochybnené špecifické aspekty? Je v hre niekoľko teórií zmeny?).
+
+_4\. Zhromaždiť existujúce dôkazy o teórii zmeny_
+
+Pred zhromažďovaním nových údajov je užitočné pozrieť sa na existujúce údaje a informácie týkajúce sa teórie zmeny: zhromaždiť existujúce dôkazy, ako sú predchádzajúce hodnotenia, výskum, monitorovanie a správy, aby ste poskytli empirické dôkazy o príspevku, ktorý si intervencia nárokuje; zhromaždiť dôkazy o identifikovaných vonkajších vplyvoch (t. j. údaje, ktoré pomáhajú určiť hodnovernosť týchto vplyvov na teóriu zmeny), v niektorých prípadoch môžu hodnotitelia chcieť vytvoriť teórie o tom, ako môžu vonkajšie faktory ovplyvňovať intervenciu. V tejto fáze analýzy je vypracovaná teória zmeny a zhromaždené dostupné dôkazy podporujúce teóriu zmeny. Teória zmeny bola do určitej miery testovaná, boli identifikované významné vonkajšie faktory a zhromaždili sme všetky podporné dôkazy.
+
+_5\. Prehodnotiť príspevok_
+
+Príspevok vyplývajúci z teórie zmeny možno teraz kriticky posúdiť na základe existujúcich dôkazov. Na kritické posúdenie príspevku je potrebné: určiť, ktoré väzby v teórii zmeny sú silné (silná logika; dobrý dôkaz k dispozícii, že platia predpoklady, nízke riziko a / alebo široká akceptácia), a ktoré sú slabé; posúdiť celkovú dôveryhodnosť (Potvrdzuje model pozorovaných výsledkov a vzťahov reťazec výsledkov?); zistiť, či zainteresované strany súhlasia s príspevkom; posúdiť pravdepodobnosť, či niektorý z významných vonkajších faktorov mal vplyv na pozorované výsledky; identifikovať hlavné nedostatky; a upraviť teóriu zmeny, v prípade potreby prehodnotiť príspevok.
+
+_6\. Vyhľadať ďalšie empirické dôkazy_
+
+Až v tomto kroku sa začne zber nových primárnych údajov pre hodnotenie. V tejto fáze by hodnotitelia mali zhromaždiť dôkazy potrebné na posilnenie dôkazov o príspevku s použitím vhodných techník na zber údajov. Cieľom je vyhľadať údaje, ktoré poskytnú dôkazy o výsledkoch; o platnosti predpokladov a rizík v teórii zmeny; a o významných vonkajších faktoroch, ktoré mohli ovplyvniť dosiahnuté výsledky. Na preskúmanie prvkov teórie zmeny by sa mohli použiť aj kvázi-experimentálne alebo experimentálne prístupy zahŕňajúce porovnávacie skupiny.
+
+Z teoretického hľadiska sa na posilnenie testovania teórie môže použiť niekoľko štandardných techník zberu údajov. Kľúčové rozhovory s informátormi sú vhodné na vytvorenie alternatívnych teórií zmeny a na diskusiu o ďalších ovplyvňujúcich faktoroch. Pri zhromažďovaní odpovedí je užitočné zistiť dôkazy, na základe ktorých si informátori tvoria svoje názory. Fokusové skupiny a workshopy sú tiež dobrými metódami na preskúmanie teórie zmeny, pretože umožňujú diskusiu o tom, ako rôzni aktéri vidia fungovanie intervencie. Môžu objaviť alternatívne teórie o zmene a môžu identifikovať ďalšie faktory. Prípadové štúdie sa môžu použiť rovnakým spôsobom ako fokusové skupiny. V kontexte teórie zmeny sú prípadové štúdie lepšie na zber dát a pomáhajú (ne)potvrdiť teóriu zmeny, alebo jednotlivé "mikro-kroky" v teórii zmeny. Ukazujú, že teória zmeny je skutočne vierohodná a zakladá sa na overených tvrdeniach.
+
+_7\. Revidovať a posilniť príspevok_
+
+Pomocou nových dôkazov zhromaždených vyššie, môžu hodnotitelia dôveryhodnejšie potvrdiť príspevok, s odôvodnenými závermi o kauzálnych súvislostiach. Je dobré zopakovať, že prístupy založené na teórii ako je analýza príspevkov, fungujú najlepšie ako iteračný proces. V tomto bode analýzy sa preto hodnotiteľ môže rozhodnúť a vrátiť sa ku kroku 5 alebo dokonca k predchádzajúcim krokom na prehodnotenie silných a slabých stránok teórie zmeny a príspevku.
+
+## Silné a slabé stránky
+
+TBE prístupy k hodnoteniu nie sú všeliekom pre posúdenie výsledkov intervencií. Majú však niekoľko pozitívnych vlastností:
+
+* Často sa môžu vykonávať za okolností, keď nie je možné použiť iné prístupy (napr. experimentálne prístupy).
+
+* Umožňujú hodnotiteľom posúdiť príspevok, ktorý má zmysel pre zúčastnené strany.
+
+* Otvárajú čiernu skrinku intervencie, čo umožňuje hodnotiteľom dospieť k zisteniam o tom, prečo intervencie fungujú alebo nefungujú.
+
+* Umožňujú vyvodiť závery o kauzálnych prvkoch intervencie.
+
+* Môžu pomôcť vo väčšej miere využiť existujúce údaje a zamerať nový zber údajov na oblasti, v ktorých existujú významné medzery.
+
+Zároveň má využívanie TBE prístupov aj isté výzvy:
+
+* Zvyčajne neposkytujú kvantitatívne meranie veľkosti príspevku, ktorý intervencia poskytuje. Stále môže byť potrebná ďalšia analýza na meranie veľkosti pozorovaných výsledkov.
+
+* Vypracovanie teórie zmeny môže byť ťažké, pretože zahŕňa syntézu celého radu názorov a informačných zdrojov, ako aj získanie súhlasu zainteresovaných strán.
+
+* V niektorých situáciách môže byť vypracovanie teórie zmeny časovo náročné a/alebo vyžadovať značné množstvo údajov.
+
+* Môže sa objaviť viac ako len jedna teória zmeny. Ak sa objavia viaceré teórie zmeny, možno bude nutné otestovať ich na základe dôkazov, aby sme zistili, ktorá teória najlepšie odráža realitu. V takýchto prípadoch môžu hodnotitelia chcieť zamerať svoje úsilie na to, kde a v čom sa teórie líšia a skúmať dôvody a dôsledky tohto rozdielu.

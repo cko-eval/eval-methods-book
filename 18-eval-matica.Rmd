@@ -1,0 +1,134 @@
+# Hodnotiaca matica
+
+Užitočný nástroj spojený s plánovaním a organizovaním hodnotenia
+predstavuje hodnotiaca matica, ktorá sa vytvára v procese prípravy
+a plánovania konkrétneho hodnotenia. Jej cieľom je nachádzanie odpovedí
+na hodnotiace otázky prostredníctvom identifikovania relevantných údajov
+podrobených analýze a vhodnej hodnotiacej metódy využitím náležitých
+techník zberu údajov. V priebehu hodnotenia je však možné hodnotiacu
+maticu upravovať, aktualizovať a prispôsobiť podmienkam a požiadavkám
+hodnotiteľa.
+
+Hodnotiaca matica predstavuje základný nástroj pre plánovanie
+a organizovanie hodnotenia, ktorý prispieva k jeho podpore a zvyšuje
+kooperáciu medzi hodnotiteľmi a zadávateľom, resp. pracovníkmi
+zabezpečujúcimi implementáciu príslušnej intervencie. Hodnotiaca matica
+slúži predovšetkým na identifikovanie potreby výkonu konkrétneho
+hodnotenia a  jasného prepojenia každého kroku v hodnotiacom procese.
+Zoskupuje a vzájomne prepája hodnotiace otázky s organizáciou
+a plánovaním zberu informácií nevyhnutných pre nachádzanie odpovedí na
+hodnotiace otázky.
+
+Štruktúra hodnotiacej matice \@ref(tab:eval-matrix) predstavuje jednoduchú
+tabuľku s jedným riadkom pre každú hodnotiacu otázku a stĺpce, ktoré
+obsahujú informácie o hodnotiacich otázkach s prepojením na hodnotiace
+úlohy a údaje, ktoré budú podliehať hodnoteniu použitím vhodného
+metodického prístupu. V prípade potreby, môže hodnotiteľ prispôsobiť
+štruktúru hodnotiacej matice svojím požiadavkám.
+
+Protokoly pre zber údajov a hodnotenie na priradených úlohách
+a harmonogram, zadávacie podmienky, komunikačný plán môžu byť pridané
+alebo vytvorené ako separátny nástroj ale prepojený na maticu.
+
+Cieľom vytvorenia hodnotiacej matice je nachádzanie odpovedí na
+hodnotiace otázky prostredníctvom identifikovania relevantnej
+hodnotiacej metódy využitím príslušných techník zberu údajov.
+
+Tvorba matice zvyčajne zahŕňa nasledujúce prepojené prvky:
+
+-   Hlavný problém, na ktorý je hodnotenie zamerané\
+-   Hodnotiaca otázka\
+-   Hodnotiaca/e úloha/y\
+-   Typ otázky\
+-   Údaje (merania/premenné/indikátory)\
+-   Vzorka alebo súčet\
+-   Zdroj údajov\
+-   Nástroj na zber údajov\
+-   Metodický prístup\
+-   Poznámky
+
+**Hlavný problém, na ktorý je hodnotenie zamerané**
+
+Hodnotiteľ definuje základný hodnotiaci problém, na ktorý sa hodnotenie
+zameriava, pričom vychádza predovšetkým z predmetu hodnotenia a jeho
+účelu. Identifikácia hlavného problému má byť jasná, stručná, vecná
+a zrozumiteľná.
+
+**Hodnotiaca otázka**
+
+Ako už bolo vyššie uvedené, cieľom hodnotiacej matice je nachádzanie
+odpovedí na hodnotiace otázky. Súčasťou hodnotiacej matice má byť každá
+hodnotiaca otázka uvedená v zadávacích podmienkach.
+
+**Hodnotiaca úloha**
+
+Ku každej hodnotiacej otázke by mal byť hodnotiteľ schopný priradiť
+hodnotiacu úlohu resp. úlohy, ktoré sú taktiež súčasťou zadávacích
+podmienok. Hodnotiace otázky spolu s hodnotiacimi úlohami tvoria
+východisko pre určenie údajov, podliehajúcich analýze a metodického
+postupu používaného v konkrétnom hodnotení.
+
+**Typ otázky**
+
+Matica spája deskriptívne, normatívne otázky a kauzálne (príčinné)
+otázky za účelom správneho dizajnu hodnotenia a výberu metód.
+Deskriptívne otázky slúžia na opis súčasnej situácie. Normatívne otázky
+používa hodnotiteľ v prípade, ak sa pýta, čo by malo byť. Účelom
+normatívnej otázky je definovať, resp. zistiť, čo je najlepšie v danej
+situácii. Úlohou kauzálnych otázok je identifikovať príčiny, ktoré
+viedli k určitému dôsledku.
+
+**Údaje (merania/premenné/indikátory)**
+
+V nadväznosti na hodnotiace otázky a úlohy hodnotiteľ je schopný
+identifikovať merania/premenné/indikátory, ktoré budú podrobené analýze.
+V tejto časti je hodnotiteľ schopný určiť, či ide o údaje, ktoré má
+k dispozícii alebo potrebné údaje absentujú a je potrebné v procese
+hodnotenia zabezpečiť ich zber.
+
+**Vzorka alebo súčet**
+
+Pri výbere údajov je potrebné zohľadniť, či ide o vzorku alebo súčet.
+V prípade, že analyzované údaje predstavujú reprezentatívnu vzorku, je
+nevyhnutné klásť dôraz na určenie správnej veľkosti vzorky, aby bola
+možná reprezentovať analyzovanú skupinu ako celok.
+
+**Zdroj údajov**
+
+Údaje, ktoré budú podrobené analýze je možné získať z primárnych alebo
+sekundárnych zdrojov. Primárne zdroje informácií sú získavané
+z vlastných zdrojov uskutočnením vlastného výskumu (napr. interview,
+dotazník,...). Sekundárne zdroje obsahujú už existujúce informácie.
+
+**Nástroj na zber údajov**
+
+Je potrebné si uvedomiť, že nástroje používané za účelom zberu údajov
+môžu byť určené na riešenie viac ako jednej hodnotiacej otázky alebo
+niekoľko nástrojov môže byť použité za účelom riešenia jednej otázky.
+
+**Metodický prístup**
+
+Posledným krokom, pri tvorbe hodnotiacej matice, má byť určenie a výber
+vhodnej metódy riešenia predloženého problému. Na základe vyššie
+uvedených informácii týkajúcich sa hodnotiacich otázok, úloh a údajov by
+hodnotiteľ mal byť schopný vybrať vhodnú metódu na analýzu údajov.
+
+**Poznámky**
+
+Súčasťou matice sú aj poznámky, ktoré sa môžu týkať obmedzení, limitov,
+odporúčaní a ďalších náležitostí nevyhnutných pre výkon kvalitného
+hodnotenia.
+
+Hodnotiaca matica nemusí mať striktnú štruktúru. Tak ako u iných
+plánovacích nástrojov, tak aj u hodnotiacej matice nepochybne budú
+potrebné modifikácie v súlade s postupom (napredovaním) konkrétneho
+hodnotenia. Počas hodnotenia, hodnotitelia môžu posúdiť maticu,
+aktualizovať ju a použiť ju ako pomôcku pri vykonávaní hodnotenia. Kým
+plánovanie hodnotiaceho procesu by malo minimalizovať dôsledky problémov
+ani najlepšie plánovanie nemôže zabrániť vzniku neočakávaných situácií.
+
+| Hodnotiaca otázka | Typ hodnotiacej otázky | Hodnotiaca/e úloha/y | Údaje (merania/premenné/ indikátory) | Vzorka alebo súčet | Zdroj údajov | Nástroj na zber údajov | Metodický prístup | Poznámky |
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+|                   |                        |                      |                                      |                    |              |                        |                   |          |
+
+: (\#tab:eval-matrix) Vzor hodnotiacej matice
