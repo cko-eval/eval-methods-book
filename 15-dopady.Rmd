@@ -1,54 +1,4 @@
 # (PART\*) Hodnotenie dopadov {-}
-Jedným zo základov hodnotenia intervencií sociálno-ekonomického rozvoja
-je kvantifikácia a vysvetlenie ich efektov. Aby mohli tvorcovia politík
-prijímať informované rozhodnutia musia vedieť čo funguje a čo nefunguje,
-ako, prečo, pre koho a v akom kontexte sa to deje. Otázok je veľa a
-dostupné analytické metódy poskytujú len predbežné a neúplne odpovede na
-väčšinu z nich. Preto je mimoriadne dôležité objasniť, ktoré metódy môžu
-za akých okolností zodpovedať na ktoré otázky.
-
-Pri posudzovaní efektov verejných politík sa zvyčajne objavujú dve
-koncepčne odlišné skupiny otázok: jedna sa zaoberá predovšetkým
-kvantifikáciou účinkov, druhá ich vysvetlením.
-
--   Sú to metódy zamerané predovšetkým na pochopenie toho, prečo
-    intervencia spôsobuje zamýšľané a nezamýšľané účinky, pre koho a v
-    akom kontexte. Cieľom je odpovedať na otázku „prečo to funguje?" na
-    základe teórie zmeny intervencie a hodnotením jej úspechu tým, že
-    porovnáme teóriu so skutočnou implementáciou;
-
--   a metódy určené predovšetkým na zistenie, či daná intervencia
-    spôsobuje plánované efekty. Hlavným cieľom je odpovedať na otázku či
-    „to robí nejaký rozdiel?" identifikovaním a odhadom kauzálnych
-    efektov pomocou kontrafaktuálnych metód.
-
-Chceme zdôrazniť pojem „predovšetkým". Identifikácia a odhad kauzálnych
-účinkov si vyžaduje určitú teóriu, zatiaľ čo porovnanie teórie a
-implementácie si vyžaduje určitú kvantifikáciu. To sú však dve odlišné
-otázky.
-
-*Atribúcia verzus príspevok*
-
-Kauzálne otázky sú tie, ktoré „sa snažia porozumieť a posúdiť vzťahy
-príčiny a následku (ako a do akej miery je to, čo sa stalo v dôsledku
-intervencie?)". V tomto zmysle sa kauzalita sústreďuje na myšlienku
-atribúcie. Napríklad, poskytnutie pomoci malým a stredným podnikom
-zlepší ich prežitie alebo zmení ich náborové praktiky? Eliminujú
-investície do novej dopravnej infraštruktúry prekážky a skracujú
-cestovné časy? Cieľom týchto otázok je zistiť, či intervencia funguje;
-ktoré intervencie majú požadované efekty? Alebo do akej miery sú
-pozorované zmeny skutočne spôsobené intervenciou?
-
-Bežne sa tzv. kontrafaktuálne hodnotenie (counterfactual impact
-evaluation -- CIE)" považuje za vhodné pre „jednoduché" intervencie, kým
-„hodnotenie založené na teórii (theory-based impact evaluation -- TBIE)"
-pre komplexné intervencie, čo nie je správne. Jednoduché intervencie
-projekty sú prvkami komplexných a otázka „či to funguje" môže byť jednou
-časťou širšieho hodnotenia, ktoré zohľadňuje túto komplexnosť. Otázka
-„prečo to funguje" je relevantná aj pre relatívne jednoduché intervencie
-s jasnými cieľmi a mala by tu byť ľahšie zodpovedateľná. Predstava, že
-komplexné situácie sú ľahko riešiteľné zložitými metódami, je jednoducho
-nesprávna: komplexnosť je problémom pre všetky.
 
 # Kontrafaktuálne hodnotenie dopadov
 
@@ -90,7 +40,7 @@ Vzhľadom na kontroverzný charakter implementácie náhodných
 (randomizovaných) hodnotení predstavuje tento prístup veľmi presné
 hodnotenie dopadu. Teda ak intervencia nemôže byť implementovaná náhodne
 je simulácia náhodného experimentu vhodným riešením. Hodnotiteľ sa
-pomocou párovacích techník snaží vytvoriť kontrafaktuálnu / kontrolnú
+pomocou párovacích techník snaží vytvoriť kontrafaktuálnu (kontrolnú)
 skupinu, ktorá je vzhľadom na pozorovateľné charakteristiky čo
 najpodobnejšia podporenej skupine. Podstatou je nájsť z čo najväčšej
 skupiny nezúčastnených jednotiek také jednotky, ktoré sú pozorovateľne
@@ -107,7 +57,7 @@ veľkú skupinu nepodporených jednotiek na spárovanie s podporenými,
 môžeme odmerať účinok podpory. Pri aplikácii PSM je každá podporená
 jednotka spárovaná s nepodporenou na základe jej hodnoty propensity
 score, odrážajúcej pravdepodobnosť podpory podmienenú rozličnými
-pozorovateľnými charakteristikami X.
+pozorovateľnými charakteristikami $X$.
 
 Pri aplikácii metódy PSM sa zostrojí štatistická porovnávacia skupina
 modelovaním pravdepodobnosti účasti v intervencii na základe
@@ -241,7 +191,7 @@ zúčastňujú na intervencii, zatiaľ čo žiadatelia nachádzajúci sa pod
 touto hranicou nie sú zapojení. Nespojitosť v rámci RDD môže byť
 ***sharp*** (ostrá) alebo ***fuzzy*** („rozmazaná").
 
-![Ilustrácia konceptu metódy RDD](15-3-graf.png){width="500px"}
+![](15-3-graf.png){width="500px"}
 
 Hlavnou myšlienkou tejto metódy je, že jednotky v cieľovej populácii pod
 stanovenou hranicou (ktorí neboli podporení) sú vhodnou porovnávacou
@@ -423,7 +373,7 @@ vyhodnocovať.
 Priemerný účinok podpory na podporených sa zvyčajne odhaduje
 prostredníctvom regresnej analýzy. Základná analýza je jednoducho
 záležitosťou výpočtu priemerov pre dve skupiny v dvoch časových
-obdobiach (Tab. 3)
+obdobiach \@ref(tab:efekt-podpory).
 
 | Obce                    | zmena v príjme na osobu (%) |           | Rozdiel medzi obdobiami |
 |------------------|:------------------:|:----------------:|:----------------:|
@@ -432,9 +382,9 @@ obdobiach (Tab. 3)
 | bez intervencie         |            2,28             |   5,08    |          2,80           |
 | rozdiel medzi skupinami |            0,07             |   -0,63   |        **-0,70**        |
 
-: Tab. 3 DD odhad efektu podpory -- zmena príjmu na osobu
+: (\#tab:efekt-podpory) DD odhad efektu podpory -- zmena príjmu na osobu
 
-Z Tab. 3 je evidentné, že v období rokov 1995 až 1999 boli obce, ktoré
+Z tabuľky \@ref(tab:efekt-podpory) je evidentné, že v období rokov 1995 až 1999 boli obce, ktoré
 dostali podporu, podstatne menej úspešné v porovnaní s obcami, ktoré
 nedostali podporu (o 0,7 % bodu bol nárast príjmu na osobu menší).
 

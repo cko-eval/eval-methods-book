@@ -36,9 +36,9 @@ Vnútorné faktory sú charakteristiky, ktoré už existujú a sú pod kontrolo
 
 _4\. Párovanie externých a interných faktorov_
 
-Štyri strategické možnosti sú popísané v tomto kroku (Tab. 4).
+Štyri strategické možnosti sú popísané v tomto kroku \@ref(tab:swot).
 
-: Tab. 4 SWOT analýza
+: (\#tab:swot) SWOT analýza
 
 |     |     |
 | --- | --- |
@@ -57,7 +57,11 @@ Napriek svojej popularite, SWOT je tiež kritizovaná ako koncepčne, tak vo svo
 Vykonávanie SWOT analýzy môže čeliť niekoľkým nástrahám:
 
 * SWOT analýza môže byť príliš dlhá. SWOT analýza môže vyžadovať klasifikáciu všetkých charakteristík organizácie alebo prostredia (aj keď nie sú relevantné pre ciele).
+
 * Položky na zozname sú nejasné a nejednoznačné. Ľudia majú tendenciu použiť dve alebo tri slová na opis komplexného faktoru, ktorý môže viesť k zavádzajúcim interpretáciám, ak detailný opis nie je uvedený.
+
 * Neexistuje žiadna prioritizácia prvkov: každá silná stránka, slabá stránka, ktorá je uvedená, má rovnaký význam. Tomu sa dá zabrániť priradením váh alebo priorít každému z nich.
+
 * Rovnaký faktor sa môže objaviť v protichodných kategóriách. Napríklad „nízka nezamestnanosť“ môže byť považovaná aj za silnú stránku (nízky tlak na sociálne zabezpečenie) a ako aj slabá stránka (tlak na mzdy). Určenie tohto fenoménu môže závisieť od ďalších analýz (ktoré hospodárske odvetvia sú hlavným zdrojom pracovných miest), životného prostredia (napr. budúce trendy v týchto odvetviach) a cieľov (napr. cieľom je zlepšenie environmentálnej situácie v regióne alebo štrukturálne zmeny v ekonomike)
+
 * V mnohých prípadoch SWOT obsahuje vyhlásenia, ktoré nie sú overené alebo podporované dôkazmi, ale skôr odrážajú názor ľudí pracujúcich na SWOT. To môže viesť k vážnym problémom, ak existuje výrazný rozdiel medzi realitou a jej vnímaním danej skupiny ľudí.

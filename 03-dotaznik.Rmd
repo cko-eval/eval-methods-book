@@ -1,18 +1,35 @@
 # Dotazník
 
-Sociálne prieskumy sa často realizujú prostredníctvom dotazníkov. Dotazníky obsahujú sériu otázok v štruktúrovanej podobe, na ktoré odpovedajú respondenti. Dotazníky sú považované za jeden zo základných nástrojov spoločenských vied a bežne ich používajú verejné, súkromné, výskumné, štatistické a iné inštitúcie. Niektoré sociálne prieskumy sú vyčerpávajúce a pokrývajú celú populáciu, ako je to v prípade sčítania ľudu konaného vo väčšine krajín, alebo sú zamerané na konkrétnu cieľovú skupinu. V súvislosti s intervenciami EŠIF sa často získavajú informácie od prijímateľov grantov.
+Sociálne prieskumy sa často realizujú prostredníctvom dotazníkov.
+Dotazníky obsahujú sériu otázok v štruktúrovanej podobe, na ktoré
+odpovedajú respondenti. Dotazníky sú považované za jeden zo základných
+nástrojov spoločenských vied a bežne ich používajú verejné, súkromné,
+výskumné, štatistické a iné inštitúcie. Niektoré sociálne prieskumy sú
+vyčerpávajúce a pokrývajú celú populáciu, ako je to v prípade sčítania
+ľudu konaného vo väčšine krajín, alebo sú zamerané na konkrétnu cieľovú
+skupinu. V súvislosti s intervenciami EŠIF sa často získavajú informácie
+od prijímateľov grantov.
 
 ## Účel metódy
 
-Dotazníkový prieskum sa používa na zber väčšieho množstva homogénnych údajov, ktoré sa dajú štatisticky spracovať. V súvislosti s hodnotením sociálno-ekonomického rozvoja sa tieto prieskumy zvyčajne používajú v kombinácii s inými technikami ako prostriedok na odhad výsledkov, dopadu a účinnosti intervencií.
+Dotazníkový prieskum sa používa na zber väčšieho množstva homogénnych
+údajov, ktoré sa dajú štatisticky spracovať. V súvislosti s hodnotením
+sociálno-ekonomického rozvoja sa tieto prieskumy zvyčajne používajú v
+kombinácii s inými technikami ako prostriedok na odhad výsledkov, dopadu
+a účinnosti intervencií.
 
 ## Podmienky využitia
 
-Sociálne prieskumy sú zvyčajne zamerané na štatisticky významné výsledky, či už prostredníctvom mapovania celej populácie, alebo reprezentatívnej vzorky. Použitie tejto metódy je možné ak:
+Sociálne prieskumy sú zvyčajne zamerané na štatisticky významné
+výsledky, či už prostredníctvom mapovania celej populácie, alebo
+reprezentatívnej vzorky. Použitie tejto metódy je možné ak:
 
--   je populácia dostatočne veľká a homogénna (napr. zamestnávatelia podľa veľkosti alebo sektora);
+-   je populácia dostatočne veľká a homogénna (napr. zamestnávatelia
+    podľa veľkosti alebo sektora);
 
--   je jasná predstava o tom, čo chceme sledovať (v tomto prípade je najjednoduchšie realizovať prieskum pozostávajúci z uzavretých otázok, kde sú možné len vopred určené odpovede);
+-   je jasná predstava o tom, čo chceme sledovať (v tomto prípade je
+    najjednoduchšie realizovať prieskum pozostávajúci z uzavretých
+    otázok, kde sú možné len vopred určené odpovede);
 
 -   chcú hodnotitelia zozbierať údaje alebo otestovať hypotézy.
 
@@ -20,23 +37,64 @@ Sociálne prieskumy sú zvyčajne zamerané na štatisticky významné výsledky
 
 *1.* *Návrh dotazníka*
 
-Prvým krokom je jasné definovanie cieľa prieskumu a návrh vhodných otázok. Otázky musia byť jasne formulované. Je dôležité, aby dotazník neobsahoval zbytočné otázky, ktoré mätú respondentov a znižujú kvalitu prieskumu. Ak sa porovnávajú sady údajov, je nevyhnutné použiť rovnakú terminológiu a pojmy používané v dotazníku musia byť identické. Dobrý prieskum je potrebné dôkladne zostaviť. Znamená to vhodne zvoliť otázky a škálu na odpovede. Dotazníky musia byť po vypracovaní dôkladne otestované. Znamená to požiadať užšiu skupinu (pracovný tím alebo rodinu) o vyplnenie a overiť či otázky všetci rovnako pochopili, či boli jasné a zrozumiteľné a všetci na ne vedia jednoznačne odpovedať. .
+Prvým krokom je jasné definovanie cieľa prieskumu a návrh vhodných
+otázok. Otázky musia byť jasne formulované. Je dôležité, aby dotazník
+neobsahoval zbytočné otázky, ktoré mätú respondentov a znižujú kvalitu
+prieskumu. Ak sa porovnávajú sady údajov, je nevyhnutné použiť rovnakú
+terminológiu a pojmy používané v dotazníku musia byť identické. Dobrý
+prieskum je potrebné dôkladne zostaviť. Znamená to vhodne zvoliť otázky
+a škálu na odpovede. Dotazníky musia byť po vypracovaní dôkladne
+otestované. Znamená to požiadať užšiu skupinu (pracovný tím alebo
+rodinu) o vyplnenie a overiť či otázky všetci rovnako pochopili, či boli
+jasné a zrozumiteľné a všetci na ne vedia jednoznačne odpovedať.
 
-Väčšina dotazníkov je navrhnutá tak, aby kládla uzavreté otázky (s výberom z obmedzeného počtu odpovedí), mnohé však používajú aj niekoľko otvorených otázok (odpoveď vpisuje respondent) alebo čiastočne-otvorené otázky (s možnosťou "iné" ako tie, ktoré sú uvedené). V posledných dvoch prípadoch je však kódovanie odpovedí zložitejšie, lebo respondenti môžu uvádzať veľmi odlišné odpovede.
+Väčšina dotazníkov je navrhnutá tak, aby kládla uzavreté otázky (s
+výberom z obmedzeného počtu odpovedí), mnohé však používajú aj niekoľko
+otvorených otázok (odpoveď vpisuje respondent) alebo čiastočne-otvorené
+otázky (s možnosťou "iné" ako tie, ktoré sú uvedené). V posledných dvoch
+prípadoch je však kódovanie odpovedí zložitejšie, lebo respondenti môžu
+uvádzať veľmi odlišné odpovede.
 
-Formulácia otázok nesmie ovplyvňovať odpovede. Otázky, ktoré si vyžadujú, aby si respondenti spomenuli na udalosti, situácie a rozhodnutia z minulosti sú zvyčajne problematické. Rovnako aj otázky obsahujúce dvojitý zápor. Spôsob formulácie otázok závisí od metódy ich použitia. V prípade dotazníkov, ktoré sú posielané poštou je mimoriadne dôležité, aby respondenti rozumeli otázke a rovnako ju interpretovali. Naopak, nie je to až tak dôležité, ak sa prieskum vedie ako rozhovor, kde má anketár príležitosť otázku vysvetliť, ak ju respondent nepochopí.
+Formulácia otázok nesmie ovplyvňovať odpovede. Otázky, ktoré si
+vyžadujú, aby si respondenti spomenuli na udalosti, situácie
+a rozhodnutia z minulosti sú zvyčajne problematické. Rovnako aj otázky
+obsahujúce dvojitý zápor. Spôsob formulácie otázok závisí od metódy ich
+použitia. V prípade dotazníkov, ktoré sú posielané poštou je mimoriadne
+dôležité, aby respondenti rozumeli otázke a rovnako ju interpretovali.
+Naopak, nie je to až tak dôležité, ak sa prieskum vedie ako rozhovor,
+kde má anketár príležitosť otázku vysvetliť, ak ju respondent nepochopí.
 
-Odpovede môžu byť nominálne (napr. sektor, v ktorom pôsobí vaša firma: poľnohospodárstvo, priemysel, obchod, iné), ordinálne (napr. čo sa vám na školení najviac páčilo: kvalita, cena, relevantnosť?) alebo číselné (napr. koľko dní školenia ste absolvovali?). V prípade, že sú otázky normatívne alebo kauzálne (pozri \@ref(pojmy) a \@ref(kontrafaktuálne-hodnotenie-dopadov)), bude nutné použiť trianguláciu. Triangulácia (zdrojov) znamená, že kladieme niekoľko podobných otázok umožňujúcich vymedziť hranice odpovede, ktorá predstavuje riziko skreslenia. Napríklad nasledujúce tri otázky umožňujú odhad mŕtvej váhy: "Bez podpory by ste vykonali investície rovnakej veľkosti, o niečo menšie, oveľa menšie? ... K rovnakému dátumu, o niečo neskôr, oveľa neskôr? ... S rovnakou technológiou, s odlišnou technológiou?"
+Odpovede môžu byť nominálne (napr. sektor, v ktorom pôsobí vaša firma:
+poľnohospodárstvo, priemysel, obchod, iné), ordinálne (napr. čo sa vám
+na školení najviac páčilo: kvalita, cena, relevantnosť?) alebo číselné
+(napr. koľko dní školenia ste absolvovali?). V prípade, že sú otázky
+normatívne alebo kauzálne (pozri \@ref(pojmy) a \@ref(otazky)), bude
+nutné použiť trianguláciu. Triangulácia (zdrojov) znamená, že kladieme
+niekoľko podobných otázok umožňujúcich vymedziť hranice odpovede, ktorá
+predstavuje riziko skreslenia. Napríklad nasledujúce tri otázky umožňujú
+odhad mŕtvej váhy: "Bez podpory by ste vykonali investície rovnakej
+veľkosti, o niečo menšie, oveľa menšie? ... K rovnakému dátumu, o niečo
+neskôr, oveľa neskôr? ... S rovnakou technológiou, s odlišnou
+technológiou?"
 
 *2.* *Príprava vzorky*
 
-Vzorku zahrnutú do prieskumu je potrebné presne definovať (napr. všetky firmy s 1 až 50 zamestnancami, ktorým bola poskytnutá pomoc za posledných 5 rokov) a zbierajú sa informácie o štruktúre tejto populácie. Je nutné skontrolovať, či máme kontakty na túto vzorku. Vzorka reprezentuje celú populáciu. Aby bola reprezentatívna, musí byť dostatočne veľká a musí byť vytvorená v súlade so štatistickými pravidlami. Na vytvorenie vzorky sa používa niekoľko nástrojov.
+Vzorku zahrnutú do prieskumu je potrebné presne definovať (napr. všetky
+firmy s 1 až 50 zamestnancami, ktorým bola poskytnutá pomoc za
+posledných 5 rokov) a zbierajú sa informácie o štruktúre tejto
+populácie. Je nutné skontrolovať, či máme kontakty na túto vzorku.
+Vzorka reprezentuje celú populáciu. Aby bola reprezentatívna, musí byť
+dostatočne veľká a musí byť vytvorená v súlade so štatistickými
+pravidlami. Na vytvorenie vzorky sa používa niekoľko nástrojov.
 
-Veľkosť vzorky neodráža veľkosť populácie; vzorka 1000 osôb môže predstavovať populáciu 2.000.000 osôb alebo 6000 osôb. Veľkosť vzorky však určuje presnosť s akou môžeme výsledky vzorky zovšeobecniť na celú populáciu. Počet dotazníkov musíme znásobiť štyrmi, aby sme získali dostatok odpovedí. Na tvorbu vzorky možno použiť nasledovné techniky:
+Veľkosť vzorky neodráža veľkosť populácie; vzorka 1000 osôb môže
+predstavovať populáciu 2.000.000 osôb alebo 6000 osôb. Veľkosť vzorky
+však určuje presnosť s akou môžeme výsledky vzorky zovšeobecniť na celú
+populáciu. Počet dotazníkov musíme znásobiť štyrmi, aby sme získali
+dostatok odpovedí. Na tvorbu vzorky možno použiť nasledovné techniky:
 
-|                              |                                                                                                                                                                                                                                                                                                                    |
-|------------------------------------|------------------------------------|
 | Technika                     | Princíp                                                                                                                                                                                                                                                                                                            |
+|------------------------------------|------------------------------------|
 | Jednoduchý náhodný výber     | Každá jednotka pozorovania je vybraná náhodne. Má rovnakú šancu byť vybraná do vzorky a môže byť vybratá len raz.                                                                                                                                                                                                  |
 | Systematický výber           | Jedna jednotka z 10 alebo 100 je vybraná; prvá je vybraná náhodne.                                                                                                                                                                                                                                                 |
 | Stratifikovaný náhodný výber | Ak nie je populácia veľmi homogénna, rozdelí sa na homogénne podskupiny a vzorka sa berie z každej takto vytvorenej vrstvy                                                                                                                                                                                         |
@@ -46,31 +104,99 @@ Veľkosť vzorky neodráža veľkosť populácie; vzorka 1000 osôb môže preds
 
 *3.* *Pre-test alebo pilot*
 
-Pre-test alebo pilotné testovanie dotazníka na obmedzenom počte respondentov je veľmi dôležité. Na základe odozvy je možné upraviť dotazník tak, aby poskytol informácie, ktoré potrebujeme. Pilotné testovanie prieskumu je užitočné aj pri transformácii otvorených otázok do otázok uzavretých. Napríklad, ak sa pýtame, kde sa ľudia dozvedeli o intervencii a ich otvorené možnosti odpovede obsahujú iba päť agentúr, tieto potom môžu tvoria možnosti pre uzavretú otázku.
+Pre-test alebo pilotné testovanie dotazníka na obmedzenom počte
+respondentov je veľmi dôležité. Na základe odozvy je možné upraviť
+dotazník tak, aby poskytol informácie, ktoré potrebujeme. Pilotné
+testovanie prieskumu je užitočné aj pri transformácii otvorených otázok
+do otázok uzavretých. Napríklad, ak sa pýtame, kde sa ľudia dozvedeli o
+intervencii a ich otvorené možnosti odpovede obsahujú iba päť agentúr,
+tieto potom môžu tvoria možnosti pre uzavretú otázku.
 
 *4.* *Spravovanie dotazníkov*
 
-Dotazníky zasielajú respondenti, alebo ich vyzbiera člen tímu. Zvyčajne sú zasielané poštou, alebo e-mailom, ale môžu byť distribuované aj priamo, napríklad pri nejakej udalosti. Prieskumy, ktoré realizujú anketári sa uskutočňujú telefonicky, alebo osobne. Cena býva hlavným faktorom pri rozhodovaní o tom, aký spôsob bude použitý.
+Dotazníky zasielajú respondenti, alebo ich vyzbiera člen tímu. Zvyčajne
+sú zasielané poštou, alebo e-mailom, ale môžu byť distribuované aj
+priamo, napríklad pri nejakej udalosti. Prieskumy, ktoré realizujú
+anketári sa uskutočňujú telefonicky, alebo osobne. Cena býva hlavným
+faktorom pri rozhodovaní o tom, aký spôsob bude použitý.
 
-Dotazníky, ktoré respondenti spätne zasielajú sú zvyčajne relatívne lacné a vzorka môže byť dosť veľká. Návratnosť odpovedí však býva nízka (niekedy 20 % z odoslaných dotazníkov). Aby ste neodradili potenciálnych respondentov, dotazník by mal byť zameraný na niekoľko kľúčových otázok, zvyčajne uzavretých. Takto sa minimalizujú nejasnosti a analýza odpovedí je jednoduchšia. Návratnosť sa dá zlepšiť zaslaním pripomienky, pri dotazníkoch zasielaných poštou je užitočné zaslať obálku s predtlačenou adresou a uhradeným poštovným. V prípade opakovaných prieskumov na rovnakom paneli, návratnosť klesá asi o 10 % ročne.
+Dotazníky, ktoré respondenti spätne zasielajú sú zvyčajne relatívne
+lacné a vzorka môže byť dosť veľká. Návratnosť odpovedí však býva nízka
+(niekedy 20 % z odoslaných dotazníkov). Aby ste neodradili potenciálnych
+respondentov, dotazník by mal byť zameraný na niekoľko kľúčových otázok,
+zvyčajne uzavretých. Takto sa minimalizujú nejasnosti a analýza odpovedí
+je jednoduchšia. Návratnosť sa dá zlepšiť zaslaním pripomienky, pri
+dotazníkoch zasielaných poštou je užitočné zaslať obálku s predtlačenou
+adresou a uhradeným poštovným. V prípade opakovaných prieskumov na
+rovnakom paneli, návratnosť klesá asi o 10 % ročne.
 
-Prieskumy prostredníctvom telefonických rozhovorov alebo osobne sú pomerne nákladné, ale dosahujú lepšiu mieru odozvy aj lepšiu kvalitu poskytnutých údajov keďže sa pri ich dajú použiť dlhšie dotazníky s väčším počtom otázok (aj otvorených). Po prieskume sa zvyčajne vykonávajú náhodné kontroly na overenie, či rozhovory skutočne prebehli.\
-Niekedy sa realizuje viac prieskumov. Napríklad je realizovaný prieskum po telefóne alebo poštou, z ktorého sa vyberie vzorka respondentov na rozhovory.
+Prieskumy prostredníctvom telefonických rozhovorov alebo osobne sú
+pomerne nákladné, ale dosahujú lepšiu mieru odozvy aj lepšiu kvalitu
+poskytnutých údajov keďže sa pri ich dajú použiť dlhšie dotazníky
+s väčším počtom otázok (aj otvorených). Po prieskume sa zvyčajne
+vykonávajú náhodné kontroly na overenie, či rozhovory skutočne prebehli.
+Niekedy sa realizuje viac prieskumov. Napríklad je realizovaný prieskum
+po telefóne alebo poštou, z ktorého sa vyberie vzorka respondentov na
+rozhovory.
 
-Potenciálni respondenti sa ochotnejšie zúčastnia prieskumu ak poznajú jeho účel. Respondenti by mali dostať záruku, že ich odpovede sú dôverné. Anketári musia byť informovaní o "pravidlách správania sa" a oboznámiť s nimi respondentov. Niekedy sa respondentom môžu ponúknuť stimuly za účasť na prieskume. Mnoho organizácií ponúkajú možnosť zúčastniť sa žrebovania. Je to menej štandardné vo verejnom sektore. Pre anketára aj respondenta je citlivou otázkou bezpečnosť. Anketári musí mať jednoznačnú identifikáciu, najmä ak sa rozhovory realizujú doma u respondentov; je dobré takýto prieskum vopred oznámiť príslušným úradom. Všetky návštevy anketára by mali byť zaznamenané a anketár by sa mal pravidelne hlásiť.
+Potenciálni respondenti sa ochotnejšie zúčastnia prieskumu ak poznajú
+jeho účel. Respondenti by mali dostať záruku, že ich odpovede sú
+dôverné. Anketári musia byť informovaní o "pravidlách správania sa"
+a oboznámiť s nimi respondentov. Niekedy sa respondentom môžu ponúknuť
+stimuly za účasť na prieskume. Mnoho organizácií ponúkajú možnosť
+zúčastniť sa žrebovania. Je to menej štandardné vo verejnom sektore. Pre
+anketára aj respondenta je citlivou otázkou bezpečnosť. Anketári musí
+mať jednoznačnú identifikáciu, najmä ak sa rozhovory realizujú doma
+u respondentov; je dobré takýto prieskum vopred oznámiť príslušným
+úradom. Všetky návštevy anketára by mali byť zaznamenané a anketár by sa
+mal pravidelne hlásiť.
 
-Problémom bývajú prieskumy tabuizovaných tém napr. nelegálnych prisťahovalcov alebo tieňovej ekonomiky. Tam je nutné použiť iné techniky. Rozhovory môžu byť v takýchto prípadoch veľmi nepríjemné. Rovnako je dôležité citlivo pristupovať pri rozhovoroch so zraniteľnými skupinami ľudí (deti, starší ľudia).
+Problémom bývajú prieskumy tabuizovaných tém napr. nelegálnych
+prisťahovalcov alebo tieňovej ekonomiky. Tam je nutné použiť iné
+techniky. Rozhovory môžu byť v takýchto prípadoch veľmi nepríjemné.
+Rovnako je dôležité citlivo pristupovať pri rozhovoroch so zraniteľnými
+skupinami ľudí (deti, starší ľudia).
 
 *5. Kódovanie údajov*
 
-Ďalším krokom je kódovanie a zaznamenávanie odpovedí, ktoré sa vykonáva v elektronickej podobe, na neskoršiu analýzu. Táto úprava zohľadňuje nedokonalosti vo vzorke, najmä chýbajúce odpovede. Pokiaľ ide o kvótnu alebo stratifikovanú vzorku, a je isté, že určité skupiny nie sú vo vzorke zastúpené tak ako v populácii ako v celku, je možné odpovede vážiť. Váženie znamená násobenie výsledku pre určitú skupinu (napr. nezamestnaných) tak, aby sa ich celkový počet podobal ich podielu v populácii ako celku.
+Ďalším krokom je kódovanie a zaznamenávanie odpovedí, ktoré sa vykonáva
+v elektronickej podobe, na neskoršiu analýzu. Táto úprava zohľadňuje
+nedokonalosti vo vzorke, najmä chýbajúce odpovede. Pokiaľ ide o kvótnu
+alebo stratifikovanú vzorku, a je isté, že určité skupiny nie sú vo
+vzorke zastúpené tak ako v populácii ako v celku, je možné odpovede
+vážiť. Váženie znamená násobenie výsledku pre určitú skupinu (napr.
+nezamestnaných) tak, aby sa ich celkový počet podobal ich podielu v
+populácii ako celku.
 
 *6. Interpretácia a šírenie výsledkov*
 
-Posledným krokom je analýza a výsledky prieskumu. Interpretácia výsledkov musí zohľadniť účel a obmedzenia prieskumu - napríklad obmedzenia súvisiace s veľkosťou vzorky, spoľahlivosťou odpovedí atď., ktorá závisí na veľkosti a profile respondentov. Aby boli výsledky prieskumu prakticky použiteľné, musia byť prezentované spôsobom, ktorý je zrozumiteľný pre tvorcov politiky. Existuje na to množstvo počítačových programov. Záverečná správa musí poskytnúť dostatočne podrobné údaje o spôsobe realizácie prieskumu - hlavný text musí jasne a jednoducho vysvetliť závery a technická príloha obsahuje podrobnejšie informácie pre tých, ktorí chcú vidieť detaily.
+Posledným krokom je analýza a výsledky prieskumu. Interpretácia
+výsledkov musí zohľadniť účel a obmedzenia prieskumu - napríklad
+obmedzenia súvisiace s veľkosťou vzorky, spoľahlivosťou odpovedí atď.,
+ktorá závisí na veľkosti a profile respondentov. Aby boli výsledky
+prieskumu prakticky použiteľné, musia byť prezentované spôsobom, ktorý
+je zrozumiteľný pre tvorcov politiky. Existuje na to množstvo
+počítačových programov. Záverečná správa musí poskytnúť dostatočne
+podrobné údaje o spôsobe realizácie prieskumu - hlavný text musí jasne
+a jednoducho vysvetliť závery a technická príloha obsahuje podrobnejšie
+informácie pre tých, ktorí chcú vidieť detaily.
 
 ## Silné stránky a obmedzenia
 
-Za predpokladu, že výber vzorky bol správny, má dotazníkový prieskum tú výhodu, že poskytuje štruktúrované, kvantifikované a zovšeobecniteľné informácie. Preto je veľmi užitočný na kvantifikáciu ukazovateľov (vrátane monitorovacích). Táto technika nie je až tak nákladná, napriek tomu, že vzorka musí byť štatisticky reprezentatívna a obsahovať dostatočný počet jednotiek. Ak populácia nie je dostatočne známa, stráca tento nástroj jednu zo svojich hlavných výhod: zovšeobecniteľnosť.
+Za predpokladu, že výber vzorky bol správny, má dotazníkový prieskum tú
+výhodu, že poskytuje štruktúrované, kvantifikované a zovšeobecniteľné
+informácie. Preto je veľmi užitočný na kvantifikáciu ukazovateľov
+(vrátane monitorovacích). Táto technika nie je až tak nákladná, napriek
+tomu, že vzorka musí byť štatisticky reprezentatívna a obsahovať
+dostatočný počet jednotiek. Ak populácia nie je dostatočne známa, stráca
+tento nástroj jednu zo svojich hlavných výhod: zovšeobecniteľnosť.
 
-Ak vieme štandardizovať odpovede cez uzavreté otázky môžeme prispieť k zjednodušeniu dotazníka. Z tohto dôvodu je dotazník zvyčajne vyhradený pre situácie, keď sú účinky intervencie vopred identifikované a zrozumiteľné. Naopak, dopady vysoko inovatívnych aktivít sa najlepšie hodnotia prostredníctvom otvorených otázok príp. inými technikami. Výskum ukázal, že veľa ľudí odpovedá na otázky v snahe byť zdvorilý, aj keď v skutočnosti nepoznajú odpoveď, alebo nie sú schopní veci posúdiť. Aby bol dotazník spoľahlivý, mal by sa skladať z otázok, ktoré budú všetci respondenti rovnako interpretovať a vedia na ne presne odpovedať.
+Ak vieme štandardizovať odpovede cez uzavreté otázky môžeme prispieť
+k zjednodušeniu dotazníka. Z tohto dôvodu je dotazník zvyčajne vyhradený
+pre situácie, keď sú účinky intervencie vopred identifikované a
+zrozumiteľné. Naopak, dopady vysoko inovatívnych aktivít sa najlepšie
+hodnotia prostredníctvom otvorených otázok príp. inými technikami.
+Výskum ukázal, že veľa ľudí odpovedá na otázky v snahe byť zdvorilý, aj
+keď v skutočnosti nepoznajú odpoveď, alebo nie sú schopní veci posúdiť.
+Aby bol dotazník spoľahlivý, mal by sa skladať z otázok, ktoré budú
+všetci respondenti rovnako interpretovať a vedia na ne presne odpovedať.

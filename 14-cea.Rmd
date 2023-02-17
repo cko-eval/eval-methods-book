@@ -1,52 +1,126 @@
 # Analýza nákladovej efektívnosti
-Analýza nákladovej efektívnosti (CEA) je metóda, ktorá môže pomôcť zabezpečiť efektívne využitie investícií zdrojov v odvetviach, v ktorých je ťažké oceniť prínosy. Je to nástroj na výber alternatívnych projektov s rovnakými cieľmi. CEA môže identifikovať alternatívu ktoré pre danú úroveň výstupu minimalizujú skutočnú hodnotu nákladov alebo, alternatívne, pre dané náklady, maximalizuje úroveň výstupu. Hodnotiteľ môže napríklad porovnávať jednoduché pomery výstupy / náklady rôznych projektov, ktorých cieľom je napr. znížiť fertilitu alebo detskú úmrtnosť. CEA sa používa vtedy, keď nie je možné oceniť prínosy v peňažnom vyjadrení, resp. kde by bolo zložité alebo sporné. Nie je vhodné pre intervencie s viacerými cieľmi.
+
+Analýza nákladovej efektívnosti (CEA) je metóda, ktorá môže pomôcť
+zabezpečiť efektívne využitie investícií zdrojov v odvetviach, v ktorých
+je ťažké oceniť prínosy. Je to nástroj na výber alternatívnych projektov
+s rovnakými cieľmi. CEA môže identifikovať alternatívu ktoré pre danú
+úroveň výstupu minimalizujú skutočnú hodnotu nákladov alebo,
+alternatívne, pre dané náklady, maximalizuje úroveň výstupu. Hodnotiteľ
+môže napríklad porovnávať jednoduché pomery výstupy / náklady rôznych
+projektov, ktorých cieľom je napr. znížiť fertilitu alebo detskú
+úmrtnosť. CEA sa používa vtedy, keď nie je možné oceniť prínosy v
+peňažnom vyjadrení, resp. kde by bolo zložité alebo sporné. Nie je
+vhodné pre intervencie s viacerými cieľmi.
 
 ## Účel
 
-Cieľom CEA je vyhodnotiť účinnosť intervencie, t.j. jeho schopnosť dosiahnuť požadované ciele. Ten by mal byť definovaný fyzicky a nie peňažne, napr. zníženie miery chorobnosti prostredníctvom intervencie v zdravotníctve pričom posudzujeme náklady vynaložené na dosiahnutie cieľa. CEA sa najlepšie používa pri rozhodovaní, ktorá alternatíva maximalizuje prínosy, alebo minimalizuje náklady na ten istý cieľ. Pomer nákladovej efektívnosti umožňuje porovnávať intervencie podľa nákladov. Nedá sa použiť na rozhodovanie o intervencii bez porovnávania, ani na rozhodnutie, ktorá z dvoch intervencií by poskytla lepšiu návratnosť v dvoch rôznych kontextoch.
+Cieľom CEA je vyhodnotiť účinnosť intervencie, t.j. jeho schopnosť
+dosiahnuť požadované ciele. Ten by mal byť definovaný fyzicky a nie
+peňažne, napr. zníženie miery chorobnosti prostredníctvom intervencie
+v zdravotníctve pričom posudzujeme náklady vynaložené na dosiahnutie
+cieľa. CEA sa najlepšie používa pri rozhodovaní, ktorá alternatíva
+maximalizuje prínosy, alebo minimalizuje náklady na ten istý cieľ. Pomer
+nákladovej efektívnosti umožňuje porovnávať intervencie podľa nákladov.
+Nedá sa použiť na rozhodovanie o intervencii bez porovnávania, ani na
+rozhodnutie, ktorá z dvoch intervencií by poskytla lepšiu návratnosť v
+dvoch rôznych kontextoch.
 
-Aj keď je intervencia veľmi účinná pri dosahovaní svojich cieľov, nemusí poskytovať dobrú hodnotu za peniaze. Napríklad intervencia by mohla dosiahnuť ciele použitím menšieho množstva zdrojov, ak by sa riešila alternatívnou metódou. Posúdenie nákladovej efektívnosti intervencie samo osebe neposkytne hodnotenie čistých sociálnych prínosov, ani v porovnaní s podobnými intervenciami. Na to je potrebné posúdiť vnímanie prínosov rôznymi záujmovými skupinami a zhodnotiť hospodárnosť. Používa sa, ak sú definované všetky očakávané efekty a sú homogénne resp. je ich možné merať na základe výsledku (napr. počet vytvorených pracovných miest, počet stážistov); často ide o hodnotenie sociálnych projektov (vzdelávanie, zdravie).
+Aj keď je intervencia veľmi účinná pri dosahovaní svojich cieľov, nemusí
+poskytovať dobrú hodnotu za peniaze. Napríklad intervencia by mohla
+dosiahnuť ciele použitím menšieho množstva zdrojov, ak by sa riešila
+alternatívnou metódou. Posúdenie nákladovej efektívnosti intervencie
+samo osebe neposkytne hodnotenie čistých sociálnych prínosov, ani v
+porovnaní s podobnými intervenciami. Na to je potrebné posúdiť vnímanie
+prínosov rôznymi záujmovými skupinami a zhodnotiť hospodárnosť. Používa
+sa, ak sú definované všetky očakávané efekty a sú homogénne resp. je ich
+možné merať na základe výsledku (napr. počet vytvorených pracovných
+miest, počet stážistov); často ide o hodnotenie sociálnych projektov
+(vzdelávanie, zdravie).
 
 ## Hlavné kroky
 
-_1\. Kvantifikácia_
+*1. Kvantifikácia*
 
-Najdôležitejšie je predovšetkým zistiť a kvantifikovať očakávaný výsledok projektu (napr. počet zamedzených dopravných nehôd, počet nových vyškolených pracovníkov po absolvovaní kurzu). Mali by sa zodpovedať nasledujúce otázky: Aké sú ciele, ktoré sa majú dosiahnuť? Aké sú výstupy intervencie? Aké sú očakávané dopady? Ktorý z nich možno považovať za dominantný?
+Najdôležitejšie je predovšetkým zistiť a kvantifikovať očakávaný
+výsledok projektu (napr. počet zamedzených dopravných nehôd, počet
+nových vyškolených pracovníkov po absolvovaní kurzu). Mali by sa
+zodpovedať nasledujúce otázky: Aké sú ciele, ktoré sa majú dosiahnuť?
+Aké sú výstupy intervencie? Aké sú očakávané dopady? Ktorý z nich možno
+považovať za dominantný?
 
-_1\. Definícia celkových nákladov na intervenciu_
+*1. Definícia celkových nákladov na intervenciu*
 
-Musia sa vypočítať celkové náklady a ak je to možné, na definovanie nákladov možno použiť základné pravidlá analýzy nákladov a výnosov. V tejto fáze sa náklady všetkých verejných zdrojov intervencie sčítajú, aby sa získali celkové náklady. Vo všeobecnosti sú zahrnuté iba priame zdroje, ktoré majú dobre definovanú peňažnú hodnotu. Náklady na intervenciu sa niekedy merajú vo vzťahu k prínosom, ktoré by sa mohli získať využitím verejných financií na iné účely.
+Musia sa vypočítať celkové náklady a ak je to možné, na definovanie
+nákladov možno použiť základné pravidlá analýzy nákladov a výnosov. V
+tejto fáze sa náklady všetkých verejných zdrojov intervencie sčítajú,
+aby sa získali celkové náklady. Vo všeobecnosti sú zahrnuté iba priame
+zdroje, ktoré majú dobre definovanú peňažnú hodnotu. Náklady na
+intervenciu sa niekedy merajú vo vzťahu k prínosom, ktoré by sa mohli
+získať využitím verejných financií na iné účely.
 
-_2\. Meranie vplyvu_
+*2. Meranie vplyvu*
 
-Odhad dopadov je možné urobiť aj na základe sekundárnych údajov alebo modelovania intervencie. Takto by mohli hodnotiť rôzne alternatívy s rovnakým časovým horizontom, s rôznymi investičnými nákladmi a rôznou úrovňou rovnakého typu dopadov. Na porovnanie sa takom prípade dá využiť ročná ekvivalentná hodnota nákladov a úroveň ročných prínosov. Bez ohľadu na použitú metódu je dôležité mať presný obraz nielen o pozitívnych výsledkoch, ale aj o stratách v dôsledku mŕtvej váhy, vytesnenia či nahradenia. V praxi je mimoriadne ťažké presne vyhodnotiť tieto sekundárne výsledky a preto ich väčšina hodnotení nezohľadňuje.
+Odhad dopadov je možné urobiť aj na základe sekundárnych údajov alebo
+modelovania intervencie. Takto by mohli hodnotiť rôzne alternatívy s
+rovnakým časovým horizontom, s rôznymi investičnými nákladmi a rôznou
+úrovňou rovnakého typu dopadov. Na porovnanie sa takom prípade dá využiť
+ročná ekvivalentná hodnota nákladov a úroveň ročných prínosov. Bez
+ohľadu na použitú metódu je dôležité mať presný obraz nielen o
+pozitívnych výsledkoch, ale aj o stratách v dôsledku mŕtvej váhy,
+vytesnenia či nahradenia. V praxi je mimoriadne ťažké presne vyhodnotiť
+tieto sekundárne výsledky a preto ich väčšina hodnotení nezohľadňuje.
 
-_3\. Výpočet pomeru nákladovej efektívnosti_
+*3. Výpočet pomeru nákladovej efektívnosti*
 
-Fáza výpočtu poskytuje konečný výsledok, čo je jednoduchý pomer nákladov a efektívnosti. Napr. máme 4 možnosti intervencie na zlepšenie matematických zručností:
+Fáza výpočtu poskytuje konečný výsledok, čo je jednoduchý pomer nákladov
+a efektívnosti. Napr. máme 4 možnosti intervencie na zlepšenie
+matematických zručností:
 
-* malé skupiny so špeciálnym učiteľom  
-* samo-študijný program podporovaný špeciálne navrhnutými materiálmi  
-* počítačom podporované učenie  
-* program tútorského vzdelávania
+-   malé skupiny so špeciálnym učiteľom\
+-   samo-študijný program podporovaný špeciálne navrhnutými materiálmi\
+-   počítačom podporované učenie\
+-   program tútorského vzdelávania
 
-Očakávaný výstup sa meria ako skóre v teste. Tabuľka obsahuje výpočet pomeru nákladovej efektívnosti pre každú možnosť. V našom prípade bol tútoring najefektívnejší.
+Očakávaný výstup sa meria ako skóre v teste. Tabuľka obsahuje výpočet
+pomeru nákladovej efektívnosti pre každú možnosť. V našom prípade bol
+tútoring najefektívnejší.
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| Intervencia | Veľkosť účinku na skóre | Cena za študenta (Eur) | Pomer náklad/efekt |
-| malé skupiny | 20  | 300 | 15  |
-| samo-štúdium | 4   | 100 | 25  |
-| počítačom podporované učenie | 15  | 150 | 10  |
-| program tútorského vzdelávania | 10  | 50  | 5   |
+| Intervencia                    | Veľkosť účinku na skóre | Cena za študenta (Eur) | Pomer náklad/efekt |
+|------------------|------------------|------------------|------------------|
+| malé skupiny                   | 20                      | 300                    | 15                 |
+| samoštúdium                    | 4                       | 100                    | 25                 |
+| počítačom podporované učenie   | 15                      | 150                    | 10                 |
+| program tútorského vzdelávania | 10                      | 50                     | 5                  |
+
 Zdroj: Belli, 2001
 
 ## Silné stránky a obmedzenia
 
-Táto metóda je alternatívou k analýze nákladov a prínosov hlavne v prípade ak sa výstupy nedajú vyjadriť peňažne, ale dajú sa kvantifikovať. Je vhodná na posúdenie očakávaných dopadov pri ex-ante hodnotení aj pre výpočet dosiahnutých dopadov v ex-post hodnotení. CEA sa zvyčajne zameriava na výsledky v krátkodobom až strednodobom horizonte, v menšej miere dlho-dobejšími dopadmi aj keď práve tie sú dôležité pre posúdenie účinnosti intervencií.
+Táto metóda je alternatívou k analýze nákladov a prínosov hlavne
+v prípade ak sa výstupy nedajú vyjadriť peňažne, ale dajú sa
+kvantifikovať. Je vhodná na posúdenie očakávaných dopadov pri ex-ante
+hodnotení aj pre výpočet dosiahnutých dopadov v ex-post hodnotení. CEA
+sa zvyčajne zameriava na výsledky v krátkodobom až strednodobom
+horizonte, v menšej miere dlho-dobejšími dopadmi aj keď práve tie sú
+dôležité pre posúdenie účinnosti intervencií.
 
-Podiely nákladovej efektívnosti v intervenciách je možné porovnávať (alebo benchmarkovať). Musí sa pri tom zohľadniť prístup použitý pri hodnotení nákladov alebo výstupov, ktorá sa často líši. Jedno hodnotenie môže vyjadrovať ceny konštantne, zatiaľ čo iné používa nominálne hodnoty a vo výstupoch alebo výsledkoch existujú aj kvalitatívne rozdiely. Napr. platy alebo udržateľnosť pracovných miest vytvorených dvoma projektmi sa môžu podstatne líšiť, aj keď je ich počet rovnaký.
+Podiely nákladovej efektívnosti v intervenciách je možné porovnávať
+(alebo benchmarkovať). Musí sa pri tom zohľadniť prístup použitý pri
+hodnotení nákladov alebo výstupov, ktorá sa často líši. Jedno hodnotenie
+môže vyjadrovať ceny konštantne, zatiaľ čo iné používa nominálne hodnoty
+a vo výstupoch alebo výsledkoch existujú aj kvalitatívne rozdiely. Napr.
+platy alebo udržateľnosť pracovných miest vytvorených dvoma projektmi sa
+môžu podstatne líšiť, aj keď je ich počet rovnaký.
 
-CEA môže slúžiť na porovnávanie intervencií, ktoré majú jednoduchú implementáciu a rovnaký typ dopadov. Keďže CEA je založená na odhade dopadu intervencie vo vzťahu k jej hlavnému cieľu, výhodou je, že prináša ľahko zrozumiteľné zistenia, ktoré sa sústreďujú na kľúčových aktérov, čo je užitočné pri zdokonaľovaní existujúcich politík alebo pri zvyšovaní efektívnosti budúcich intervencií.
+CEA môže slúžiť na porovnávanie intervencií, ktoré majú jednoduchú
+implementáciu a rovnaký typ dopadov. Keďže CEA je založená na odhade
+dopadu intervencie vo vzťahu k jej hlavnému cieľu, výhodou je, že
+prináša ľahko zrozumiteľné zistenia, ktoré sa sústreďujú na kľúčových
+aktérov, čo je užitočné pri zdokonaľovaní existujúcich politík alebo pri
+zvyšovaní efektívnosti budúcich intervencií.
 
-Stanovenie kauzálnych súvislostí si vyžaduje podrobné údaje od aktérov intervencií. Ak sa tieto údaje nezhromažďujú prostredníctvom monitorovania, hodnotenie bude zahŕňať náročný zber primárnych údajov. V ideálnom prípade by sa mala táto metóda používať v kombinácii s inými nástrojmi ekonomickej analýzy.
+Stanovenie kauzálnych súvislostí si vyžaduje podrobné údaje od aktérov
+intervencií. Ak sa tieto údaje nezhromažďujú prostredníctvom
+monitorovania, hodnotenie bude zahŕňať náročný zber primárnych údajov. V
+ideálnom prípade by sa mala táto metóda používať v kombinácii s inými
+nástrojmi ekonomickej analýzy.

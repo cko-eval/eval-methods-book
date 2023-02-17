@@ -13,7 +13,7 @@ link-citations: yes
 #github-repo: rstudio/bookdown-demo
 ---
 
-# Úvod 
+# Úvod {.unnumbered}
 
 Cieľom tohto materiálu je poskytnúť stručný prehľad metód, ktoré sa v hodnotení najviac využívajú. Každá z metód obsahuje krátky popis toho, na aký účel sa najviac hodí, za akých podmienok sa dá použiť, postupnosť krokov pri jej aplikácii a záver obsahuje zhrnutie silných stránok a obmedzení, ktoré limitujú použitie metódy. Tento materiál je určený predovšetkým manažérom hodnotenia na riadiacich a sprostredkovateľských orgánoch Európskych štrukturálnych a investičných fondov. Môže im poslúžiť na rýchlu orientáciu v problematike a veríme, že pomôže pri plánovaní, príprave zadávacích podmienok, posudzovaní kvality návrhov predkladaných vo verejných súťažiach na externé hodnotenie, alebo ako pomôcka pri internom hodnotení. Všetky uvedené metódy sa týkajú ako ex ante, tak aj priebežného, záverečného či následného hodnotenia.
 
