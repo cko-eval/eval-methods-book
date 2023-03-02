@@ -42,7 +42,7 @@ Vo všeobecnosti kvalitatívne a kvantitatívne údaje a metódy majú svoje s
 
 : (\#tab:metody-kvanti) Výhody a nevýhody použitia kvantitatívneho prístupu.
 
-Zdroj: vlastné spracovanie, Gombitová (2007), Hendl (2005)
+Zdroj: vlastné spracovanie, [@Gombitova2007], [@Hendl2005]
 
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
 | Výhody kvalitatívneho prístupu                                                         | Nevýhody kvalitatívneho prístupu                                                  |
@@ -62,7 +62,7 @@ Zdroj: vlastné spracovanie, Gombitová (2007), Hendl (2005)
 
 : (\#tab:metody-kvalit) Výhody a nevýhody kvalitatívneho prístupu.
 
-Zdroj: vlastné spracovanie, Gombitová (2007), Hendl (2005)
+Zdroj: vlastné spracovanie, [@Gombitova2007], [@Hendl2005]
 
 ## Hodnotenie dopadov {#hodnotenie-dopadov}
 

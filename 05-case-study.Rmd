@@ -38,7 +38,7 @@ Prípadová štúdia s viacerými prípadmi je obzvlášť vhodná na analýzu 
 
 ## Hlavné kroky[^05-case-study-3]
 
-[^05-case-study-3]: Gagnon Y.C. (2010) The case study´s a research Method: a Practical handbook
+[^05-case-study-3]: [@Gagnon2010]
 
 *1. Výber relevantnej metódy*
 

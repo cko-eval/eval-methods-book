@@ -1,5 +1,5 @@
 # Analýza nákladov a prínosov
-Analýza nákladov a výnosov je hodnotiaca metóda čistého ekonomického dopadu verejného projektu. Sieber (2004) definuje CBA ako metodický postup, ktorý svojim priebehom zodpovedá základnú otázku: „Čo komu realizácia investičného projektu prináša a čo komu berie?“. Takto vymedzené dopady sú následne agregované, prevedené na hotovostné toky a zhrnuté do výpočtov rozhodujúcich ukazovateľov, na základe ktorých je možné rozhodnúť, či je projekt vo svojom dôsledku pre spoločnosť prínosom alebo nie. Drdúlová (2008) pri vymedzení CBA kladie dôraz na cieľ tejto metódy, ktorým je _napomôcť v rozhodovacom procese o realizácii opatrenia resp. projektu_. CBA vstupuje do tohto rozhodovacieho procesu svojou ekonomickou informáciou o prínosoch nákladov vynakladaných na realizáciu opatrení v súvislosti s disproporcionalitou nákladov. 
+Analýza nákladov a výnosov je hodnotiaca metóda čistého ekonomického dopadu verejného projektu. [@Sieber2004] definuje CBA ako metodický postup, ktorý svojim priebehom zodpovedá základnú otázku: „Čo komu realizácia investičného projektu prináša a čo komu berie?“. Takto vymedzené dopady sú následne agregované, prevedené na hotovostné toky a zhrnuté do výpočtov rozhodujúcich ukazovateľov, na základe ktorých je možné rozhodnúť, či je projekt vo svojom dôsledku pre spoločnosť prínosom alebo nie. [@Drdulova2008] pri vymedzení CBA kladie dôraz na cieľ tejto metódy, ktorým je _napomôcť v rozhodovacom procese o realizácii opatrenia resp. projektu_. CBA vstupuje do tohto rozhodovacieho procesu svojou ekonomickou informáciou o prínosoch nákladov vynakladaných na realizáciu opatrení v súvislosti s disproporcionalitou nákladov. 
 
 Metóda sa používa na:
 
@@ -28,7 +28,7 @@ Finančná analýza je východiskom pre následné ekonomické analýzy. Poskytu
 
 V tomto kroku sú prehodnotené všetky náklady a výnosy projektu vo všetkých jeho fázach. Náklady spojené s predinvestičnou fázou sa do analýzy nezahŕňajú. Ide predovšetkým o vypracovanie projektovej dokumentácie, administratívne náklady spojené s prípravou a realizáciou projektov a projekty na vypracovanie samotnej analýzy. Tieto náklady sú realizované bez ohľadu na to, či daný projekt bude alebo nebude realizovaný. Následná investičná fáza je spojená s prevahou nákladov nad výnosmi (resp. prínosmi). V realizačnej fáze, ktorej trvanie je vymedzené spustením projektu do prevádzky a trvá do okamihu jeho ukončenia, by mali prevažovať výnosy (resp. prínosy) nad nákladmi. V porealizačnej etape je projekt ukončený ale stále môže ovplyvňovať náklady a výnosy niektorých zainteresovaných subjektov, preto je potrebné zohľadňovať a brať ich do úvahy.
 
-Veľmi dôležitým krokom pri vypracovaní analýzy je stanovenie diskontnej sadzby. Sieber (2004) definuje diskontnú sadzbu ako _...výnosovú mieru, ktorú ponúkajú z hľadiska rizika porovnateľné investičné alternatívy_. Diskontná sadzba slúži k prevodu peňažných tokov realizovaných v budúcnosti na ich súčasnú hodnotu.
+Veľmi dôležitým krokom pri vypracovaní analýzy je stanovenie diskontnej sadzby. [@Sieber2004] definuje diskontnú sadzbu ako _...výnosovú mieru, ktorú ponúkajú z hľadiska rizika porovnateľné investičné alternatívy_. Diskontná sadzba slúži k prevodu peňažných tokov realizovaných v budúcnosti na ich súčasnú hodnotu.
 
 V tomto kroku dochádza k vyhodnocovacej fáze metódy CBA. Všetky kvantifikované náklady a výnosy sú známe pre zainteresované subjekty v jednotlivých rokoch a sú vyjadrené v podobe hotovostných tokov (príjmy a výdavky). Následne je možné kvantifikovať rozhodujúce ukazovatele:
 
@@ -64,7 +64,7 @@ Obmedzenia
 
 [^1]: metodiky MF SR: https://www.mfsr.sk/sk/financie/hodnota-za-peniaze/hodnotenie-investicnych-projektov/hodnotenie-investicnych-projektov.html
 
-[^2]: metodické usmernenie použitia metódy CBA je možné nájsť v Metodickom pokyne č.7 vydanom CKO, ÚPPVII.
+[^2]: metodické usmernenie použitia metódy CBA je možné nájsť v Metodickom pokyne č.7 [@cko2016].
 
 [^3]: Predinvestičná fáza – obdobie prípravy projektu a rozhodovania o jeho realizácii alebo zamietnutí.
 

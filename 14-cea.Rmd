@@ -92,7 +92,7 @@ tútoring najefektívnejší.
 | počítačom podporované učenie   | 15                      | 150                    | 10                 |
 | program tútorského vzdelávania | 10                      | 50                     | 5                  |
 
-Zdroj: Belli, 2001
+Zdroj: [@Belli2001]
 
 ## Silné stránky a obmedzenia
 
