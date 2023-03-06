@@ -11,6 +11,7 @@ description: |
   Vydalo MIRRI ako metodickú príručku pre manažérov hodnotenia operačných programov.
 link-citations: yes
 #github-repo: rstudio/bookdown-demo
+always_allow_html: true
 ---
 
 # Úvod {.unnumbered}

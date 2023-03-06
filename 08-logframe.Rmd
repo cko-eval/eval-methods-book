@@ -34,51 +34,49 @@ Logický rámec teda sumarizuje štandardným spôsobom:
 Štandardná matica logického rámca označená poradím, v akom sa vypĺňajú
 jednotlivé časti.
 
-+--------------+--------------+--------------+--------------+
-| **Popis      |              | **Zdroje na  |              |
-| projektu**   | **U          | overenie**   | **P          |
-|              | kazovatele** |              | redpoklady** |
-+--------------+--------------+--------------+--------------+
-| 1 Celkový    | 8 Ako budeme | 9 Ako budú   | \            |
-| cieľ --      | merať        | zozbierané   |              |
-|              | strategický  | informácie,  |              |
-| Prí­spevok    | cieľ k       | kedy a kým   |              |
-| projektu     | v            |              |              |
-| k cieľom     | antitatí­vne, |              |              |
-| programu     | kvalitatí­vne |              |              |
-| (dopad)      | a v akom     |              |              |
-|              | čase         |              |              |
-+--------------+--------------+--------------+--------------+
-| 2 Cieľ       | 10 Ako       | 11 Ako budú  | 7 Ak sme     |
-| projektu --  | budeme merať | zozbierané   | dosiahli     |
-| priamy       | cieľ         | informácie,  | projektové   |
-| prí­nos pre   | projektu k   | kedy a kým   | ciele, aký   |
-| cieľové      | v            |              | predpoklad   |
-| skupiny      | antitatí­vne, |              | musí­ byť     |
-| (výsledky)   | kvalitatí­vne |              | splnený, aby |
-|              | a v akom     |              | sme dosiahli |
-|              | čase         |              | strategické  |
-|              |              |              | ciele        |
-+--------------+--------------+--------------+--------------+
-| 3 Výstupy -- | 12 Ako       | 13 Ako budú  | 6 Ak sme     |
-| hmatateľné   | budeme merať | zozbierané   | dosiahli     |
-| produkty,    | výstupy k    | informácie,  | výstupy, aký |
-| služby       | v            | kedy a kým   | predpoklad   |
-|              | antitatí­vne, |              | musí­ byť     |
-|              | kvalitatí­vne |              | splnený, aby |
-|              | a v akom     |              | sme dosiahli |
-|              | čase         |              | ciele        |
-+--------------+--------------+--------------+--------------+
-| 4 Aktivity   | \            | \            | 5 Ak sú      |
-| -- úlohy,    |              |              | ukončené     |
-| ktoré musia  |              |              | aktivity,    |
-| byť urobené, |              |              | aký          |
-| aby sme      |              |              | predpoklad   |
-| dosiahli     |              |              | musí­ byť     |
-| výstupy      |              |              | splnený, aby |
-|              |              |              | sme dosiahli |
-|              |              |              | výstupy      |
-+--------------+--------------+--------------+--------------+
++----------------+----------------+----------------+----------------+
+| Popis          |                | Zdroje na      | Predpoklady    |
+| projektu       | Ukazovatele    | overenie       |                |
++================+================+================+================+
+| 1 Celkový cieľ | 8 Ako budeme   | 9 Ako budú     | \              |
+| -- príspevok   | merať          | zozbierané     |                |
+| projektu       | strategický    | informácie,    |                |
+| k cieľom       | cieľ           | kedy a kým     |                |
+| programu       | kvantitatívne, |                |                |
+| (dopad)        | kvalitatívne   |                |                |
+|                | a v akom čase  |                |                |
++----------------+----------------+----------------+----------------+
+| 2 Cieľ         | 10 Ako budeme  | 11 Ako budú    | 7 Ak sme       |
+| projektu --    | merať cieľ     | zozbierané     | dosiahli       |
+| priamy prínos  | projektu       | informácie,    | projektové     |
+| pre cieľové    | kvantitatívne, | kedy a kým     | ciele, aký     |
+| skupiny        | kvalitatívne   |                | predpoklad     |
+| (výsledky)     | a v akom čase  |                | musí byť       |
+|                |                |                | splnený, aby   |
+|                |                |                | sme dosiahli   |
+|                |                |                | strategické    |
+|                |                |                | ciele          |
++----------------+----------------+----------------+----------------+
+| 3 Výstupy --   | 12 Ako budeme  | 13 Ako budú    | 6 Ak sme       |
+| hmatateľné     | merať výstupy  | zozbierané     | dosiahli       |
+| produkty,      | kvantitatívne, | informácie,    | výstupy, aký   |
+| služby         | kvalitatívne   | kedy a kým     | predpoklad     |
+|                | a v akom čase  |                | musí byť       |
+|                |                |                | splnený, aby   |
+|                |                |                | sme dosiahli   |
+|                |                |                | ciele          |
++----------------+----------------+----------------+----------------+
+| 4 Aktivity --  | \              | \              | 5 Ak sú        |
+| úlohy, ktoré   |                |                | ukončené       |
+| musia byť      |                |                | aktivity, aký  |
+| urobené, aby   |                |                | predpoklad     |
+| sme dosiahli   |                |                | musí byť       |
+| výstupy        |                |                | splnený, aby   |
+|                |                |                | sme dosiahli   |
+|                |                |                | výstupy        |
++----------------+----------------+----------------+----------------+
+
+## Komponenty logického rámca
 
 Prvý stĺpec logického rámca predstavuje logiku projektu / intervencie.
 Intervenčná logika prezentuje logický reťazec: vstup --\> výstup --\>
@@ -130,7 +128,7 @@ rokov a viac v prípade tzv. mäkkých projektov). Ak sa vrátime
 k predchádzajúcim príkladom, dopadom môže byť napr. zlepšenie stavu
 fauny a flóry, alebo znížená nezamestnanosť v regióne.
 
-## Ciele
+### Ciele
 
 Každý projekt by mal prispieť k celkovému/strategickému cieľu, ktorý
 býva stanovený na vyššej úrovni (zväčša vo výzve ak ide o dopytovo
@@ -154,133 +152,94 @@ nezamestnaných prostredníctvom školenia). Niekedy sa uvádzajú aj tzv.
 operatívne ciele a tie sú vyjadrené ako aktivity a premietajú sa do
 výstupov (napr. zrealizovať školenie dlhodobo nezamestnaných).
 
-```{r}
-DiagrammeR::grViz("graph2.gv")
+```{r echo=FALSE}
+DiagrammeR::grViz("
+  digraph logframe {
+    compound = true;
+
+  graph [layout = dot, rankdir = BT]
+
+  node [shape = box, style = filled, fillcolor = LightCoral]
+  a [label = 'Vstupy']
+  b [label = 'Aktivity']
+  c [label = 'Výstupy']
+  d [label = 'Výsledky']
+  e [label = 'Dopady']
+
+  # edge definitions
+  a -> b
+  b -> c
+  c -> d
+  d -> e
+  
+  subgraph {rank = same; a; b}
+  
+  subgraph ciele {
+  node [style = rounded]  
+  f [label = 'Operatívne ciele']
+  g [label = 'Projektové ciele']
+  h [label = 'Celkové ciele']
+  edge [tailport = ne]
+  f -> g -> h
+  }
+  
+  {rank = same; c; f}
+  {rank = same; d; g}
+  {rank = same; e; h}
+  
+  edge [style = dotted, dir = none, minlen = 4]
+  c -> f
+  d -> g
+  e -> h
+  
+  }
+")
 
 ```
 
-## Hlavné kroky
-
-Plánovanie intervencie (projektu) a príprava logického rámca prebieha
-v dvoch fázach: ***analytickej*** a ***plánovacej***. Analytická fáza
-pozostáva zo štyroch analýz, a to z analýzy:
-
-1.  zainteresovaných strán,
-
-2.  problémov,
-
-3.  cieľov, a
-
-4.  stratégií
-
-*Analýza zainteresovaných strán*
-
-Táto analýza je technikou na identifikovanie kľúčových aktérov, na
-získavanie podpory a prekonanie odporu tých, ktorí majú z rôznych
-dôvodov výhrady voči realizácii projektu. Jej predmetom sú všetky
-subjekty, ktoré môžu intervenciu ovplyvniť, rozhodovať o nej, mať záujem
-na jej úspechu, či neúspechu. Základom analýzy je rozdelenie
-zainteresovaných strán do kategórií podľa ich vplyvu (príp. veľkosti) a
-podľa záujmu.
-
-```{=html}
-<table width="580" align="center" border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey">Nemajú záujem</td>
-    <td style="background-color:grey">Majú záujem</td>
-  </tr> 
-  <tr>
-    <td style="background-color:grey">Veľký<br>vplyv</td>
-    <td>Užitoční na rozhodovanie:<br>uspokojte<br><strong>latentní</strong></td>
-    <td style="background-color:#0099ff">Najkritickejšia skupina:<br>spolupracujte<br><strong>promotóri</strong></td>
-  </tr>
-  <tr>
-    <td style="background-color:grey">Malý<br>vplyv</td>
-    <td style="background-color:bisque">Najmenej dôležití:<br>monitorujte alebo ignorujte <br><strong>apatickí</strong></td>
-    <td>Dôležití, potrebujú posilniť: <br>zainteresujte, informujte <br><strong>obhajcovia</strong></td>
-  </tr>
-</table>
-```
-Analýza sa snaží maximalizovať pozitívne dopady projektu (sociálne,
-ekonomické, ...) na cieľové skupiny a minimalizovať možné negatívne
-dopady (vrátane konfliktov záujmových skupín).
-
-Tento proces zahŕňa:
-
--   identifikáciu všetkých zainteresovaných skupín,\
--   zistenie ich záujmov, vplyvu a kapacity podieľať sa na intervencii,
-    a\
--   identifikáciu vzájomných vzťahov medzi zainteresovanými.
-
-*Analýza problémov*
-
-Analýza problému identifikuje nedostatky, potreby a problémy a snaží sa
-nájsť kauzálne súvislosti (príčina - následok) medzi týmito problémami.
-V tejto analýze je kľúčové definovať hlavný problém(y), ktorý bude
-intervencia riešiť. Optimálnym prístupom je vizualizácia v podobe stromu
-problémov, kde hlavný problém je základ (kmeň stromu), nad ním sa
-uvádzajú dôsledky a pod ním príčiny, ktoré problém(y) spôsobujú.
-
-Strom problémov by mali tvoriť zainteresované strany. Ak ich je príliš
-veľa, môžu sa rozdeliť do skupín a každá skupina pripraví vlastnú
-verziu. Tento model umožní zjednodušiť realitu a aj preto nemôže úplne
-vysvetliť zložitosť všetkých kauzálnych vzťahov. Poslúži však na
-jednoduché modelové zobrazenie kauzálnych vzťahov. Tieto vzťahy začínajú
-dolu príčinami a pokračujú vyššie následkami (zjednodušene ak - potom).
-Takéto zobrazenie môže vyzerať nasledovne:
-
-```{r}
-DiagrammeR::grViz("graph4.gv")
-
-```
-
-*Analýza cieľov*
-
-Analýza cieľov znamená transformáciu problémov do úspešného riešenia.
-Znázorňuje rovnakú situáciu, ale s tým, že problémy sú už vyriešené.
-Všetky negatívne situácie sú zmenené na opak, čiže pozitívne. Problémy
-sa menia na ciele, čiže napr. „používanie zdrojov so zlou kvalitou vody"
-je transformované na „používanie zdrojov s kvalitnou vodou". Strom
-cieľov prezentuje kauzálne vzťahy v plánovanej situácii po vyriešení
-problémov.
-
-```{r}
-DiagrammeR::grViz("graph1.gv")
-
-```
-
-Analýza cieľov by mala pomôcť pri zvažovaní priorít a realizovateľnosti
-cieľov.
-
-*Analýza stratégií*
-
-Analýza cieľov zvyčajne poskytne komplexnejší obraz intervencie, ale
-zriedka je k dispozícii dostatok finančných prostriedkov na riešenie
-všetkých problémov. Z toho dôvodu je potrebné vybrať relevantnú časť
-intervencie. Výber prebieha na základe rôznych kritérií, zvyčajne sa
-posudzuje:
-
--   Dostatok zdrojov\
--   Príspevok k hlavným cieľom politiky\
--   Prínos pre cieľovú skupinu\
--   Komplementarita s prebiehajúcimi alebo plánovanými intervenciami\
--   Finančné a ekonomické prínosy\
--   Budovanie kapacít\
--   Technická realizovateľnosť\
--   Environmentálne dopady
-
-Tieto kritériá určia aká bude intervencia a tvoria základ, podľa ktorého
-sa tvorí logický rámec.
-
-**Predpoklady**
+### Predpoklady
 
 Poslednú časť logického rámca tvoria predpoklady. Sú to externé faktory,
 o ktorých vieme, ale sú mimo dosahu projektového riadenia a môžu
 ovplyvniť (ne)úspech projektu.
 
-```{r}
-DiagrammeR::grViz("graph3.gv")
+```{r echo=FALSE}
+DiagrammeR::grViz("
+  digraph graph2 {
+  
+  graph [layout = dot, rankdir = LR]
+  
+  # node definitions
+  node [shape = box]
+  a [label = 'Vstupy']
+  b [label = 'Aktivity']
+  
+  {rank=same; a -> b}
+  
+  subgraph cluster_left {
+  e [label = 'Celkový cieľ / dopad']
+  d [label = 'Cieľ projektu']
+  c [label = 'Výstupy']
+  b
+  }
+  
+  subgraph cluster_right {
+  p1 [label = '@@1']
+  p2 [label = '@@1']
+  p3 [label = '@@1']
+  }
+  
+  # edge definitions
+  b -> p1
+  p1 -> c
+  c -> p2 
+  p2 -> d 
+  d -> p3 
+  p3 -> e
+ 
+  }
+[1]: 'Predpoklad'
+")
 
 ```
 
@@ -302,9 +261,9 @@ Rovnako súčasťou predpokladov nemôžu byť nutné podmienky na realizáciu
 projektu ako je napr. ochota partnera spolupracovať, alebo dostatok
 finančných zdrojov, a pod.
 
-**Ukazovatele**
+### Ukazovatele
 
-Účasťou logického rámca sú aj ukazovatele. Objektívne overiteľné
+Súčasťou logického rámca sú aj ukazovatele. Objektívne overiteľné
 ukazovatele (indikátory) sa stanovujú na úrovni výstupov, výsledkov
 a dopadov. Ukazovatele sú určené kvantitatívne, alebo kvalitatívne a sú
 základom pre monitorovanie a hodnotenie projektov. Obsahujú hodnoty
@@ -322,6 +281,10 @@ odkiaľ sa budú čerpať stanovené údaje ukazovateľov. Účelom je zozbiera�
 ukazovatele z existujúcich systémov. Užitočným zdrojom môže byť
 Štatistický úrad a iné inštitúcie, ktoré zbierajú sektorové údaje.
 
+## Hlavné kroky 
+
+Plánovanie intervencie (projektu) a príprava logického
+rámca prebieha v dvoch fázach: ***analytickej*** a ***plánovacej***.
 V plánovacej fáze je potrebné:
 
 -   vytvoriť zoznam činností/ aktivít projektu\
@@ -337,6 +300,145 @@ prerozdelenie úloh a zodpovednosti. Plán aktivít pomáha špecifikovať
 náklady a zdroje. Plán aktivít je základom na prípravu rozpočtu projektu
 a určenie ďalších potrebných zdrojov -- ľudských aj materiálnych.
 
+Analytická fáza pozostáva zo štyroch analýz, a to z analýzy:
+
+1.  zainteresovaných strán,\
+2.  problémov,\
+3.  cieľov, a\
+4.  stratégií
+
+### Analýza zainteresovaných strán
+
+Táto analýza je technikou na identifikovanie kľúčových aktérov, na
+získavanie podpory a prekonanie odporu tých, ktorí majú z rôznych
+dôvodov výhrady voči realizácii projektu. Jej predmetom sú všetky
+subjekty, ktoré môžu intervenciu ovplyvniť, rozhodovať o nej, mať záujem
+na jej úspechu, či neúspechu. Základom analýzy je rozdelenie
+zainteresovaných strán do kategórií podľa ich vplyvu (príp. veľkosti) a
+podľa záujmu.
+
++----------------+---------------------+-----------------------+
+|                | Nemajú záujem       | Majú záujem           |
++================+:====================+:======================+
+| **Veľký        | Užitoční na         | Najkritickejšia       |
+| vplyv**        | rozhodovanie:\      | skupina:\             |
+|                | uspokojte           | spolupracujte         |
+|                |                     |                       |
+|                | **latentní**        | **promotéri**         |
++----------------+---------------------+-----------------------+
+| **Malý vplyv** | Najmenej dôležití:\ | Dôležití, potrebujú   |
+|                | monitorujte alebo   | posilniť:\            |
+|                | ignorujte           | zainteresujte,        |
+|                |                     | informujte            |
+|                | **apatickí**        |                       |
+|                |                     | **obhajcovia**        |
++----------------+---------------------+-----------------------+
+
+Analýza sa snaží maximalizovať pozitívne dopady projektu (sociálne,
+ekonomické, ...) na cieľové skupiny a minimalizovať možné negatívne
+dopady (vrátane konfliktov záujmových skupín).
+
+Tento proces zahŕňa:
+
+-   identifikáciu všetkých zainteresovaných skupín,\
+-   zistenie ich záujmov, vplyvu a kapacity podieľať sa na intervencii,
+    a\
+-   identifikáciu vzájomných vzťahov medzi zainteresovanými.
+
+### Analýza problémov
+
+Analýza problému identifikuje nedostatky, potreby a problémy a snaží sa
+nájsť kauzálne súvislosti (príčina - následok) medzi týmito problémami.
+V tejto analýze je kľúčové definovať hlavný problém(y), ktorý bude
+intervencia riešiť. Optimálnym prístupom je vizualizácia v podobe stromu
+problémov, kde hlavný problém je základ (kmeň stromu), nad ním sa
+uvádzajú dôsledky a pod ním príčiny, ktoré problém(y) spôsobujú.
+
+Strom problémov by mali tvoriť zainteresované strany. Ak ich je príliš
+veľa, môžu sa rozdeliť do skupín a každá skupina pripraví vlastnú
+verziu. Tento model umožní zjednodušiť realitu a aj preto nemôže úplne
+vysvetliť zložitosť všetkých kauzálnych vzťahov. Poslúži však na
+jednoduché modelové zobrazenie kauzálnych vzťahov. Tieto vzťahy začínajú
+dolu príčinami a pokračujú vyššie následkami (zjednodušene ak - potom).
+Takéto zobrazenie môže vyzerať nasledovne:
+
+```{r echo = FALSE}
+DiagrammeR::grViz("
+  digraph graph3 {
+  
+  graph [layout = dot, rankdir = BT]
+  
+  # node definitions with label
+  node [shape = box]
+  a [label = 'Nedostatok studní / vodných zdrojov']
+  b [label = 'Poškodené pumpy']
+  c [label = 'Nedostatok pitnej vody']
+  d [label = 'Zvýšenie nákladov na vodu']
+  e [label = 'Používanie zdrojov so zlou kvalitou vody']
+  
+  # edge definitions
+  {a b} -> c
+  c -> {d e}
+  }
+  ")
+
+```
+
+### Analýza cieľov
+
+Analýza cieľov znamená transformáciu problémov do úspešného riešenia.
+Znázorňuje rovnakú situáciu, ale s tým, že problémy sú už vyriešené.
+Všetky negatívne situácie sú zmenené na opak, čiže pozitívne. Problémy
+sa menia na ciele, čiže napr. „používanie zdrojov so zlou kvalitou vody"
+je transformované na „používanie zdrojov s kvalitnou vodou". Strom
+cieľov prezentuje kauzálne vzťahy v plánovanej situácii po vyriešení
+problémov.
+
+```{r echo=FALSE}
+DiagrammeR::grViz("
+  digraph graph1 {
+  
+  graph [layout = dot, rankdir = BT]
+  
+  # node definitions with substituted label text
+  node [shape = box]
+  a [label = 'Dostatok studní / vodných zdrojov']
+  b [label = 'Funkčné pumpy']
+  c [label = 'Dostatok pitnej vody']
+  d [label = 'Zníženie nákladov na vodu']
+  e [label = 'Používanie zdrojov s kvalitnou vodou']
+  
+  # edge definitions
+  {a b} -> c
+  c -> {d e}
+  }
+  ")
+
+```
+
+Analýza cieľov by mala pomôcť pri zvažovaní priorít a realizovateľnosti
+cieľov.
+
+### Analýza stratégií
+
+Analýza cieľov zvyčajne poskytne komplexnejší obraz intervencie, ale
+zriedka je k dispozícii dostatok finančných prostriedkov na riešenie
+všetkých problémov. Z toho dôvodu je potrebné vybrať relevantnú časť
+intervencie. Výber prebieha na základe rôznych kritérií, zvyčajne sa
+posudzuje:
+
+-   Dostatok zdrojov\
+-   Príspevok k hlavným cieľom politiky\
+-   Prínos pre cieľovú skupinu\
+-   Komplementarita s prebiehajúcimi alebo plánovanými intervenciami\
+-   Finančné a ekonomické prínosy\
+-   Budovanie kapacít\
+-   Technická realizovateľnosť\
+-   Environmentálne dopady
+
+Tieto kritériá určia aká bude intervencia a tvoria základ, podľa ktorého
+sa tvorí logický rámec.
+
 ## Silné stránky a obmedzenia
 
 Silnou stránkou logického rámca je, že núti ľudí premýšľať o tom, ako má
@@ -347,7 +449,7 @@ sa snaží robiť a preto je pomerne obľúbeným nástrojom.
 
 Napriek tomu má logický rámec aj svoje nedostatky. Je to v prvom rade
 model, ktorý je zjednodušením reality, čo nie je problém, ak sa s ním
-tak pracuje. Logický rámec je založený na každej lineárnej logike, ktorá
+tak pracuje. Logický rámec je založený na lineárnej logike, ktorá
 zdôrazňuje príčinu a následok. To sa dá považovať za dosť mechanistické,
 lebo v skutočnosti môže byť zmena veľmi zložitým procesom. Často je
 považovaný za príliš rigidný, určujúci jedinú plánovanú cestu zmeny, kým

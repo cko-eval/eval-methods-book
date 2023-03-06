@@ -1,0 +1,63 @@
+# (APPENDIX) Prílohy {.unnumbered}
+
+# Základné ukazovatele CBA
+
+Zdroj: [@Sieber2004]
+
+**Čistá súčasná hodnota** Net Present Value (NPV)
+$$\begin{equation} 
+  NPV=\sum_{t=0}^{n} \frac{CF_t}{(1+r)^t}
+  (\#eq:npv)
+\end{equation}$$ $NPV<0$ Ide o projekt ekonomicky neprípustný. Výsledná
+čiastka udáva reálne „obohatenie" spoločnosti realizovaním investície. V
+tomto prípade ide o reálne „zoštíhlenie" subjektov zahrnutých do CBA.
+
+$NPV>0$ Ide o projekt ekonomicky prípustný. Čiastka udáva reálne
+„zbohatnutie" spoločnosti realizáciou investície.
+
+------------------------------------------------------------------------
+
+**Vnútorné výnosové percento z cashflow** Economic Rate of Return (IRR)
+$$\begin{equation} 
+  0=\sum_{t=0}^{n} \frac{CF_t}{(1+IRR)^t}
+  (\#eq:irr)
+\end{equation}$$ $IRR<r$ Ide o neprijateľný projekt. Ale je potrebné
+prihliadnuť na štruktúru tokov, pokiaľ NPV podáva inú informáciu.
+
+$IRR>r$ Ide o prijateľný projekt. Ale je potrebné prihliadnuť na
+štruktúru tokov pokiaľ NPV podáva inú informáciu.
+
+------------------------------------------------------------------------
+
+**Index rentability (NPV/I)** 
+$$\begin{equation} 
+  NPV/I=\frac{\sum_{t=0}^{n} \frac{CF_t}{(1+r)^t}}{I}
+  (\#eq:npvi)
+\end{equation}$$ $NPV/I<0$ Ide o neprijateľný projekt. Číslo udáva v
+relatívnom vyjadrení „zoštíhlenie" spoločnosti. Vynásobenie číslom 100,
+udáva percento z pôvodnej hodnoty, o ktorú bola investícia zhodnotená.
+
+$NPV/I>=0$ Ide o prijateľný projekt. Číslo udáva v relatívnom vyjadrení
+„obohatenie" spoločnosti. Vynásobenie číslom 100, udáva percento z
+pôvodnej hodnoty, o ktorú bola investícia zhodnotená.
+
+------------------------------------------------------------------------
+
+**Doba návratnosti z diskontovaných tokov**
+
+*Počet rokov, ktoré sú potrebné, k tomu, aby sa kumulované diskontované
+hotovostné toky od roku 1 vyrovnali investícii.*
+
+Doba návratnosti $=<$ Doba životnosti. Projekt sa v období svojej
+prevádzky stihne spoločnosti vrátiť, aj keď berieme do úvahy časovú
+hodnotu peňazí. Hodnota udáva počet rokov, po ktorý sa bude vracať.
+
+Doba návratnosti $>$ Doba životnosti. Projekt sa nikdy spoločnosti
+nezaplatí.
+
+Vysvetlivky:
+
+> CF -- Cash flow (hotovostný tok)\
+> r -- diskontná sadzba\
+> I -- predstavuje hotovostný tok v roku 0 ($-CF_0$)\
+> t -- obdobie (rok) od 0 do n

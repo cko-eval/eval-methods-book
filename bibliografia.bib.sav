@@ -1,0 +1,111 @@
+@Book{Aven2012,
+  author    = {Terje Aven},
+  publisher = {Wiley},
+  title     = {Foundations of risk analysis},
+  year      = {2012},
+  address   = {New York},
+  isbn      = {9781119966975},
+  month     = jan,
+  doi       = {10.1002/9781119945482},
+}
+
+@Book{Belli2001,
+  author    = {P. Belli; J.R. Anderson; H.N. Barnum; J.A. Dixon; J.P. Tan},
+  publisher = {World Bank},
+  title     = {Economic analysis of investment operations. Analytical tools and practical applications.},
+  year      = {2001},
+  address   = {Washington, D.C.},
+}
+
+@Manual{Drdulova2008,
+  title        = {Praktický postup použitia analýzy {CBA}},
+  address      = {Bratislava},
+  author       = {Edita Drdúlová},
+  month        = mar,
+  organization = {Výskumný ústav vodného hospodárstva},
+  year         = {2008},
+  url          = {http://www.vuvh.sk/rsv2/download/02_Dokumenty/10_Podpone_dokumenty_metodiky/15_Prakticky_postup_pouzitia_analyzy_CBA.pdf},
+}
+
+@Manual{2013,
+  title        = {Evalsed sourcebook: method and techniques.},
+  month        = sep,
+  organization = {European Commission},
+  year         = {2013},
+  url          = {https://ec.europa.eu/regional_policy/en/information/publications/evaluations-guidance-documents/2013/evalsed-the-resource-for-the-evaluation-of-socio-economic-development-evaluation-guide},
+}
+
+@Book{Gagnon2010,
+  author    = {Gagnon, Yves-Chantal},
+  publisher = {Presses de l'Université du Québec},
+  title     = {The case study as research method},
+  year      = {2010},
+  isbn      = {9782760524552},
+  pages     = {117},
+  subtitle  = {a practical handbook},
+}
+
+@Book{Gombitova2007,
+  author    = {Dagmar Gombitová},
+  publisher = {Slovenská evaluačná spoločnosť},
+  title     = {Úvod do monitorovania a evaluácie},
+  year      = {2007},
+  isbn      = {9788096986095},
+}
+
+@Book{Hendl2005,
+  author    = {Jan Hendl},
+  publisher = {Portál},
+  title     = {Kvalitativní výzkum},
+  year      = {2005},
+  address   = {Praha},
+  isbn      = {8073670402},
+  pages     = {407},
+  subtitle  = {základní metody a aplikace},
+}
+
+@Manual{,
+  title        = {Metodický pokyn č. 7. k vypracovaniu finančnej analýzy projektu, analýzy nákladov a prínosov projektu a finančnej analýzy žiadateľa o NFP v programovom období 2014 – 2020},
+  address      = {Bratislava},
+  organization = {Centrálny koordinačný orgán},
+  year         = {2016},
+  url          = {http://www.partnerskadohoda.gov.sk/metodicke-pokyny-cko/},
+}
+
+@Book{Medved2011,
+  author    = {Jozef Medveď},
+  publisher = {Sprint},
+  title     = {Verejné financie},
+  year      = {2011},
+  address   = {Bratislava},
+  isbn      = {9788089393466},
+  pages     = {640},
+}
+
+@Manual{,
+  title        = {Analýza nákladů a přínosů (metodická příručka)},
+  address      = {Praha},
+  author       = {Patrik Sieber},
+  month        = may,
+  organization = {Ministerstvo pro místní rozvoj},
+  year         = {2004},
+  url          = {http://www.strukturalni-fondy.cz/getmedia/3a86fbee-beab-48cb-8ad1-aa9ed89af9bc/1136372212-zpracov-n-anal-zy-n-klad-a-p-nos},
+}
+
+@Article{Morra1999,
+  author   = {Linda G. Morra and Amy C. Friedlander},
+  title    = {Case study evaluations},
+  year     = {1999},
+  abstract = {The Operations Evaluation Department (OED) uses case studies for in-depth consideration of the results of a project or group of projects or to illustrate given points. There is considerable confusion about what is and is not a case study, what is case study methodology, what use can be made of them, and how they should be written-up for dissemination. This report attempts to clarify these issues. It discusses the size of the case study, methods in obtaining and analyzing data in case studies, how to select the number of cases or instances, case study types and site selection including explanatory and descriptive case studies, cases studies that combine methodology, and the distinction between case studies thus far described and case studies used for teaching purposes.},
+  url      = {https://www.semanticscholar.org/paper/d39a820ea820ae2d6197a79711a52c6d9bea1255},
+}
+
+@Article{Vasilova2013,
+  author  = {Mária Vasiľová},
+  journal = {Vedecké state Obchodnej fakulty 2013},
+  title   = {Využitie prípadových štúdií ako výskumnej metódy v marketingu},
+  year    = {2013},
+  url     = {https://www.academia.edu/4611822/Využitie_prípadových_štúdií_ako_výskumnej_metódy_v_marketingu},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
