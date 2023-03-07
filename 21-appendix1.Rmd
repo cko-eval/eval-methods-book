@@ -5,10 +5,11 @@
 Zdroj: [@Sieber2004]
 
 **Čistá súčasná hodnota** Net Present Value (NPV)
-$$\begin{equation} 
+\begin{equation} 
   NPV=\sum_{t=0}^{n} \frac{CF_t}{(1+r)^t}
   (\#eq:npv)
-\end{equation}$$ $NPV<0$ Ide o projekt ekonomicky neprípustný. Výsledná
+\end{equation}
+$NPV<0$ Ide o projekt ekonomicky neprípustný. Výsledná
 čiastka udáva reálne „obohatenie" spoločnosti realizovaním investície. V
 tomto prípade ide o reálne „zoštíhlenie" subjektov zahrnutých do CBA.
 
@@ -18,10 +19,11 @@ $NPV>0$ Ide o projekt ekonomicky prípustný. Čiastka udáva reálne
 ------------------------------------------------------------------------
 
 **Vnútorné výnosové percento z cashflow** Economic Rate of Return (IRR)
-$$\begin{equation} 
+\begin{equation} 
   0=\sum_{t=0}^{n} \frac{CF_t}{(1+IRR)^t}
   (\#eq:irr)
-\end{equation}$$ $IRR<r$ Ide o neprijateľný projekt. Ale je potrebné
+\end{equation}
+$IRR<r$ Ide o neprijateľný projekt. Ale je potrebné
 prihliadnuť na štruktúru tokov, pokiaľ NPV podáva inú informáciu.
 
 $IRR>r$ Ide o prijateľný projekt. Ale je potrebné prihliadnuť na
@@ -30,10 +32,11 @@ $IRR>r$ Ide o prijateľný projekt. Ale je potrebné prihliadnuť na
 ------------------------------------------------------------------------
 
 **Index rentability (NPV/I)** 
-$$\begin{equation} 
+\begin{equation} 
   NPV/I=\frac{\sum_{t=0}^{n} \frac{CF_t}{(1+r)^t}}{I}
   (\#eq:npvi)
-\end{equation}$$ $NPV/I<0$ Ide o neprijateľný projekt. Číslo udáva v
+\end{equation}
+$NPV/I<0$ Ide o neprijateľný projekt. Číslo udáva v
 relatívnom vyjadrení „zoštíhlenie" spoločnosti. Vynásobenie číslom 100,
 udáva percento z pôvodnej hodnoty, o ktorú bola investícia zhodnotená.
 

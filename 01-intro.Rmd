@@ -94,7 +94,7 @@ Chceme zdôrazniť pojem „predovšetkým". Identifikácia a odhad kauzálnych
 implementácie si vyžaduje určitú kvantifikáciu. To sú však dve odlišné
 otázky.
 
-*Atribúcia verzus príspevok* {#otazky}
+### Atribúcia verzus príspevok {#otazky}
 
 Kauzálne otázky sú tie, ktoré „sa snažia porozumieť a posúdiť vzťahy
 príčiny a následku (ako a do akej miery je to, čo sa stalo v dôsledku
