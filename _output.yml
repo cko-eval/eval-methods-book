@@ -6,7 +6,7 @@ bookdown::gitbook:
         <li><a href="./">Evaluácie EÚ fondov</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Publikované s bookdown</a></li>
-    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+    edit: https://github.com/cko-eval/eval-methods-book/edit/main/%s
     download: false
 bookdown::pdf_book:
   includes:
